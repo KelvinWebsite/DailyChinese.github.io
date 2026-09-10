@@ -1,14 +1,9622 @@
 [
   {
     "day": 1,
-    "char": "Nǐ hǎo",
-    "hanzi": "你好",
-    "definition": "Hello"
+    "char": "de / dī",
+    "hanzi": "的",
+    "definition": "Possessive particle / of"
   },
   {
     "day": 2,
-    "char": "Xièxie",
-    "hanzi": "谢谢",
-    "definition": "Thank you"
+    "char": "shì / hai",
+    "hanzi": "是",
+    "definition": "To be / is / yes"
+  },
+  {
+    "day": 3,
+    "char": "bù / bāt",
+    "hanzi": "不",
+    "definition": "Not / no"
+  },
+  {
+    "day": 4,
+    "char": "le / liú",
+    "hanzi": "了",
+    "definition": "Completed action marker"
+  },
+  {
+    "day": 5,
+    "char": "rén / yahn",
+    "hanzi": "人",
+    "definition": "Person / people"
+  },
+  {
+    "day": 6,
+    "char": "wǒ / ngòh",
+    "hanzi": "我",
+    "definition": "I / me"
+  },
+  {
+    "day": 7,
+    "char": "zài / joih",
+    "hanzi": "在",
+    "definition": "At / in / on"
+  },
+  {
+    "day": 8,
+    "char": "yǒu / yáuh",
+    "hanzi": "有",
+    "definition": "To have / there is"
+  },
+  {
+    "day": 9,
+    "char": "tā / keéh",
+    "hanzi": "他",
+    "definition": "He / him"
+  },
+  {
+    "day": 10,
+    "char": "zhè / díh",
+    "hanzi": "这",
+    "definition": "This"
+  },
+  {
+    "day": 11,
+    "char": "gè / go",
+    "hanzi": "个",
+    "definition": "General counter word"
+  },
+  {
+    "day": 12,
+    "char": "men / mùhn",
+    "hanzi": "们",
+    "definition": "Plural suffix for pronouns"
+  },
+  {
+    "day": 13,
+    "char": "zhōng / gūng",
+    "hanzi": "中",
+    "definition": "Middle / center / China"
+  },
+  {
+    "day": 14,
+    "char": "lái / lòih",
+    "hanzi": "来",
+    "definition": "To come"
+  },
+  {
+    "day": 15,
+    "char": "shàng / seuhng",
+    "hanzi": "上",
+    "definition": "Up / above / on"
+  },
+  {
+    "day": 16,
+    "char": "guó / gwok",
+    "hanzi": "国",
+    "definition": "Country / nation"
+  },
+  {
+    "day": 17,
+    "char": "dà / daai",
+    "hanzi": "大",
+    "definition": "Big / large"
+  },
+  {
+    "day": 18,
+    "char": "dì / deih",
+    "hanzi": "地",
+    "definition": "Earth / ground / -ly"
+  },
+  {
+    "day": 19,
+    "char": "dào / dou",
+    "hanzi": "到",
+    "definition": "To arrive / to go to"
+  },
+  {
+    "day": 20,
+    "char": "shuō / syut",
+    "hanzi": "说",
+    "definition": "To speak / say"
+  },
+  {
+    "day": 21,
+    "char": "zǐ / jí2",
+    "hanzi": "子",
+    "definition": "Child / son / seed"
+  },
+  {
+    "day": 22,
+    "char": "hé / wòh",
+    "hanzi": "和",
+    "definition": "And / with"
+  },
+  {
+    "day": 23,
+    "char": "nǐ / néih",
+    "hanzi": "你",
+    "definition": "You"
+  },
+  {
+    "day": 24,
+    "char": "chū / chāt",
+    "hanzi": "出",
+    "definition": "To go out / exit"
+  },
+  {
+    "day": 25,
+    "char": "huì / wuih",
+    "hanzi": "会",
+    "definition": "Can / able to / meeting"
+  },
+  {
+    "day": 26,
+    "char": "kě / hóh",
+    "hanzi": "可",
+    "definition": "Can / may / able"
+  },
+  {
+    "day": 27,
+    "char": "suì / seui",
+    "hanzi": "岁",
+    "definition": "Age / years old"
+  },
+  {
+    "day": 28,
+    "char": "nián / nìhn",
+    "hanzi": "年",
+    "definition": "Year"
+  },
+  {
+    "day": 29,
+    "char": "shēng / sāang",
+    "hanzi": "生",
+    "definition": "Life / birth / student"
+  },
+  {
+    "day": 30,
+    "char": "shí / sìh",
+    "hanzi": "时",
+    "definition": "Time / when"
+  },
+  {
+    "day": 31,
+    "char": "yào / yiu",
+    "hanzi": "要",
+    "definition": "To want / important"
+  },
+  {
+    "day": 32,
+    "char": "jiù / jauhh",
+    "hanzi": "就",
+    "definition": "At once / just / then"
+  },
+  {
+    "day": 33,
+    "char": "kàn / hon",
+    "hanzi": "看",
+    "definition": "To look / see / read"
+  },
+  {
+    "day": 34,
+    "char": "tīng / teng",
+    "hanzi": "听",
+    "definition": "To listen / hear"
+  },
+  {
+    "day": 35,
+    "char": "chī / sek",
+    "hanzi": "吃",
+    "definition": "To eat"
+  },
+  {
+    "day": 36,
+    "char": "hē / yám",
+    "hanzi": "喝",
+    "definition": "To drink"
+  },
+  {
+    "day": 37,
+    "char": "shuǐ / seui",
+    "hanzi": "水",
+    "definition": "Water"
+  },
+  {
+    "day": 38,
+    "char": "fàn / faan",
+    "hanzi": "饭",
+    "definition": "Rice / meal"
+  },
+  {
+    "day": 39,
+    "char": "chá / chàuh",
+    "hanzi": "茶",
+    "definition": "Tea"
+  },
+  {
+    "day": 40,
+    "char": "shū / syū",
+    "hanzi": "书",
+    "definition": "Book"
+  },
+  {
+    "day": 41,
+    "char": "xué / hohk",
+    "hanzi": "学",
+    "definition": "To study / learn"
+  },
+  {
+    "day": 42,
+    "char": "xiào / haauh",
+    "hanzi": "校",
+    "definition": "School"
+  },
+  {
+    "day": 43,
+    "char": "chē / chē",
+    "hanzi": "车",
+    "definition": "Car / vehicle"
+  },
+  {
+    "day": 44,
+    "char": "qián / chín",
+    "hanzi": "钱",
+    "definition": "Money"
+  },
+  {
+    "day": 45,
+    "char": "hǎo / hóu",
+    "hanzi": "好",
+    "definition": "Good"
+  },
+  {
+    "day": 46,
+    "char": "duō / dō",
+    "definition": "Many / much"
+  },
+  {
+    "day": 47,
+    "char": "shǎo / síu",
+    "definition": "Few / little"
+  },
+  {
+    "day": 48,
+    "char": "kuài / faai",
+    "definition": "Fast / quick"
+  },
+  {
+    "day": 49,
+    "char": "gāo / gōu",
+    "definition": "High / tall"
+  },
+  {
+    "day": 50,
+    "char": "lěng / laahng",
+    "hanzi": "冷",
+    "definition": "Cold"
+  },
+  {
+    "day": 51,
+    "char": "rè / yiht",
+    "hanzi": "热",
+    "definition": "Hot"
+  },
+  {
+    "day": 52,
+    "char": "xiǎo / síu",
+    "hanzi": "小",
+    "definition": "Small"
+  },
+  {
+    "day": 53,
+    "char": "yuè / yuht",
+    "hanzi": "月",
+    "definition": "Month / moon"
+  },
+  {
+    "day": 54,
+    "char": "rì / yaht",
+    "hanzi": "日",
+    "definition": "Sun / day"
+  },
+  {
+    "day": 55,
+    "char": "míng / mìhng",
+    "hanzi": "明",
+    "definition": "Bright / clear"
+  },
+  {
+    "day": 56,
+    "char": "bái / baahk",
+    "hanzi": "白",
+    "definition": "White / clear"
+  },
+  {
+    "day": 57,
+    "char": "zì / jih",
+    "hanzi": "字",
+    "definition": "Character / word"
+  },
+  {
+    "day": 58,
+    "char": "cí / chìh",
+    "hanzi": "词",
+    "definition": "Word / term"
+  },
+  {
+    "day": 59,
+    "char": "yǔ / yúh",
+    "hanzi": "语",
+    "definition": "Language / speech"
+  },
+  {
+    "day": 60,
+    "char": "huà / waah",
+    "hanzi": "话",
+    "definition": "Speech / talk"
+  },
+  {
+    "day": 61,
+    "char": "wèn / mahn",
+    "hanzi": "问",
+    "definition": "To ask"
+  },
+  {
+    "day": 62,
+    "char": "dá / daap",
+    "hanzi": "答",
+    "definition": "To answer"
+  },
+  {
+    "day": 63,
+    "char": "xiǎng / séung",
+    "hanzi": "想",
+    "definition": "To think / want"
+  },
+  {
+    "day": 64,
+    "char": "zhī / jī",
+    "hanzi": "知",
+    "definition": "To know"
+  },
+  {
+    "day": 65,
+    "char": "dào / douh",
+    "hanzi": "道",
+    "definition": "Road / way / know"
+  },
+  {
+    "day": 66,
+    "char": "kāi / hōi",
+    "hanzi": "开",
+    "definition": "To open / start"
+  },
+  {
+    "day": 67,
+    "char": "guān / gwaan",
+    "hanzi": "关",
+    "definition": "To close / turn off"
+  },
+  {
+    "day": 68,
+    "char": "mén / mùhn",
+    "hanzi": "门",
+    "definition": "Door / gate"
+  },
+  {
+    "day": 69,
+    "char": "jiā / gā",
+    "hanzi": "家",
+    "definition": "Home / family"
+  },
+  {
+    "day": 70,
+    "char": "chéng / sèhng",
+    "hanzi": "城",
+    "definition": "City / wall"
+  },
+  {
+    "day": 71,
+    "char": "shì / síh",
+    "hanzi": "市",
+    "definition": "City / market"
+  },
+  {
+    "day": 72,
+    "char": "diàn / dim",
+    "hanzi": "店",
+    "definition": "Shop / store"
+  },
+  {
+    "day": 73,
+    "char": "lù / louh",
+    "hanzi": "路",
+    "definition": "Road / path"
+  },
+  {
+    "day": 74,
+    "char": "dōng / dūng",
+    "hanzi": "东",
+    "definition": "East"
+  },
+  {
+    "day": 75,
+    "char": "xī / sāi",
+    "hanzi": "西",
+    "definition": "West"
+  },
+  {
+    "day": 76,
+    "char": "nán / nàahm",
+    "hanzi": "南",
+    "definition": "South"
+  },
+  {
+    "day": 77,
+    "char": "běi / baak",
+    "hanzi": "北",
+    "definition": "North"
+  },
+  {
+    "day": 78,
+    "char": "qián / chìhn",
+    "hanzi": "前",
+    "definition": "Front / before"
+  },
+  {
+    "day": 79,
+    "char": "hòu / hauh",
+    "hanzi": "后",
+    "definition": "Back / behind"
+  },
+  {
+    "day": 80,
+    "char": "zuǒ / jóu",
+    "hanzi": "左",
+    "definition": "Left"
+  },
+  {
+    "day": 81,
+    "char": "yòu / yauhh",
+    "hanzi": "右",
+    "definition": "Right"
+  },
+  {
+    "day": 82,
+    "char": "zǎo / jóu",
+    "hanzi": "早",
+    "definition": "Early / morning"
+  },
+  {
+    "day": 83,
+    "char": "wǎn / máahn",
+    "hanzi": "晚",
+    "definition": "Late / evening"
+  },
+  {
+    "day": 84,
+    "char": "zuó / jok",
+    "hanzi": "昨",
+    "definition": "Yesterday"
+  },
+  {
+    "day": 85,
+    "char": "mǎi / máaih",
+    "hanzi": "买",
+    "definition": "To buy"
+  },
+  {
+    "day": 86,
+    "char": "mài / maaih",
+    "hanzi": "卖",
+    "definition": "To sell"
+  },
+  {
+    "day": 87,
+    "char": "yuǎn / yúhn",
+    "hanzi": "远",
+    "definition": "Far"
+  },
+  {
+    "day": 88,
+    "char": "jìn / gahn",
+    "hanzi": "近",
+    "definition": "Near / close"
+  },
+  {
+    "day": 89,
+    "char": "huài / waahik",
+    "hanzi": "坏",
+    "definition": "Bad"
+  },
+  {
+    "day": 90,
+    "char": "duì / deui",
+    "hanzi": "对",
+    "definition": "Correct / right"
+  },
+  {
+    "day": 91,
+    "char": "cuò / chok",
+    "hanzi": "错",
+    "definition": "Wrong / mistake"
+  },
+  {
+    "day": 92,
+    "char": "xīn / sān",
+    "hanzi": "新",
+    "definition": "New"
+  },
+  {
+    "day": 93,
+    "char": "jiù / gauh",
+    "hanzi": "旧",
+    "definition": "Old / used"
+  },
+  {
+    "day": 94,
+    "char": "míng / mìhng",
+    "hanzi": "名",
+    "definition": "Name / famous"
+  },
+  {
+    "day": 95,
+    "char": "zì / jih",
+    "hanzi": "字",
+    "definition": "Character / letter"
+  },
+  {
+    "day": 96,
+    "char": "xìng / sing",
+    "hanzi": "姓",
+    "definition": "Surname / family name"
+  },
+  {
+    "day": 97,
+    "char": "jiào / giu",
+    "hanzi": "叫",
+    "definition": "To be called / shout"
+  },
+  {
+    "day": 98,
+    "char": "shén / sàhn",
+    "hanzi": "神",
+    "definition": "God / spirit"
+  },
+  {
+    "day": 99,
+    "char": "me / moh",
+    "hanzi": "么",
+    "definition": "Suffix / what (in 什么)"
+  },
+  {
+    "day": 100,
+    "char": "zhè / díh",
+    "hanzi": "这",
+    "definition": "This / these"
+  },
+  {
+    "day": 101,
+    "char": "nà / náh",
+    "hanzi": "那",
+    "definition": "That / those"
+  },
+  {
+    "day": 102,
+    "char": "shí / sìh",
+    "hanzi": "什",
+    "definition": "Ten / mixture (in 什么)"
+  },
+  {
+    "day": 103,
+    "char": "tóng / tùhng",
+    "hanzi": "同",
+    "definition": "Same / alike / with"
+  },
+  {
+    "day": 104,
+    "char": "xué / hohk",
+    "hanzi": "学",
+    "definition": "To study / school"
+  },
+  {
+    "day": 105,
+    "char": "péng / pàahng",
+    "hanzi": "朋",
+    "definition": "Friend (in 朋友)"
+  },
+  {
+    "day": 106,
+    "char": "yǒu / yáuh",
+    "hanzi": "友",
+    "definition": "Friend / companion"
+  },
+  {
+    "day": 107,
+    "char": "ài / oi3",
+    "hanzi": "爱",
+    "definition": "To love / affection"
+  },
+  {
+    "day": 108,
+    "char": "xǐ / héi",
+    "hanzi": "喜",
+    "definition": "Happy / to like (in 喜欢)"
+  },
+  {
+    "day": 109,
+    "char": "huān / fūn",
+    "hanzi": "欢",
+    "definition": "Joyful / pleased"
+  },
+  {
+    "day": 110,
+    "char": "gāo / gōu",
+    "hanzi": "高",
+    "definition": "High / tall"
+  },
+  {
+    "day": 111,
+    "char": "xìng / hing",
+    "hanzi": "兴",
+    "definition": "Interest / flourish (in 高兴)"
+  },
+  {
+    "day": 112,
+    "char": "wèn / mahn",
+    "hanzi": "问",
+    "definition": "To ask / inquire"
+  },
+  {
+    "day": 113,
+    "char": "hǎo / hóu",
+    "hanzi": "好",
+    "definition": "Good / well"
+  },
+  {
+    "day": 114,
+    "char": "xiè / jeh",
+    "hanzi": "谢",
+    "definition": "To thank / decline"
+  },
+  {
+    "day": 115,
+    "char": "bù / bāt",
+    "hanzi": "不",
+    "definition": "No / not (in 不客气)"
+  },
+  {
+    "day": 116,
+    "char": "kè / haak",
+    "hanzi": "客",
+    "definition": "Guest / customer"
+  },
+  {
+    "day": 117,
+    "char": "qì / hei",
+    "hanzi": "气",
+    "definition": "Air / gas / polite manner"
+  },
+  {
+    "day": 118,
+    "char": "zài / joi",
+    "hanzi": "再",
+    "definition": "Again / then"
+  },
+  {
+    "day": 119,
+    "char": "jiàn / gin",
+    "hanzi": "见",
+    "definition": "To see / meet"
+  },
+  {
+    "day": 120,
+    "char": "qǐng /请",
+    "hanzi": "请",
+    "definition": "To please / invite"
+  },
+  {
+    "day": 121,
+    "char": "zuò / joh",
+    "hanzi": "坐",
+    "definition": "To sit / take a seat"
+  },
+  {
+    "day": 122,
+    "char": "duì / deui",
+    "hanzi": "对",
+    "definition": "Right / correct / toward"
+  },
+  {
+    "day": 123,
+    "char": "qǐ / héi",
+    "hanzi": "起",
+    "definition": "To rise / get up"
+  },
+  {
+    "day": 124,
+    "char": "méi / mùhng",
+    "hanzi": "没",
+    "definition": "Have not / without"
+  },
+  {
+    "day": 125,
+    "char": "guān / gwaan",
+    "hanzi": "关",
+    "definition": "Close / relation (in 没关系)"
+  },
+  {
+    "day": 126,
+    "char": "xì / hai6",
+    "hanzi": "系",
+    "definition": "System / connection"
+  },
+  {
+    "day": 127,
+    "char": "bàn / baan",
+    "hanzi": "办",
+    "definition": "To do / manage"
+  },
+  {
+    "day": 128,
+    "char": "gōng / gūng",
+    "hanzi": "公",
+    "definition": "Public / official"
+  },
+  {
+    "day": 129,
+    "char": "shì / si",
+    "hanzi": "事",
+    "definition": "Matter / affair / business"
+  },
+  {
+    "day": 130,
+    "char": "zhǎo / jáu",
+    "hanzi": "找",
+    "definition": "To look for / seek"
+  },
+  {
+    "day": 131,
+    "char": "dào / dou",
+    "hanzi": "到",
+    "definition": "To arrive / reach"
+  },
+  {
+    "day": 132,
+    "char": "gěi /给",
+    "hanzi": "给",
+    "definition": "To give / for"
+  },
+  {
+    "day": 133,
+    "char": "dǎ /打",
+    "hanzi": "打",
+    "definition": "To hit / beat / play"
+  },
+  {
+    "day": 134,
+    "char": "diàn / dim",
+    "hanzi": "电",
+    "definition": "Electricity / lightning"
+  },
+  {
+    "day": 135,
+    "char": "huà / waah",
+    "hanzi": "话",
+    "definition": "Word / talk (in 电话)"
+  },
+  {
+    "day": 136,
+    "char": "zhǔn / jéun",
+    "hanzi": "准",
+    "definition": "Allow / accurate"
+  },
+  {
+    "day": 137,
+    "char": "bèi / bouh",
+    "hanzi": "备",
+    "definition": "Prepared / ready"
+  },
+  {
+    "day": 138,
+    "char": "wán / yùhn",
+    "hanzi": "完",
+    "definition": "Finished / complete"
+  },
+  {
+    "day": 139,
+    "char": "chéng / sèhng",
+    "hanzi": "成",
+    "definition": "To finish / succeed"
+  },
+  {
+    "day": 140,
+    "char": "jiāo / gāau",
+    "hanzi": "交",
+    "definition": "To hand over / intersect"
+  },
+  {
+    "day": 141,
+    "char": "tōng / tūng",
+    "hanzi": "通",
+    "definition": "Through / communicate"
+  },
+  {
+    "day": 142,
+    "char": "dǒng / dúng",
+    "hanzi": "懂",
+    "definition": "To understand"
+  },
+  {
+    "day": 143,
+    "char": "zhī / jī",
+    "hanzi": "知",
+    "definition": "To know / realize"
+  },
+  {
+    "day": 144,
+    "char": "dào / douh",
+    "hanzi": "道",
+    "definition": "Path / way / doctrine"
+  },
+  {
+    "day": 145,
+    "char": "jiǎng / góng",
+    "hanzi": "讲",
+    "definition": "To speak / explain"
+  },
+  {
+    "day": 146,
+    "char": "shuō / syut",
+    "hanzi": "说",
+    "definition": "To speak / talk"
+  },
+  {
+    "day": 147,
+    "char": "dú / duhk",
+    "hanzi": "读",
+    "definition": "To read / study"
+  },
+  {
+    "day": 148,
+    "char": "xiě / sé",
+    "hanzi": "写",
+    "definition": "To write"
+  },
+  {
+    "day": 149,
+    "char": "huà / waak",
+    "hanzi": "画",
+    "definition": "To draw / picture"
+  },
+  {
+    "day": 150,
+    "char": "tīng / tēng",
+    "hanzi": "听",
+    "definition": "To listen / hear"
+  },
+  {
+    "day": 151,
+    "char": "kàn / hon",
+    "hanzi": "看",
+    "definition": "To watch / see"
+  },
+  {
+    "day": 152,
+    "char": "zhàng / jeuhng",
+    "hanzi": "唱",
+    "definition": "To sing"
+  },
+  {
+    "day": 153,
+    "char": "gē / gō",
+    "hanzi": "歌",
+    "definition": "Song"
+  },
+  {
+    "day": 154,
+    "char": "tiào / tiu3",
+    "hanzi": "跳",
+    "definition": "To jump / leap"
+  },
+  {
+    "day": 155,
+    "char": "wǔ / móuh",
+    "hanzi": "舞",
+    "definition": "Dance"
+  },
+  {
+    "day": 156,
+    "char": "yóu / yàuh",
+    "hanzi": "游",
+    "definition": "To swim / wander"
+  },
+  {
+    "day": 157,
+    "char": "xì / hei",
+    "hanzi": "戏",
+    "definition": "Game / play / drama"
+  },
+  {
+    "day": 158,
+    "char": "qiú / kàuh",
+    "hanzi": "球",
+    "definition": "Ball / sphere"
+  },
+  {
+    "day": 159,
+    "char": "pǎo / páau",
+    "hanzi": "跑",
+    "definition": "To run"
+  },
+  {
+    "day": 160,
+    "char": "bù / bouh",
+    "hanzi": "步",
+    "definition": "Step / pace"
+  },
+  {
+    "day": 161,
+    "char": "zǒu / jáu",
+    "hanzi": "走",
+    "definition": "To walk / go"
+  },
+  {
+    "day": 162,
+    "char": "fēi / fēi",
+    "hanzi": "飞",
+    "definition": "To fly"
+  },
+  {
+    "day": 163,
+    "char": "qí / kèih",
+    "hanzi": "骑",
+    "definition": "To ride (horse/bike)"
+  },
+  {
+    "day": 164,
+    "char": "jià / gaa3",
+    "hanzi": "驾",
+    "definition": "To drive / pilot"
+  },
+  {
+    "day": 165,
+    "char": "shǐ / sí2",
+    "hanzi": "驶",
+    "definition": "To sail / drive fast"
+  },
+  {
+    "day": 166,
+    "char": "chuán / syùhn",
+    "hanzi": "船",
+    "definition": "Boat / ship"
+  },
+  {
+    "day": 167,
+    "char": "jī / gēi",
+    "hanzi": "机",
+    "definition": "Machine / engine"
+  },
+  {
+    "day": 168,
+    "char": "f飞机 / fēigei",
+    "hanzi": "飞",
+    "definition": "Already covered, replacing with: 站"
+  },
+  {
+    "day": 169,
+    "char": "zhàn / jaahm",
+    "hanzi": "站",
+    "definition": "To stand / station"
+  },
+  {
+    "day": 170,
+    "char": "tíng / tìhng",
+    "hanzi": "停",
+    "definition": "To stop / pause"
+  },
+  {
+    "day": 171,
+    "char": "děng / dáng",
+    "hanzi": "等",
+    "definition": "To wait / rank"
+  },
+  {
+    "day": 172,
+    "char": "máng / màhng",
+    "hanzi": "忙",
+    "definition": "Busy"
+  },
+  {
+    "day": 173,
+    "char": "xián / hàahn",
+    "hanzi": "闲",
+    "definition": "Idle / free time"
+  },
+  {
+    "day": 174,
+    "char": "lèi / luih",
+    "hanzi": "累",
+    "definition": "Tired / weary"
+  },
+  {
+    "day": 175,
+    "char": "èr / jih",
+    "hanzi": "饿",
+    "definition": "Hungry"
+  },
+  {
+    "day": 176,
+    "char": "kě / hot",
+    "hanzi": "渴",
+    "definition": "Thirsty"
+  },
+  {
+    "day": 177,
+    "char": "bǎo / bóu",
+    "hanzi": "饱",
+    "definition": "Full (satisfied with food)"
+  },
+  {
+    "day": 178,
+    "char": "zuì / jeui",
+    "hanzi": "醉",
+    "definition": "Drunk / intoxicated"
+  },
+  {
+    "day": 179,
+    "char": "shuì / seui",
+    "hanzi": "睡",
+    "definition": "To sleep"
+  },
+  {
+    "day": 180,
+    "char": "jiào / gaau",
+    "hanzi": "觉",
+    "definition": "Sleep / awareness"
+  },
+  {
+    "day": 181,
+    "char": "xǐ / sái",
+    "hanzi": "洗",
+    "definition": "To wash / bathe"
+  },
+  {
+    "day": 182,
+    "char": "liǎn / líhn",
+    "hanzi": "脸",
+    "definition": "Face"
+  },
+  {
+    "day": 183,
+    "char": "yá / ngàuh",
+    "hanzi": "牙",
+    "definition": "Tooth"
+  },
+  {
+    "day": 184,
+    "char": "shuā / cā",
+    "hanzi": "刷",
+    "definition": "To brush / swipe"
+  },
+  {
+    "day": 185,
+    "char": "yī / yī",
+    "hanzi": "衣",
+    "definition": "Clothes / clothing"
+  },
+  {
+    "day": 186,
+    "char": "fú / fùh",
+    "hanzi": "服",
+    "definition": "Clothes / obey"
+  },
+  {
+    "day": 187,
+    "char": "kù / fu",
+    "hanzi": "裤",
+    "definition": "Trousers / pants"
+  },
+  {
+    "day": 188,
+    "char": "xié / hàaih",
+    "hanzi": "鞋",
+    "definition": "Shoes"
+  },
+  {
+    "day": 189,
+    "char": "mào / mouh",
+    "hanzi": "帽",
+    "definition": "Hat / cap"
+  },
+  {
+    "day": 190,
+    "char": "jìng / geng",
+    "hanzi": "镜",
+    "definition": "Glasses / mirror"
+  },
+  {
+    "day": 191,
+    "char": "yǎn / ngáahn",
+    "hanzi": "眼",
+    "definition": "Eye"
+  },
+  {
+    "day": 192,
+    "char": "jīng / jīng",
+    "hanzi": "睛",
+    "definition": "Eyeball"
+  },
+  {
+    "day": 193,
+    "char": "ěr / jíh",
+    "hanzi": "耳",
+    "definition": "Ear"
+  },
+  {
+    "day": 194,
+    "char": "bí / bei",
+    "hanzi": "鼻",
+    "definition": "Nose"
+  },
+  {
+    "day": 195,
+    "char": "zuǐ / jéui",
+    "hanzi": "嘴",
+    "definition": "Mouth"
+  },
+  {
+    "day": 196,
+    "char": "shǒu / sáu",
+    "hanzi": "手",
+    "definition": "Hand"
+  },
+  {
+    "day": 197,
+    "char": "jiǎo / gước",
+    "hanzi": "脚",
+    "definition": "Foot / leg"
+  },
+  {
+    "day": 198,
+    "char": "tóu / tàuh",
+    "hanzi": "头",
+    "definition": "Head"
+  },
+  {
+    "day": 199,
+    "char": "bó / bok",
+    "hanzi": "脖",
+    "definition": "Neck"
+  },
+  {
+    "day": 200,
+    "char": "jiān / gīam",
+    "hanzi": "肩",
+    "definition": "Shoulder"
+  },
+  {
+    "day": 201,
+    "char": "fēng / fūng",
+    "hanzi": "风",
+    "definition": "Wind"
+  },
+  {
+    "day": 202,
+    "char": "yǔ / yúh",
+    "hanzi": "雨",
+    "definition": "Rain"
+  },
+  {
+    "day": 203,
+    "char": "xuě / syut",
+    "hanzi": "雪",
+    "definition": "Snow"
+  },
+  {
+    "day": 204,
+    "char": "yún / wùhn",
+    "hanzi": "云",
+    "definition": "Cloud"
+  },
+  {
+    "day": 205,
+    "char": "kōng / hūng",
+    "hanzi": "空",
+    "definition": "Sky / empty"
+  },
+  {
+    "day": 206,
+    "char": "tiān / tīn",
+    "hanzi": "天",
+    "definition": "Sky / heaven / day"
+  },
+  {
+    "day": 207,
+    "char": "xīng / sīng",
+    "hanzi": "星",
+    "definition": "Star"
+  },
+  {
+    "day": 208,
+    "char": "shān / sāan",
+    "hanzi": "山",
+    "definition": "Mountain / hill"
+  },
+  {
+    "day": 209,
+    "char": "shí / sek",
+    "hanzi": "石",
+    "definition": "Stone / rock"
+  },
+  {
+    "day": 210,
+    "char": "tián / tìhn",
+    "hanzi": "田",
+    "definition": "Field / farm land"
+  },
+  {
+    "day": 211,
+    "char": "tǔ / tóu",
+    "hanzi": "土",
+    "definition": "Earth / soil"
+  },
+  {
+    "day": 212,
+    "char": "mù / muhk",
+    "hanzi": "木",
+    "definition": "Wood / tree"
+  },
+  {
+    "day": 213,
+    "char": "lín / làhm",
+    "hanzi": "林",
+    "definition": "Woods / forest"
+  },
+  {
+    "day": 214,
+    "char": "sēn / sām",
+    "hanzi": "森",
+    "definition": "Forest (dense)"
+  },
+  {
+    "day": 215,
+    "char": "huā / fā",
+    "hanzi": "花",
+    "definition": "Flower / blossom"
+  },
+  {
+    "day": 216,
+    "char": "cǎo / chóu",
+    "hanzi": "草",
+    "definition": "Grass / straw"
+  },
+  {
+    "day": 217,
+    "char": "chóng / chùhng",
+    "hanzi": "虫",
+    "definition": "Insect / worm"
+  },
+  {
+    "day": 218,
+    "char": "niǎo / niu",
+    "hanzi": "鸟",
+    "definition": "Bird"
+  },
+  {
+    "day": 219,
+    "char": "mǎ / máh",
+    "hanzi": "马",
+    "definition": "Horse"
+  },
+  {
+    "day": 220,
+    "char": "niú / ngàuh",
+    "hanzi": "牛",
+    "definition": "Ox / cow / bull"
+  },
+  {
+    "day": 221,
+    "char": "yáng / yèuhng",
+    "hanzi": "羊",
+    "definition": "Sheep / goat"
+  },
+  {
+    "day": 222,
+    "char": "jī / gāi",
+    "hanzi": "鸡",
+    "definition": "Chicken"
+  },
+  {
+    "day": 223,
+    "char": "gǒu / gáu",
+    "hanzi": "狗",
+    "definition": "Dog"
+  },
+  {
+    "day": 224,
+    "char": "zhū / jyū",
+    "hanzi": "猪",
+    "definition": "Pig"
+  },
+  {
+    "day": 225,
+    "char": "māo / māau",
+    "hanzi": "猫",
+    "definition": "Cat"
+  },
+  {
+    "day": 226,
+    "char": "tù / tou3",
+    "hanzi": "兔",
+    "definition": "Rabbit / hare"
+  },
+  {
+    "day": 227,
+    "char": "hǔ / fú",
+    "hanzi": "虎",
+    "definition": "Tiger"
+  },
+  {
+    "day": 228,
+    "char": "lóng / lùhng",
+    "hanzi": "龙",
+    "definition": "Dragon"
+  },
+  {
+    "day": 229,
+    "char": "shé / sèh",
+    "hanzi": "蛇",
+    "definition": "Snake"
+  },
+  {
+    "day": 230,
+    "char": "hóng / hùhng",
+    "hanzi": "红",
+    "definition": "Red"
+  },
+  {
+    "day": 231,
+    "char": "huáng / wòhng",
+    "hanzi": "黄",
+    "definition": "Yellow"
+  },
+  {
+    "day": 232,
+    "char": "lán / làahm",
+    "hanzi": "蓝",
+    "definition": "Blue"
+  },
+  {
+    "day": 233,
+    "char": "lǜ / luhk",
+    "hanzi": "绿",
+    "definition": "Green"
+  },
+  {
+    "day": 234,
+    "char": "hēi / hāk",
+    "hanzi": "黑",
+    "definition": "Black / dark"
+  },
+  {
+    "day": 235,
+    "char": "huī / fū",
+    "hanzi": "灰",
+    "definition": "Grey / ash"
+  },
+  {
+    "day": 236,
+    "char": "zǐ / jí2",
+    "hanzi": "紫",
+    "definition": "Purple / violet"
+  },
+  {
+    "day": 237,
+    "char": "fěn / fán",
+    "hanzi": "粉",
+    "definition": "Pink / powder"
+  },
+  {
+    "day": 238,
+    "char": "zōng / jūng",
+    "hanzi": "棕",
+    "definition": "Brown / palm tree"
+  },
+  {
+    "day": 239,
+    "char": "cháng / chèuhng",
+    "hanzi": "长",
+    "definition": "Long"
+  },
+  {
+    "day": 240,
+    "char": "duǎn / dyúen",
+    "hanzi": "短",
+    "definition": "Short (in length)"
+  },
+  {
+    "day": 241,
+    "char": "pàng / puhng",
+    "hanzi": "胖",
+    "definition": "Fat / plump"
+  },
+  {
+    "day": 242,
+    "char": "shòu / sauh",
+    "hanzi": "瘦",
+    "definition": "Thin / lean"
+  },
+  {
+    "day": 243,
+    "char": "màn / maahn",
+    "hanzi": "慢",
+    "definition": "Slow"
+  },
+  {
+    "day": 244,
+    "char": "lǎo / lóu",
+    "hanzi": "老",
+    "definition": "Old / aged"
+  },
+  {
+    "day": 245,
+    "char": "měi / méih",
+    "hanzi": "美",
+    "definition": "Beautiful / pretty"
+  },
+  {
+    "day": 246,
+    "char": "chǒu / cháau",
+    "hanzi": "丑",
+    "definition": "Ugly / disgraceful"
+  },
+  {
+    "day": 247,
+    "char": "xiāng / hēung",
+    "hanzi": "香",
+    "definition": "Fragrant / sweet-smelling"
+  },
+  {
+    "day": 248,
+    "char": "tián / tìhm",
+    "hanzi": "甜",
+    "definition": "Sweet"
+  },
+  {
+    "day": 249,
+    "char": "kǔ / fú",
+    "hanzi": "苦",
+    "definition": "Bitter"
+  },
+  {
+    "day": 250,
+    "char": "là / laaht",
+    "hanzi": "辣",
+    "definition": "Spicy / hot"
+  },
+  {
+    "day": 251,
+    "char": "suān / syūn",
+    "hanzi": "酸",
+    "definition": "Sour"
+  },
+  {
+    "day": 252,
+    "char": "ruǎn / yúhn",
+    "hanzi": "软",
+    "definition": "Soft / flexible"
+  },
+  {
+    "day": 253,
+    "char": "yìng / ngaahng",
+    "hanzi": "硬",
+    "definition": "Hard / firm"
+  },
+  {
+    "day": 254,
+    "char": "fù / fú",
+    "hanzi": "父",
+    "definition": "Father"
+  },
+  {
+    "day": 255,
+    "char": "mǔ / móuh",
+    "hanzi": "母",
+    "definition": "Mother"
+  },
+  {
+    "day": 256,
+    "char": "bà / bàh",
+    "hanzi": "爸",
+    "definition": "Dad / pa"
+  },
+  {
+    "day": 257,
+    "char": "mā / mā",
+    "hanzi": "妈",
+    "definition": "Mum / ma"
+  },
+  {
+    "day": 258,
+    "char": "gē / gō",
+    "hanzi": "哥",
+    "definition": "Older brother"
+  },
+  {
+    "day": 259,
+    "char": "dì / daih",
+    "hanzi": "弟",
+    "definition": "Younger brother"
+  },
+  {
+    "day": 260,
+    "char": "jiě / jē",
+    "hanzi": "姐",
+    "definition": "Older sister"
+  },
+  {
+    "day": 261,
+    "char": "mèi / muih",
+    "hanzi": "妹",
+    "definition": "Younger sister"
+  },
+  {
+    "day": 262,
+    "char": "yé / yèh",
+    "hanzi": "爷",
+    "definition": "Grandfather"
+  },
+  {
+    "day": 263,
+    "char": "nǎi / náai",
+    "hanzi": "奶",
+    "definition": "Grandmother / milk"
+  },
+  {
+    "day": 264,
+    "char": "shū / sūk",
+    "hanzi": "叔",
+    "definition": "Uncle"
+  },
+  {
+    "day": 265,
+    "char": "gū / gū",
+    "hanzi": "姑",
+    "definition": "Aunt"
+  },
+  {
+    "day": 266,
+    "char": "fū / fū",
+    "hanzi": "夫",
+    "definition": "Husband / man"
+  },
+  {
+    "day": 267,
+    "char": "qī / cài",
+    "hanzi": "妻",
+    "definition": "Wife"
+  },
+  {
+    "day": 268,
+    "char": "ér / yìh",
+    "hanzi": "儿",
+    "definition": "Son / child"
+  },
+  {
+    "day": 269,
+    "char": "nǚ / néuih",
+    "hanzi": "女",
+    "definition": "Female / daughter"
+  },
+  {
+    "day": 270,
+    "char": "qīn / chān",
+    "hanzi": "亲",
+    "definition": "Relative / close"
+  },
+  {
+    "day": 271,
+    "char": "pá / pàh",
+    "hanzi": "爬",
+    "definition": "To climb / crawl"
+  },
+  {
+    "day": 272,
+    "char": "gǔn / gwán",
+    "hanzi": "滚",
+    "definition": "To roll / boil"
+  },
+  {
+    "day": 273,
+    "char": "diē / dit",
+    "hanzi": "跌",
+    "definition": "To fall / drop"
+  },
+  {
+    "day": 274,
+    "char": "shuāi / seut",
+    "hanzi": "摔",
+    "definition": "To stumble / throw down"
+  },
+  {
+    "day": 275,
+    "char": "ná / nàh",
+    "hanzi": "拿",
+    "definition": "To hold / take"
+  },
+  {
+    "day": 276,
+    "char": "fàng / fong",
+    "hanzi": "放",
+    "definition": "To put / place / release"
+  },
+  {
+    "day": 277,
+    "char": "tí / tàih",
+    "hanzi": "提",
+    "definition": "To lift / carry in hand"
+  },
+  {
+    "day": 278,
+    "char": "káng / kòng",
+    "hanzi": "扛",
+    "definition": "To carry on shoulder"
+  },
+  {
+    "day": 279,
+    "char": "tuī / tēui",
+    "hanzi": "推",
+    "definition": "To push"
+  },
+  {
+    "day": 280,
+    "char": "lā / lāai",
+    "hanzi": "拉",
+    "definition": "To pull"
+  },
+  {
+    "day": 281,
+    "char": "bān / būan",
+    "hanzi": "搬",
+    "definition": "To move / relocate"
+  },
+  {
+    "day": 282,
+    "char": "yùn / wahn",
+    "hanzi": "运",
+    "definition": "To transport / fortune"
+  },
+  {
+    "day": 283,
+    "char": "qiē / chit",
+    "hanzi": "切",
+    "definition": "To cut / slice"
+  },
+  {
+    "day": 284,
+    "char": "gē / got",
+    "hanzi": "割",
+    "definition": "To cut / reap / mower"
+  },
+  {
+    "day": 285,
+    "char": "jiǎn / jīn",
+    "hanzi": "剪",
+    "definition": "To cut with scissors"
+  },
+  {
+    "day": 286,
+    "char": "tiē / tēip",
+    "hanzi": "贴",
+    "definition": "To paste / stick / glue"
+  },
+  {
+    "day": 287,
+    "char": "sǎo / sou3",
+    "hanzi": "扫",
+    "definition": "To sweep"
+  },
+  {
+    "day": 288,
+    "char": "cā / chaat",
+    "hanzi": "擦",
+    "definition": "To wipe / rub / clean"
+  },
+  {
+    "day": 289,
+    "char": "chuān / cyūn",
+    "hanzi": "穿",
+    "definition": "To wear / thread through"
+  },
+  {
+    "day": 290,
+    "char": "tuō / tyut",
+    "hanzi": "脱",
+    "definition": "To take off (clothing)"
+  },
+  {
+    "day": 291,
+    "char": "dài / daai3",
+    "hanzi": "戴",
+    "definition": "To wear (hat/glasses)"
+  },
+  {
+    "day": 292,
+    "char": "zhāi / jaak",
+    "hanzi": "摘",
+    "definition": "To pick / pluck / take off"
+  },
+  {
+    "day": 293,
+    "char": "guà / gwaa3",
+    "hanzi": "挂",
+    "definition": "To hang / suspend"
+  },
+  {
+    "day": 294,
+    "char": "diū / dīu",
+    "hanzi": "丢",
+    "definition": "To lose / throw away"
+  },
+  {
+    "day": 295,
+    "char": "jiǎn / gím",
+    "hanzi": "捡",
+    "definition": "To pick up / collect"
+  },
+  {
+    "day": 296,
+    "char": "mō / mō",
+    "hanzi": "摸",
+    "definition": "To touch / stroke"
+  },
+  {
+    "day": 297,
+    "char": "bào / pouh",
+    "hanzi": "抱",
+    "definition": "To hug / embrace"
+  },
+  {
+    "day": 298,
+    "char": "bèi / bui3",
+    "hanzi": "背",
+    "definition": "To carry on back"
+  },
+  {
+    "day": 299,
+    "char": "bāo / bāau",
+    "hanzi": "包",
+    "definition": "Bag / wrap / package"
+  },
+  {
+    "day": 300,
+    "char": "xīng / sīng",
+    "hanzi": "兴",
+    "definition": "Prosper / interest"
+  },
+  {
+    "day": 301,
+    "char": "chī / hek",
+    "hanzi": "吃",
+    "definition": "To eat / consume"
+  },
+  {
+    "day": 302,
+    "char": "hē / yam",
+    "hanzi": "喝",
+    "definition": "To drink"
+  },
+  {
+    "day": 303,
+    "char": "cháng / seung",
+    "hanzi": "尝",
+    "definition": "To taste / try food"
+  },
+  {
+    "day": 304,
+    "char": "wén / man",
+    "hanzi": "闻",
+    "definition": "To smell / hear news"
+  },
+  {
+    "day": 305,
+    "char": "qiáo / kiu",
+    "hanzi": "瞧",
+    "definition": "To look / see (colloquial)"
+  },
+  {
+    "day": 306,
+    "char": "tiào / tiu",
+    "hanzi": "眺",
+    "definition": "To survey from afar"
+  },
+  {
+    "day": 307,
+    "char": "shì / si",
+    "hanzi": "视",
+    "definition": "To look at / inspect"
+  },
+  {
+    "day": 308,
+    "char": "zhù / jyu",
+    "hanzi": "注",
+    "definition": "To pour / focus / pay attention"
+  },
+  {
+    "day": 309,
+    "char": "cān / chaam",
+    "hanzi": "参",
+    "definition": "To participate / ginseng"
+  },
+  {
+    "day": 310,
+    "char": "jiā / gaa",
+    "hanzi": "加",
+    "definition": "To add / plus / increase"
+  },
+  {
+    "day": 311,
+    "char": "bāng / bong",
+    "hanzi": "帮",
+    "definition": "To help / assist"
+  },
+  {
+    "day": 312,
+    "char": "zhù / jo",
+    "hanzi": "助",
+    "definition": "Aid / assistance"
+  },
+  {
+    "day": 313,
+    "char": "jiù / gau",
+    "hanzi": "救",
+    "definition": "To save / rescue"
+  },
+  {
+    "day": 314,
+    "char": "zhì / ji",
+    "hanzi": "治",
+    "definition": "To cure / govern / treat"
+  },
+  {
+    "day": 315,
+    "char": "bìng / beng",
+    "hanzi": "病",
+    "definition": "Illness / disease / sick"
+  },
+  {
+    "day": 316,
+    "char": "yào / yeuk",
+    "hanzi": "药",
+    "definition": "Medicine / drug"
+  },
+  {
+    "day": 317,
+    "char": "yī / yī",
+    "hanzi": "医",
+    "definition": "Medical / doctor"
+  },
+  {
+    "day": 318,
+    "char": "yuàn / yun",
+    "hanzi": "院",
+    "definition": "Courtyard / institution / hospital"
+  },
+  {
+    "day": 319,
+    "char": "shēng / sang",
+    "hanzi": "生",
+    "definition": "Person / birth / student"
+  },
+  {
+    "day": 320,
+    "char": "shī / si",
+    "hanzi": "师",
+    "definition": "Teacher / master / expert"
+  },
+  {
+    "day": 321,
+    "char": "xiào / haau",
+    "hanzi": "校",
+    "definition": "School / military rank"
+  },
+  {
+    "day": 322,
+    "char": "jiǎng / gong",
+    "hanzi": "奖",
+    "definition": "Award / reward / prize"
+  },
+  {
+    "day": 323,
+    "char": "chéng / cing",
+    "hanzi": "惩",
+    "definition": "To punish / penalize"
+  },
+  {
+    "day": 324,
+    "char": "fá / fat",
+    "hanzi": "罚",
+    "definition": "Penalty / punishment"
+  },
+  {
+    "day": 325,
+    "char": "kǎo / haau",
+    "hanzi": "考",
+    "definition": "To test / examine / inspect"
+  },
+  {
+    "day": 326,
+    "char": "shì / si",
+    "hanzi": "试",
+    "definition": "To test / try / attempt"
+  },
+  {
+    "day": 327,
+    "char": "fēn / fan",
+    "hanzi": "分",
+    "definition": "To divide / mark / minute"
+  },
+  {
+    "day": 328,
+    "char": "dé / dak",
+    "hanzi": "得",
+    "definition": "To get / gain / obtain"
+  },
+  {
+    "day": 329,
+    "char": "shī / sat",
+    "hanzi": "失",
+    "definition": "To lose / miss / failure"
+  },
+  {
+    "day": 330,
+    "char": "bài / baai",
+    "hanzi": "败",
+    "definition": "Defeat / failure / ruin"
+  },
+  {
+    "day": 331,
+    "char": "shèng / sing",
+    "hanzi": "胜",
+    "definition": "Victory / win / excel"
+  },
+  {
+    "day": 332,
+    "char": "lì / lei",
+    "hanzi": "利",
+    "definition": "Benefit / profit / sharp"
+  },
+  {
+    "day": 333,
+    "char": "fù / fu",
+    "hanzi": "负",
+    "definition": "To bear / lose / negative"
+  },
+  {
+    "day": 334,
+    "char": "zhǎn / zin",
+    "hanzi": "展",
+    "definition": "To expand / spread / exhibit"
+  },
+  {
+    "day": 335,
+    "char": "kāi / hoi",
+    "hanzi": "开",
+    "definition": "To open / unroll / operate"
+  },
+  {
+    "day": 336,
+    "char": "bǐ / bei",
+    "hanzi": "比",
+    "definition": "To compare / ratio / than"
+  },
+  {
+    "day": 337,
+    "char": "jiào / gaau",
+    "hanzi": "较",
+    "definition": "Relatively / compared to"
+  },
+  {
+    "day": 338,
+    "char": "qīng / cing",
+    "hanzi": "轻",
+    "definition": "Light (weight) / gentle"
+  },
+  {
+    "day": 339,
+    "char": "zhòng / chung",
+    "hanzi": "重",
+    "definition": "Heavy / serious / important"
+  },
+  {
+    "day": 340,
+    "char": "shēn / sam",
+    "hanzi": "深",
+    "definition": "Deep / dark (color)"
+  },
+  {
+    "day": 341,
+    "char": "qiǎn / chin",
+    "hanzi": "浅",
+    "definition": "Shallow / superficial"
+  },
+  {
+    "day": 342,
+    "char": "kuān / fun",
+    "hanzi": "宽",
+    "definition": "Wide / broad / relaxed"
+  },
+  {
+    "day": 343,
+    "char": "zhǎi / zaak",
+    "hanzi": "窄",
+    "definition": "Narrow / tight"
+  },
+  {
+    "day": 344,
+    "char": "gāo / gou",
+    "hanzi": "高",
+    "definition": "High / tall / superior"
+  },
+  {
+    "day": 345,
+    "char": "dī / dai",
+    "hanzi": "低",
+    "definition": "Low / downward"
+  },
+  {
+    "day": 346,
+    "char": "yuǎn / yuen",
+    "hanzi": "远",
+    "definition": "Far / distant"
+  },
+  {
+    "day": 347,
+    "char": "jìn / gan",
+    "hanzi": "近",
+    "definition": "Near / close"
+  },
+  {
+    "day": 348,
+    "char": "kuài / faai",
+    "hanzi": "快",
+    "definition": "Fast / quick / happy"
+  },
+  {
+    "day": 349,
+    "char": "màn / maan",
+    "hanzi": "慢",
+    "definition": "Slow / sluggish"
+  },
+  {
+    "day": 350,
+    "char": "zǎo / zou",
+    "hanzi": "早",
+    "definition": "Early / morning"
+  },
+  {
+    "day": 351,
+    "char": "wǎn / maan",
+    "hanzi": "晚",
+    "definition": "Late / evening / night"
+  },
+  {
+    "day": 352,
+    "char": "qíng / cing",
+    "hanzi": "晴",
+    "definition": "Fine / sunny weather"
+  },
+  {
+    "day": 353,
+    "char": "yīn / yam",
+    "hanzi": "阴",
+    "definition": "Cloudy / overcast / shade"
+  },
+  {
+    "day": 354,
+    "char": "liáng / leung",
+    "hanzi": "凉",
+    "definition": "Cool / cold"
+  },
+  {
+    "day": 355,
+    "char": "nuǎn / nyun",
+    "hanzi": "暖",
+    "definition": "Warm"
+  },
+  {
+    "day": 356,
+    "char": "shī / sap",
+    "hanzi": "湿",
+    "definition": "Wet / damp / humid"
+  },
+  {
+    "day": 357,
+    "char": "gān / gon",
+    "hanzi": "干",
+    "definition": "Dry / clean / do"
+  },
+  {
+    "day": 358,
+    "char": "jìng / zing",
+    "hanzi": "净",
+    "definition": "Clean / pure / net"
+  },
+  {
+    "day": 359,
+    "char": "zāng / jong",
+    "hanzi": "脏",
+    "definition": "Dirty / filthy / internal organ"
+  },
+  {
+    "day": 360,
+    "char": "luàn / lyun",
+    "hanzi": "乱",
+    "definition": "Messy / chaotic / random"
+  },
+  {
+    "day": 361,
+    "char": "zhěng / jing",
+    "hanzi": "整",
+    "definition": "Whole / complete / tidy"
+  },
+  {
+    "day": 362,
+    "char": "qí / cai",
+    "hanzi": "齐",
+    "definition": "Even / uniform / together"
+  },
+  {
+    "day": 363,
+    "char": "píng / ping",
+    "hanzi": "平",
+    "definition": "Flat / smooth / peaceful"
+  },
+  {
+    "day": 364,
+    "char": "zhí / jik",
+    "hanzi": "直",
+    "definition": "Straight / vertical / frank"
+  },
+  {
+    "day": 365,
+    "char": "wān / waan",
+    "hanzi": "弯",
+    "definition": "Curved / bend / twist"
+  },
+  {
+    "day": 366,
+    "char": "ruì / jeui",
+    "hanzi": "锐",
+    "definition": "Sharp / acute"
+  },
+  {
+    "day": 367,
+    "char": "dùn / deun",
+    "hanzi": "钝",
+    "definition": "Blunt / dull (not sharp)"
+  },
+  {
+    "day": 368,
+    "char": "hòu / hau",
+    "hanzi": "厚",
+    "definition": "Thick / kind / deep"
+  },
+  {
+    "day": 369,
+    "char": "bó / bok",
+    "hanzi": "薄",
+    "definition": "Thin / flimsy / slight"
+  },
+  {
+    "day": 370,
+    "char": "jiān / gin",
+    "hanzi": "坚",
+    "definition": "Firm / solid / strong"
+  },
+  {
+    "day": 371,
+    "char": "qiáng / keung",
+    "hanzi": "强",
+    "definition": "Strong / powerful"
+  },
+  {
+    "day": 372,
+    "char": "ruò / yeuk",
+    "hanzi": "弱",
+    "definition": "Weak / feeble"
+  },
+  {
+    "day": 373,
+    "char": "yǒng / yung",
+    "hanzi": "勇",
+    "definition": "Brave / courageous"
+  },
+  {
+    "day": 374,
+    "char": "qiè / hip",
+    "hanzi": "怯",
+    "definition": "Cowardly / timid"
+  },
+  {
+    "day": 375,
+    "char": "máng / mong",
+    "hanzi": "忙",
+    "definition": "Busy / hurried"
+  },
+  {
+    "day": 376,
+    "char": "xián / haan",
+    "hanzi": "闲",
+    "definition": "Idle / unoccupied"
+  },
+  {
+    "day": 377,
+    "char": "lèi / lui",
+    "hanzi": "累",
+    "definition": "Tired / fatigue"
+  },
+  {
+    "day": 378,
+    "char": "xiū / yau",
+    "hanzi": "休",
+    "definition": "Rest / stop"
+  },
+  {
+    "day": 379,
+    "char": "xí / zaap",
+    "hanzi": "习",
+    "definition": "Practice / custom / learn"
+  },
+  {
+    "day": 380,
+    "char": "wán / wun",
+    "hanzi": "玩",
+    "definition": "To play / toy / enjoy"
+  },
+  {
+    "day": 381,
+    "char": "lè / lok",
+    "hanzi": "乐",
+    "definition": "Happy / music / joy"
+  },
+  {
+    "day": 382,
+    "char": "xǐ / hei",
+    "hanzi": "喜",
+    "definition": "Joy / happy / like"
+  },
+  {
+    "day": 383,
+    "char": "nù / nou",
+    "hanzi": "怒",
+    "definition": "Anger / angry / fury"
+  },
+  {
+    "day": 384,
+    "char": "āi / oi",
+    "hanzi": "哀",
+    "definition": "Sorrow / grief / pity"
+  },
+  {
+    "day": 385,
+    "char": "jīng / ging",
+    "hanzi": "惊",
+    "definition": "Startle / shock / surprise"
+  },
+  {
+    "day": 386,
+    "char": "kǒng / hung",
+    "hanzi": "恐",
+    "definition": "Fear / dread / scare"
+  },
+  {
+    "day": 387,
+    "char": "jù / geui",
+    "hanzi": "惧",
+    "definition": "Dread / fear"
+  },
+  {
+    "day": 388,
+    "char": "ài / oi",
+    "hanzi": "爱",
+    "definition": "Love / affection"
+  },
+  {
+    "day": 389,
+    "char": "hèn / han",
+    "hanzi": "恨",
+    "definition": "Hatred / to hate"
+  },
+  {
+    "day": 390,
+    "char": "chóu / sau",
+    "hanzi": "愁",
+    "definition": "Worry / anxiety / sorrow"
+  },
+  {
+    "day": 391,
+    "char": "xiào / siu",
+    "hanzi": "笑",
+    "definition": "To smile / laugh"
+  },
+  {
+    "day": 392,
+    "char": "kū / huk",
+    "hanzi": "哭",
+    "definition": "To cry / weep"
+  },
+  {
+    "day": 393,
+    "char": "tòng / tung",
+    "hanzi": "痛",
+    "definition": "Pain / ache / painful"
+  },
+  {
+    "day": 394,
+    "char": "yǎng / yeung",
+    "hanzi": "痒",
+    "definition": "Itchy / itch"
+  },
+  {
+    "day": 395,
+    "char": "shū / syu",
+    "hanzi": "舒",
+    "definition": "Comfortable / stretch"
+  },
+  {
+    "day": 396,
+    "char": "fú / fuk",
+    "hanzi": "服",
+    "definition": "Clothes / convince / submit"
+  },
+  {
+    "day": 397,
+    "char": "mǎn / mun",
+    "hanzi": "满",
+    "definition": "Full / filled / satisfied"
+  },
+  {
+    "day": 398,
+    "char": "zú / juk",
+    "hanzi": "足",
+    "definition": "Foot / enough / sufficient"
+  },
+  {
+    "day": 399,
+    "char": "xīn / sam",
+    "hanzi": "心",
+    "definition": "Heart / mind / core"
+  },
+  {
+    "day": 400,
+    "char": "yì / ji",
+    "hanzi": "意",
+    "definition": "Idea / meaning / intention"
+  },
+  {
+    "day": 401,
+    "char": "qíng / cing",
+    "hanzi": "情",
+    "definition": "Feeling / emotion / situation"
+  },
+  {
+    "day": 402,
+    "char": "gǎn / gam",
+    "hanzi": "感",
+    "definition": "Sense / feeling / emotion"
+  },
+  {
+    "day": 403,
+    "char": "niàn / nim",
+    "hanzi": "念",
+    "definition": "To read / miss / idea"
+  },
+  {
+    "day": 404,
+    "char": "xiǎng / soeng",
+    "hanzi": "想",
+    "definition": "To think / want / miss"
+  },
+  {
+    "day": 405,
+    "char": "wàng / mong",
+    "hanzi": "望",
+    "definition": "To hope / look towards / expect"
+  },
+  {
+    "day": 406,
+    "char": "pàn / paan",
+    "hanzi": "盼",
+    "definition": "To look forward to / hope"
+  },
+  {
+    "day": 407,
+    "char": "qī / kei",
+    "hanzi": "期",
+    "definition": "Period / time / phase"
+  },
+  {
+    "day": 408,
+    "char": "daì / doi",
+    "hanzi": "待",
+    "definition": "To wait / treat / deal with"
+  },
+  {
+    "day": 409,
+    "char": "xìn / seon",
+    "hanzi": "信",
+    "definition": "Letter / trust / believe"
+  },
+  {
+    "day": 410,
+    "char": "rèn / yam",
+    "hanzi": "任",
+    "definition": "To appoint / trust / responsibility"
+  },
+  {
+    "day": 411,
+    "char": "cè / sak",
+    "hanzi": "侧",
+    "definition": "Side / incline"
+  },
+  {
+    "day": 412,
+    "char": "páng / pong",
+    "hanzi": "旁",
+    "definition": "Side / beside / other"
+  },
+  {
+    "day": 413,
+    "char": "biān / bin",
+    "hanzi": "边",
+    "definition": "Edge / side / margin"
+  },
+  {
+    "day": 414,
+    "char": "miàn / min",
+    "hanzi": "面",
+    "definition": "Face / side / noodle"
+  },
+  {
+    "day": 415,
+    "char": "xiàng / hoeng",
+    "hanzi": "向",
+    "definition": "Towards / direction / face"
+  },
+  {
+    "day": 416,
+    "char": "wǎng / wong",
+    "hanzi": "往",
+    "definition": "Toward / past / go"
+  },
+  {
+    "day": 417,
+    "char": "guò / gwo",
+    "hanzi": "过",
+    "definition": "To pass / cross / expert (suffix)"
+  },
+  {
+    "day": 418,
+    "char": "qù / heoi",
+    "hanzi": "去",
+    "definition": "To go / leave / depart"
+  },
+  {
+    "day": 419,
+    "char": "lái / loi",
+    "hanzi": "来",
+    "definition": "To come / arrive / future"
+  },
+  {
+    "day": 420,
+    "char": "huí / wui",
+    "hanzi": "回",
+    "definition": "To return / circle / turn around"
+  },
+  {
+    "day": 421,
+    "char": "zhuǎn / jyun",
+    "hanzi": "转",
+    "definition": "To turn / rotate / transfer"
+  },
+  {
+    "day": 422,
+    "char": "dǎo / dou",
+    "hanzi": "倒",
+    "definition": "To fall / pour / upside down"
+  },
+  {
+    "day": 423,
+    "char": "diē / dit",
+    "hanzi": "跌",
+    "definition": "To fall / drop / tumble"
+  },
+  {
+    "day": 424,
+    "char": "chōng / cung",
+    "hanzi": "冲",
+    "definition": "To rush / dash / rinse"
+  },
+  {
+    "day": 425,
+    "char": "zhuàng / jong",
+    "hanzi": "撞",
+    "definition": "To crash / bump / collide"
+  },
+  {
+    "day": 426,
+    "char": "pèng / pung",
+    "hanzi": "碰",
+    "definition": "To touch / bump / meet"
+  },
+  {
+    "day": 427,
+    "char": "chù / cuk",
+    "hanzi": "触",
+    "definition": "To touch / contact / shock"
+  },
+  {
+    "day": 428,
+    "char": "jiē / zip",
+    "hanzi": "接",
+    "definition": "To receive / connect / catch"
+  },
+  {
+    "day": 429,
+    "char": "lǐng / ling",
+    "hanzi": "领",
+    "definition": "To lead / collar / receive"
+  },
+  {
+    "day": 430,
+    "char": "dǎo / dou",
+    "hanzi": "导",
+    "definition": "To guide / lead / direct"
+  },
+  {
+    "day": 431,
+    "char": "yǐn / yan",
+    "hanzi": "引",
+    "definition": "To pull / lead / attract"
+  },
+  {
+    "day": 432,
+    "char": "lā / laai",
+    "hanzi": "拉",
+    "definition": "To pull / drag / play (instrument)"
+  },
+  {
+    "day": 433,
+    "char": "tuī / teoi",
+    "hanzi": "推",
+    "definition": "To push / shove / defer"
+  },
+  {
+    "day": 434,
+    "char": "yā / aat",
+    "hanzi": "压",
+    "definition": "To press / hold down / pressure"
+  },
+  {
+    "day": 435,
+    "char": "tuó / to",
+    "hanzi": "托",
+    "definition": "To support with palm / entrust"
+  },
+  {
+    "day": 436,
+    "char": "jǔ / geui",
+    "hanzi": "举",
+    "definition": "To lift / raise / elevate"
+  },
+  {
+    "day": 437,
+    "char": "fēi / fei",
+    "hanzi": "飞",
+    "definition": "To fly / hover"
+  },
+  {
+    "day": 438,
+    "char": "pao / paau",
+    "hanzi": "跑",
+    "definition": "To run / sprint"
+  },
+  {
+    "day": 439,
+    "char": "bù / bou",
+    "hanzi": "步",
+    "definition": "Step / pace / walk"
+  },
+  {
+    "day": 440,
+    "char": "zǒu / zau",
+    "hanzi": "走",
+    "definition": "To walk / go / leave"
+  },
+  {
+    "day": 441,
+    "char": "xíng / hang",
+    "hanzi": "行",
+    "definition": "To walk / travel / OK / line"
+  },
+  {
+    "day": 442,
+    "char": "dào / dou",
+    "hanzi": "到",
+    "definition": "To arrive / reach / until"
+  },
+  {
+    "day": 443,
+    "char": "dá / daat",
+    "hanzi": "达",
+    "definition": "To reach / attain / achieve"
+  },
+  {
+    "day": 444,
+    "char": "zhì / ji",
+    "hanzi": "至",
+    "definition": "To / until / utmost"
+  },
+  {
+    "day": 445,
+    "char": "suǒ / so",
+    "hanzi": "所",
+    "definition": "Place / location / marker"
+  },
+  {
+    "day": 446,
+    "char": "zài / joi",
+    "hanzi": "在",
+    "definition": "At / in / existing"
+  },
+  {
+    "day": 447,
+    "char": "chù / syu",
+    "hanzi": "处",
+    "definition": "Place / department / deal with"
+  },
+  {
+    "day": 448,
+    "char": "fāng / fong",
+    "hanzi": "方",
+    "definition": "Square / direction / side"
+  },
+  {
+    "day": 449,
+    "char": "xiāng / hoeng",
+    "hanzi": "乡",
+    "definition": "Village / native place / township"
+  },
+  {
+    "day": 450,
+    "char": "cūn / cyun",
+    "hanzi": "村",
+    "definition": "Village / hamlet"
+  },
+  {
+    "day": 451,
+    "char": "zhèn / zan",
+    "hanzi": "镇",
+    "definition": "Town / military post / calm"
+  },
+  {
+    "day": 452,
+    "char": "chéng / sing",
+    "hanzi": "城",
+    "definition": "City / town / wall"
+  },
+  {
+    "day": 453,
+    "char": "shì / si",
+    "hanzi": "市",
+    "definition": "City / market / trade"
+  },
+  {
+    "day": 454,
+    "char": "jiē / gaai",
+    "hanzi": "街",
+    "definition": "Street / avenue"
+  },
+  {
+    "day": 455,
+    "char": "lù / lou",
+    "hanzi": "路",
+    "definition": "Road / path / route"
+  },
+  {
+    "day": 456,
+    "char": "dào / dou",
+    "hanzi": "道",
+    "definition": "Path / way / road / doctrine"
+  },
+  {
+    "day": 457,
+    "char": "qiáo / kiu",
+    "hanzi": "桥",
+    "definition": "Bridge"
+  },
+  {
+    "day": 458,
+    "char": "tíng / ting",
+    "hanzi": "停",
+    "definition": "To stop / pause / park"
+  },
+  {
+    "day": 459,
+    "char": "liú / lau",
+    "hanzi": "留",
+    "definition": "To stay / remain / leave behind"
+  },
+  {
+    "day": 460,
+    "char": "zhù / jyu",
+    "hanzi": "住",
+    "definition": "To live / stay / stop"
+  },
+  {
+    "day": 461,
+    "char": "kè / haak",
+    "hanzi": "客",
+    "definition": "Guest / visitor / customer"
+  },
+  {
+    "day": 462,
+    "char": "zhǔ / jyu",
+    "hanzi": "主",
+    "definition": "Master / host / main"
+  },
+  {
+    "day": 463,
+    "char": "bīn / ban",
+    "hanzi": "宾",
+    "definition": "Guest / visitor"
+  },
+  {
+    "day": 464,
+    "char": "lǐ / lai",
+    "hanzi": "礼",
+    "definition": "Ceremony / gift / courtesy"
+  },
+  {
+    "day": 465,
+    "char": "mào / maau",
+    "hanzi": "貌",
+    "definition": "Appearance / manners"
+  },
+  {
+    "day": 466,
+    "char": "jìng / ging",
+    "hanzi": "敬",
+    "definition": "Respect / honor / offer"
+  },
+  {
+    "day": 467,
+    "char": "ài / oi",
+    "hanzi": "爱",
+    "definition": "Love / affection"
+  },
+  {
+    "day": 468,
+    "char": "qīn / can",
+    "hanzi": "亲",
+    "definition": "Relative / intimate / parent"
+  },
+  {
+    "day": 469,
+    "char": "shú / suk",
+    "hanzi": "熟",
+    "definition": "Ripe / cooked / familiar"
+  },
+  {
+    "day": 470,
+    "char": "shēng / sang",
+    "hanzi": "生",
+    "definition": "Unfamiliar / raw / green"
+  },
+  {
+    "day": 471,
+    "char": "mò / mak",
+    "hanzi": "陌",
+    "definition": "Strangers / pathway"
+  },
+  {
+    "day": 472,
+    "char": "sūn / syun",
+    "hanzi": "孙",
+    "definition": "Grandchild / descendent"
+  },
+  {
+    "day": 473,
+    "char": "zǐ / zi",
+    "hanzi": "子",
+    "definition": "Child / son / seed"
+  },
+  {
+    "day": 474,
+    "char": "nǚ / neoi",
+    "hanzi": "女",
+    "definition": "Female / woman / daughter"
+  },
+  {
+    "day": 475,
+    "char": "fù / fu",
+    "hanzi": "父",
+    "definition": "Father"
+  },
+  {
+    "day": 476,
+    "char": "mǔ / mou",
+    "hanzi": "母",
+    "definition": "Mother / female (animal)"
+  },
+  {
+    "day": 477,
+    "char": "fù / fu",
+    "hanzi": "妇",
+    "definition": "Woman / wife / married woman"
+  },
+  {
+    "day": 478,
+    "char": "qī / cai",
+    "hanzi": "妻",
+    "definition": "Wife"
+  },
+  {
+    "day": 479,
+    "char": "fū / fu",
+    "hanzi": "夫",
+    "definition": "Husband / man"
+  },
+  {
+    "day": 480,
+    "char": "ér / ji",
+    "hanzi": "儿",
+    "definition": "Child / son"
+  },
+  {
+    "day": 481,
+    "char": "xiōng / hing",
+    "hanzi": "兄",
+    "definition": "Elder brother"
+  },
+  {
+    "day": 482,
+    "char": "dì / dai",
+    "hanzi": "弟",
+    "definition": "Younger brother"
+  },
+  {
+    "day": 483,
+    "char": "jiě / ze",
+    "hanzi": "姐",
+    "definition": "Elder sister"
+  },
+  {
+    "day": 484,
+    "char": "mèi / mui",
+    "hanzi": "妹",
+    "definition": "Younger sister"
+  },
+  {
+    "day": 485,
+    "char": "zú / juk",
+    "hanzi": "族",
+    "definition": "Clan / race / nationality"
+  },
+  {
+    "day": 486,
+    "char": "qīn / can",
+    "hanzi": "亲",
+    "definition": "Kin / relatives / close"
+  },
+  {
+    "day": 487,
+    "char": "péng / paang",
+    "hanzi": "朋",
+    "definition": "Friend"
+  },
+  {
+    "day": 488,
+    "char": "yǒu / yau",
+    "hanzi": "友",
+    "definition": "Friend / companion"
+  },
+  {
+    "day": 489,
+    "char": "bàn / bun",
+    "hanzi": "伴",
+    "definition": "Companion / partner"
+  },
+  {
+    "day": 490,
+    "char": "lǚ / leoi",
+    "hanzi": "侣",
+    "definition": "Companion / partner / mate"
+  },
+  {
+    "day": 491,
+    "char": "lín / leon",
+    "hanzi": "邻",
+    "definition": "Neighbor / neighboring"
+  },
+  {
+    "day": 492,
+    "char": "shè / se",
+    "hanzi": "社",
+    "definition": "Society / community / agency"
+  },
+  {
+    "day": 493,
+    "char": "huì / wui",
+    "hanzi": "会",
+    "definition": "Meeting / association / party"
+  },
+  {
+    "day": 494,
+    "char": "tuán / tyun",
+    "hanzi": "团",
+    "definition": "Group / organization / round"
+  },
+  {
+    "day": 495,
+    "char": "duì / deoi",
+    "hanzi": "队",
+    "definition": "Team / row / queue"
+  },
+  {
+    "day": 496,
+    "char": "qún / kwan",
+    "hanzi": "群",
+    "definition": "Group / crowd / flock"
+  },
+  {
+    "day": 497,
+    "char": "zhòng / zung",
+    "hanzi": "众",
+    "definition": "Crowd / multitude / public"
+  },
+  {
+    "day": 498,
+    "char": "bān / baan",
+    "hanzi": "班",
+    "definition": "Class / team / shift"
+  },
+  {
+    "day": 499,
+    "char": "wǔ / mou",
+    "hanzi": "伍",
+    "definition": "Troops / cohort / companion"
+  },
+  {
+    "day": 500,
+    "char": "wǔ / mou",
+    "hanzi": "武",
+    "definition": "Military / martial"
+  },
+  {
+    "day": 501,
+    "char": "wén / man",
+    "hanzi": "文",
+    "definition": "Literature / culture / writing"
+  },
+  {
+    "day": 502,
+    "char": "huà / waa",
+    "hanzi": "化",
+    "definition": "To transform / change / culture"
+  },
+  {
+    "day": 503,
+    "char": "shǐ / si",
+    "hanzi": "史",
+    "definition": "History / annals"
+  },
+  {
+    "day": 504,
+    "char": "jīng / ging",
+    "hanzi": "经",
+    "definition": "Classic / scripture / pass through"
+  },
+  {
+    "day": 505,
+    "char": "diǎn / din",
+    "hanzi": "典",
+    "definition": "Standard / canon / ceremony"
+  },
+  {
+    "day": 506,
+    "char": "shū / syu",
+    "hanzi": "书",
+    "definition": "Book / letter / document"
+  },
+  {
+    "day": 507,
+    "char": "baò / bou",
+    "hanzi": "报",
+    "definition": "Report / newspaper / recompense"
+  },
+  {
+    "day": 508,
+    "char": "zhǐ / zi",
+    "hanzi": "纸",
+    "definition": "Paper"
+  },
+  {
+    "day": 509,
+    "char": "bǐ / bat",
+    "hanzi": "笔",
+    "definition": "Pen / brush / writing instrument"
+  },
+  {
+    "day": 510,
+    "char": "mò / mak",
+    "hanzi": "墨",
+    "definition": "Ink / black"
+  },
+  {
+    "day": 511,
+    "char": "huà / waa",
+    "hanzi": "画",
+    "definition": "Painting / picture / draw"
+  },
+  {
+    "day": 512,
+    "char": "tú / tou",
+    "hanzi": "图",
+    "definition": "Map / chart / picture"
+  },
+  {
+    "day": 513,
+    "char": "piàn / pin",
+    "hanzi": "片",
+    "definition": "Slice / piece / card / film"
+  },
+  {
+    "day": 514,
+    "char": "piǎo / piu",
+    "hanzi": "票",
+    "definition": "Ticket / ballot / ticket stub"
+  },
+  {
+    "day": 515,
+    "char": "zhèng / zing",
+    "hanzi": "证",
+    "definition": "Certificate / proof / evidence"
+  },
+  {
+    "day": 516,
+    "char": "píng / ping",
+    "hanzi": "凭",
+    "definition": "To rely on / proof / evidence"
+  },
+  {
+    "day": 517,
+    "char": "jù / geui",
+    "hanzi": "据",
+    "definition": "According to / basis / evidence"
+  },
+  {
+    "day": 518,
+    "char": "àn / on",
+    "hanzi": "案",
+    "definition": "Case / legal file / table"
+  },
+  {
+    "day": 519,
+    "char": "lì / lei",
+    "hanzi": "例",
+    "definition": "Example / precedent / rule"
+  },
+  {
+    "day": 520,
+    "char": "shì / si",
+    "hanzi": "事",
+    "definition": "Matter / affair / business"
+  },
+  {
+    "day": 521,
+    "char": "wù / mou",
+    "hanzi": "物",
+    "definition": "Thing / object / matter"
+  },
+  {
+    "day": 522,
+    "char": "jiàn / gin",
+    "hanzi": "件",
+    "definition": "Item / piece (measure word)"
+  },
+  {
+    "day": 523,
+    "char": "dāng / dong",
+    "hanzi": "当",
+    "definition": "To serve as / appropriate / right"
+  },
+  {
+    "day": 524,
+    "char": "rèn / yam",
+    "hanzi": "任",
+    "definition": "To undertake / duty / office"
+  },
+  {
+    "day": 525,
+    "char": "zhí / jik",
+    "hanzi": "职",
+    "definition": "Duty / profession / office"
+  },
+  {
+    "day": 526,
+    "char": "zé / zak",
+    "hanzi": "责",
+    "definition": "Duty / responsibility / blame"
+  },
+  {
+    "day": 527,
+    "char": "gōng / gung",
+    "hanzi": "工",
+    "definition": "Work / labor / project"
+  },
+  {
+    "day": 528,
+    "char": "zuò / zok",
+    "hanzi": "作",
+    "definition": "To do / work / production"
+  },
+  {
+    "day": 529,
+    "char": "yè / jip",
+    "hanzi": "业",
+    "definition": "Occupation / industry / study"
+  },
+  {
+    "day": 530,
+    "char": "shāng / soeng",
+    "hanzi": "商",
+    "definition": "Commerce / trade / merchant"
+  },
+  {
+    "day": 531,
+    "char": "mǎi / maai",
+    "hanzi": "买",
+    "definition": "To buy / purchase"
+  },
+  {
+    "day": 532,
+    "char": "mài / maai",
+    "hanzi": "卖",
+    "definition": "To sell"
+  },
+  {
+    "day": 533,
+    "char": "Zū / zou",
+    "hanzi": "租",
+    "definition": "To rent / lease / tax"
+  },
+  {
+    "day": 534,
+    "char": "jiè / ze",
+    "hanzi": "借",
+    "definition": "To borrow / lend / take advantage of"
+  },
+  {
+    "day": 535,
+    "char": "huán / waan",
+    "hanzi": "还",
+    "definition": "To return / give back"
+  },
+  {
+    "day": 536,
+    "char": "qián / cin",
+    "hanzi": "钱",
+    "definition": "Money / currency / coin"
+  },
+  {
+    "day": 537,
+    "char": "bì / bai",
+    "hanzi": "币",
+    "definition": "Currency / coin"
+  },
+  {
+    "day": 538,
+    "char": "bó / bok",
+    "hanzi": "帛",
+    "definition": "Silk fabric / currency"
+  },
+  {
+    "day": 539,
+    "char": "bǎo / bou",
+    "hanzi": "宝",
+    "definition": "Treasure / jewel / precious"
+  },
+  {
+    "day": 540,
+    "char": "zhēn / zan",
+    "hanzi": "珍",
+    "definition": "Precious / valuable / jewel"
+  },
+  {
+    "day": 541,
+    "char": "zhū / zyu",
+    "hanzi": "珠",
+    "definition": "Pearl / bead"
+  },
+  {
+    "day": 542,
+    "char": "yù / juk",
+    "hanzi": "玉",
+    "definition": "Jade"
+  },
+  {
+    "day": 543,
+    "char": "shí / sek",
+    "hanzi": "石",
+    "definition": "Stone / rock"
+  },
+  {
+    "day": 544,
+    "char": "kuàng / kwong",
+    "hanzi": "矿",
+    "definition": "Mine / mineral"
+  },
+  {
+    "day": 545,
+    "char": "jīn / gam",
+    "hanzi": "金",
+    "definition": "Gold / metal"
+  },
+  {
+    "day": 546,
+    "char": "yín / ngan",
+    "hanzi": "银",
+    "definition": "Silver / bank"
+  },
+  {
+    "day": 547,
+    "char": "tóng / tung",
+    "hanzi": "铜",
+    "definition": "Copper / bronze"
+  },
+  {
+    "day": 548,
+    "char": "tiě / tit",
+    "hanzi": "铁",
+    "definition": "Iron / strong"
+  },
+  {
+    "day": 549,
+    "char": "gāng / gong",
+    "hanzi": "钢",
+    "definition": "Steel"
+  },
+  {
+    "day": 550,
+    "char": "xī / sik",
+    "hanzi": "锡",
+    "definition": "Tin / bestow"
+  },
+  {
+    "day": 551,
+    "char": "léi / leoi",
+    "hanzi": "雷",
+    "definition": "Thunder"
+  },
+  {
+    "day": 552,
+    "char": "diàn / din",
+    "hanzi": "电",
+    "definition": "Electricity / lightning"
+  },
+  {
+    "day": 553,
+    "char": "guāng / gwong",
+    "hanzi": "光",
+    "definition": "Light / ray / bright"
+  },
+  {
+    "day": 554,
+    "char": "máng / mong",
+    "hanzi": "芒",
+    "definition": "Ray / glare / sharp point"
+  },
+  {
+    "day": 555,
+    "char": "yǐng / jing",
+    "hanzi": "影",
+    "definition": "Shadow / image / photograph"
+  },
+  {
+    "day": 556,
+    "char": "xiàng / zoeng",
+    "hanzi": "像",
+    "definition": "Picture / image / resemble"
+  },
+  {
+    "day": 557,
+    "char": "zhào / ziu",
+    "hanzi": "照",
+    "definition": "To shine / illuminate / photograph"
+  },
+  {
+    "day": 558,
+    "char": "shè / se",
+    "hanzi": "射",
+    "definition": "To shoot / fire / emit"
+  },
+  {
+    "day": 559,
+    "char": "yīng / jing",
+    "hanzi": "映",
+    "definition": "To reflect / shine"
+  },
+  {
+    "day": 560,
+    "char": "shǎn / sim",
+    "hanzi": "闪",
+    "definition": "To flash / dodge / sparkle"
+  },
+  {
+    "day": 561,
+    "char": "dēng / dang",
+    "hanzi": "灯",
+    "definition": "Lamp / lantern / light"
+  },
+  {
+    "day": 562,
+    "char": "zhú / zuk",
+    "hanzi": "烛",
+    "definition": "Candle"
+  },
+  {
+    "day": 563,
+    "char": "huǒ / fo",
+    "hanzi": "火",
+    "definition": "Fire / flame / urgent"
+  },
+  {
+    "day": 564,
+    "char": "yàn / jim",
+    "hanzi": "焰",
+    "definition": "Flame / blaze"
+  },
+  {
+    "day": 565,
+    "char": "shāo / siu",
+    "hanzi": "烧",
+    "definition": "To burn / cook / fever"
+  },
+  {
+    "day": 566,
+    "char": "kǎo / haau",
+    "hanzi": "烤",
+    "definition": "To roast / bake / grill"
+  },
+  {
+    "day": 567,
+    "char": "zhǔ / zyu",
+    "hanzi": "煮",
+    "definition": "To boil / cook"
+  },
+  {
+    "day": 568,
+    "char": "chǎo / caau",
+    "hanzi": "炒",
+    "definition": "To stir-fry / fry"
+  },
+  {
+    "day": 569,
+    "char": "zhà / za",
+    "hanzi": "炸",
+    "definition": "To deep-fry / explode"
+  },
+  {
+    "day": 570,
+    "char": "tián / tim",
+    "hanzi": "甜",
+    "definition": "Sweet"
+  },
+  {
+    "day": 571,
+    "char": "kǔ / fu",
+    "hanzi": "苦",
+    "definition": "Bitter / hardship / suffering"
+  },
+  {
+    "day": 572,
+    "char": "suān / syun",
+    "hanzi": "酸",
+    "definition": "Sour / acid / sore"
+  },
+  {
+    "day": 573,
+    "char": "là / laat",
+    "hanzi": "辣",
+    "definition": "Spicy / hot / sharp"
+  },
+  {
+    "day": 574,
+    "char": "xián / haam",
+    "hanzi": "咸",
+    "definition": "Salty / all"
+  },
+  {
+    "day": 575,
+    "char": "dàn / daam",
+    "hanzi": "淡",
+    "definition": "Tasteless / bland / light (flavor)"
+  },
+  {
+    "day": 576,
+    "char": "xiāng / hoeng",
+    "hanzi": "香",
+    "definition": "Fragrant / sweet-smelling / delicious"
+  },
+  {
+    "day": 577,
+    "char": "chòu / cau",
+    "hanzi": "臭",
+    "definition": "Stinky / smelly / disgusting"
+  },
+  {
+    "day": 578,
+    "char": "wèi / mei",
+    "hanzi": "味",
+    "definition": "Taste / flavor / smell"
+  },
+  {
+    "day": 579,
+    "char": "dào / dou",
+    "hanzi": "道",
+    "definition": "Flavor / method / road"
+  },
+  {
+    "day": 580,
+    "char": "shí / sik",
+    "hanzi": "食",
+    "definition": "Food / meal / to eat"
+  },
+  {
+    "day": 581,
+    "char": "cān / caam",
+    "hanzi": "餐",
+    "definition": "Meal / food / eat"
+  },
+  {
+    "day": 582,
+    "char": "fàn / faan",
+    "hanzi": "饭",
+    "definition": "Rice / meal / food"
+  },
+  {
+    "day": 583,
+    "char": "zhōu / zuk",
+    "hanzi": "粥",
+    "definition": "Congee / porridge"
+  },
+  {
+    "day": 584,
+    "char": "tāng / tong",
+    "hanzi": "汤",
+    "definition": "Soup / broth / hot water"
+  },
+  {
+    "day": 585,
+    "char": "ròu / yuk",
+    "hanzi": "肉",
+    "definition": "Meat / flesh"
+  },
+  {
+    "day": 586,
+    "char": "cài / coi",
+    "hanzi": "菜",
+    "definition": "Vegetable / dish / food"
+  },
+  {
+    "day": 587,
+    "char": "guǒ / gwo2",
+    "hanzi": "果",
+    "definition": "Fruit / result / resolute"
+  },
+  {
+    "day": 588,
+    "char": "liáng / loeng",
+    "hanzi": "粮",
+    "definition": "Grain / food / provisions"
+  },
+  {
+    "day": 589,
+    "char": "mǐ / mai",
+    "hanzi": "米",
+    "definition": "Rice / meter"
+  },
+  {
+    "day": 590,
+    "char": "miàn / min",
+    "hanzi": "面",
+    "definition": "Flour / wheat / noodle"
+  },
+  {
+    "day": 591,
+    "char": "bǐng / beng",
+    "hanzi": "饼",
+    "definition": "Flatbread / cake / pastry"
+  },
+  {
+    "day": 592,
+    "char": "bāo / baau",
+    "hanzi": "包",
+    "definition": "Bag / wrap / bun"
+  },
+  {
+    "day": 593,
+    "char": "jiǎo / gaau",
+    "hanzi": "饺",
+    "definition": "Dumpling"
+  },
+  {
+    "day": 594,
+    "char": "bāo / baau",
+    "hanzi": "煲",
+    "definition": "Pot / casserole / to boil"
+  },
+  {
+    "day": 595,
+    "char": "guō / wo",
+    "hanzi": "锅",
+    "definition": "Pot / wok / pan"
+  },
+  {
+    "day": 596,
+    "char": "lú / lou",
+    "hanzi": "炉",
+    "definition": "Stove / furnace / oven"
+  },
+  {
+    "day": 597,
+    "char": "chái / caai",
+    "hanzi": "柴",
+    "definition": "Firewood / lean"
+  },
+  {
+    "day": 598,
+    "char": "tàn / taan",
+    "hanzi": "炭",
+    "definition": "Charcoal / carbon"
+  },
+  {
+    "day": 599,
+    "char": "xīn / sam",
+    "hanzi": "薪",
+    "definition": "Firewood / salary"
+  },
+  {
+    "day": 600,
+    "char": "róng / jung",
+    "hanzi": "融",
+    "definition": "To melt / blend / harmonious"
+  },
+  {
+    "day": 601,
+    "char": "shuǐ / seui",
+    "hanzi": "水",
+    "definition": "Water / liquid / flood"
+  },
+  {
+    "day": 602,
+    "char": "jiāng / gong",
+    "hanzi": "江",
+    "definition": "Large river / Yangtze"
+  },
+  {
+    "day": 603,
+    "char": "hé / ho",
+    "hanzi": "河",
+    "definition": "River / stream"
+  },
+  {
+    "day": 604,
+    "char": "hǎi / hoi",
+    "hanzi": "海",
+    "definition": "Sea / ocean"
+  },
+  {
+    "day": 605,
+    "char": "yáng / yeung",
+    "hanzi": "洋",
+    "definition": "Ocean / vast / foreign"
+  },
+  {
+    "day": 606,
+    "char": "chí / ci",
+    "hanzi": "池",
+    "definition": "Pond / pool / moat"
+  },
+  {
+    "day": 607,
+    "char": "tàn / taam",
+    "hanzi": "潭",
+    "definition": "Deep pool / abyss"
+  },
+  {
+    "day": 608,
+    "char": "wān / waan",
+    "hanzi": "湾",
+    "definition": "Bay / gulf / bend"
+  },
+  {
+    "day": 609,
+    "char": "liú / lau",
+    "hanzi": "流",
+    "definition": "To flow / current / stream"
+  },
+  {
+    "day": 610,
+    "char": "xǐ / sai",
+    "hanzi": "洗",
+    "definition": "To wash / clean / purify"
+  },
+  {
+    "day": 611,
+    "char": "mù / muk",
+    "hanzi": "沐",
+    "definition": "To wash hair / bathe"
+  },
+  {
+    "day": 612,
+    "char": "yù / juk",
+    "hanzi": "浴",
+    "definition": "To bathe / bath"
+  },
+  {
+    "day": 613,
+    "char": "jiàn / gaam",
+    "hanzi": "渐",
+    "definition": "Gradually / little by little"
+  },
+  {
+    "day": 614,
+    "char": "yuán / jyun",
+    "hanzi": "源",
+    "definition": "Source / origin / spring"
+  },
+  {
+    "day": 615,
+    "char": "pù / buk",
+    "hanzi": "瀑",
+    "definition": "Waterfall"
+  },
+  {
+    "day": 616,
+    "char": "bù / bou",
+    "hanzi": "布",
+    "definition": "Cloth / fabric / spread / waterfall part"
+  },
+  {
+    "day": 617,
+    "char": "làng / long",
+    "hanzi": "浪",
+    "definition": "Wave / billow / unrestrained"
+  },
+  {
+    "day": 618,
+    "char": "tāo / tou",
+    "hanzi": "涛",
+    "definition": "Big waves / roar of waves"
+  },
+  {
+    "day": 619,
+    "char": "cháo / ciu",
+    "hanzi": "潮",
+    "definition": "Tide / damp / current"
+  },
+  {
+    "day": 620,
+    "char": "xǐ / hei",
+    "hanzi": "喜",
+    "definition": "Joy / delight"
+  },
+  {
+    "day": 621,
+    "char": "péng / pang",
+    "hanzi": "澎",
+    "definition": "Surging of waves / turbulent"
+  },
+  {
+    "day": 622,
+    "char": "pài / paai",
+    "hanzi": "湃",
+    "definition": "Surging / crashing of waves"
+  },
+  {
+    "day": 623,
+    "char": "shēn / sam",
+    "hanzi": "深",
+    "definition": "Deep / profound"
+  },
+  {
+    "day": 624,
+    "char": "qiǎn / chin",
+    "hanzi": "浅",
+    "definition": "Shallow"
+  },
+  {
+    "day": 625,
+    "char": "fú / fuk",
+    "hanzi": "浮",
+    "definition": "To float / drift / superficial"
+  },
+  {
+    "day": 626,
+    "char": "chén / cam",
+    "hanzi": "沉",
+    "definition": "To sink / submerge / heavy"
+  },
+  {
+    "day": 627,
+    "char": "mò / mut6",
+    "hanzi": "没",
+    "definition": "To submerge / drown / disappear"
+  },
+  {
+    "day": 628,
+    "char": "lì / lik",
+    "hanzi": "沥",
+    "definition": "To drip / filter / drain"
+  },
+  {
+    "day": 629,
+    "char": "qīng / cing",
+    "hanzi": "清",
+    "definition": "Clear / pure / transparent"
+  },
+  {
+    "day": 630,
+    "char": "zhuó / zok",
+    "hanzi": "浊",
+    "definition": "Muddy / turbid / impure"
+  },
+  {
+    "day": 631,
+    "char": "jié / git",
+    "hanzi": "洁",
+    "definition": "Clean / spotless / pure"
+  },
+  {
+    "day": 632,
+    "char": "wū / wu",
+    "hanzi": "污",
+    "definition": "Filthy / dirt / stain"
+  },
+  {
+    "day": 633,
+    "char": "rǎn / jim",
+    "hanzi": "染",
+    "definition": "To dye / catch (disease) / pollute"
+  },
+  {
+    "day": 634,
+    "char": "jìng / zing",
+    "hanzi": "净",
+    "definition": "Clean / pure"
+  },
+  {
+    "day": 635,
+    "char": "tòu / tau",
+    "hanzi": "透",
+    "definition": "Through / penetrate / thoroughly"
+  },
+  {
+    "day": 636,
+    "char": "rùn / jeun",
+    "hanzi": "润",
+    "definition": "Moist / smooth / enrich"
+  },
+  {
+    "day": 637,
+    "char": "zào / cou",
+    "hanzi": "燥",
+    "definition": "Dry / parched / impatient"
+  },
+  {
+    "day": 638,
+    "char": "dī / dik",
+    "hanzi": "滴",
+    "definition": "To drip / drop"
+  },
+  {
+    "day": 639,
+    "char": "sǎ / saa",
+    "hanzi": "洒",
+    "definition": "To sprinkle / spray / spill"
+  },
+  {
+    "day": 640,
+    "char": "lèi / lui",
+    "hanzi": "泪",
+    "definition": "Tear / teardrop"
+  },
+  {
+    "day": 641,
+    "char": "sī / si",
+    "hanzi": "洒",
+    "definition": "To splash / water"
+  },
+  {
+    "day": 642,
+    "char": "zhù / jyu",
+    "hanzi": "注",
+    "definition": "To pour / inject"
+  },
+  {
+    "day": 643,
+    "char": "xiè / se",
+    "hanzi": "泻",
+    "definition": "To pour down / flood / diarrhea"
+  },
+  {
+    "day": 644,
+    "char": "hóng / hung",
+    "hanzi": "洪",
+    "definition": "Flood / vast / great"
+  },
+  {
+    "day": 645,
+    "char": "zāi / zoi",
+    "hanzi": "灾",
+    "definition": "Disaster / catastrophe"
+  },
+  {
+    "day": 646,
+    "char": "huò / woh",
+    "hanzi": "祸",
+    "definition": "Misfortune / disaster / calamity"
+  },
+  {
+    "day": 647,
+    "char": "jiù / gau",
+    "hanzi": "救",
+    "definition": "To rescue / save"
+  },
+  {
+    "day": 648,
+    "char": "zhù / zo",
+    "hanzi": "助",
+    "definition": "To help / aid"
+  },
+  {
+    "day": 649,
+    "char": "pizhù / bei zo",
+    "hanzi": "庇",
+    "definition": "To shelter / shield / protect"
+  },
+  {
+    "day": 650,
+    "char": "hù / wu",
+    "hanzi": "护",
+    "definition": "To protect / guard / shield"
+  },
+  {
+    "day": 651,
+    "char": "sōng / cung",
+    "hanzi": "松",
+    "definition": "Pine tree / loose / relaxed"
+  },
+  {
+    "day": 652,
+    "char": "bǎi / baak",
+    "hanzi": "柏",
+    "definition": "Cypress / cedar"
+  },
+  {
+    "day": 653,
+    "char": "liǔ / lau",
+    "hanzi": "柳",
+    "definition": "Willow tree"
+  },
+  {
+    "day": 654,
+    "char": "méi / mui",
+    "hanzi": "梅",
+    "definition": "Plum / ume blossom"
+  },
+  {
+    "day": 655,
+    "char": "táo / tou",
+    "hanzi": "桃",
+    "definition": "Peach"
+  },
+  {
+    "day": 656,
+    "char": "lǐ / lei",
+    "hanzi": "李",
+    "definition": "Plum / surname Lee"
+  },
+  {
+    "day": 657,
+    "char": "xìng / hang",
+    "hanzi": "杏",
+    "definition": "Apricot"
+  },
+  {
+    "day": 658,
+    "char": "zhú / zuk",
+    "hanzi": "竹",
+    "definition": "Bamboo"
+  },
+  {
+    "day": 659,
+    "char": "téng / tang",
+    "hanzi": "藤",
+    "definition": "Vine / rattan"
+  },
+  {
+    "day": 660,
+    "char": "cǎo / cou",
+    "hanzi": "草",
+    "definition": "Grass / straw / draft"
+  },
+  {
+    "day": 661,
+    "char": "máo / mou",
+    "hanzi": "茅",
+    "definition": "Thatch / reed / cogon grass"
+  },
+  {
+    "day": 662,
+    "char": "dí / dik",
+    "hanzi": "荻",
+    "definition": "Reed / rush"
+  },
+  {
+    "day": 663,
+    "char": "pú / pou",
+    "hanzi": "蒲",
+    "definition": "Cattail / rush"
+  },
+  {
+    "day": 664,
+    "char": "lián / lin",
+    "hanzi": "莲",
+    "definition": "Lotus"
+  },
+  {
+    "day": 665,
+    "char": "hé / ho",
+    "hanzi": "荷",
+    "definition": "Lotus / carry"
+  },
+  {
+    "day": 666,
+    "char": "jú / guk",
+    "hanzi": "菊",
+    "definition": "Chrysanthemum"
+  },
+  {
+    "day": 667,
+    "char": "lán / laan",
+    "hanzi": "兰",
+    "definition": "Orchid"
+  },
+  {
+    "day": 668,
+    "char": "guì / gwai",
+    "hanzi": "桂",
+    "definition": "Cinnamon / osmanthus"
+  },
+  {
+    "day": 669,
+    "char": "zhōng / zung",
+    "hanzi": "钟",
+    "definition": "Bell / clock / focus"
+  },
+  {
+    "day": 670,
+    "char": "líng / ling",
+    "hanzi": "铃",
+    "definition": "Small bell / chime"
+  },
+  {
+    "day": 671,
+    "char": "gǔ / gu",
+    "hanzi": "鼓",
+    "definition": "Drum / to beat / bulge"
+  },
+  {
+    "day": 672,
+    "char": "qín / kam",
+    "hanzi": "琴",
+    "definition": "Zither / stringed instrument"
+  },
+  {
+    "day": 673,
+    "char": "sè / sik",
+    "hanzi": "瑟",
+    "definition": "Large plucked string instrument"
+  },
+  {
+    "day": 674,
+    "char": "xiāo / siu",
+    "hanzi": "箫",
+    "definition": "Vertical bamboo flute"
+  },
+  {
+    "day": 675,
+    "char": "dí / dik",
+    "hanzi": "笛",
+    "definition": "Bamboo flute / whistle"
+  },
+  {
+    "day": 676,
+    "char": "shēng / sang",
+    "hanzi": "笙",
+    "definition": "Sheng (reed wind instrument)"
+  },
+  {
+    "day": 677,
+    "char": "suǒ / so",
+    "hanzi": "唢",
+    "definition": "Suona (horn part)"
+  },
+  {
+    "day": 678,
+    "char": "nà / naap",
+    "hanzi": "呐",
+    "definition": "Suona part / battle cry"
+  },
+  {
+    "day": 679,
+    "char": "luó / lo",
+    "hanzi": "锣",
+    "definition": "Gong"
+  },
+  {
+    "day": 680,
+    "char": "gǔ / gu",
+    "hanzi": "鼓",
+    "definition": "Drum"
+  },
+  {
+    "day": 681,
+    "char": "bǎn / baan",
+    "hanzi": "板",
+    "definition": "Clapper / wooden board / hard"
+  },
+  {
+    "day": 682,
+    "char": "bān / baan",
+    "hanzi": "班",
+    "definition": "Squad / class"
+  },
+  {
+    "day": 683,
+    "char": "qī / kei",
+    "hanzi": "旗",
+    "definition": "Flag / banner"
+  },
+  {
+    "day": 684,
+    "char": "zhì / zi",
+    "hanzi": "帜",
+    "definition": "Flag / banner / standard"
+  },
+  {
+    "day": 685,
+    "char": "gāo / gou",
+    "hanzi": "高",
+    "definition": "Tall / high"
+  },
+  {
+    "day": 686,
+    "char": "dēng / dang",
+    "hanzi": "登",
+    "definition": "To climb / ascend / publish"
+  },
+  {
+    "day": 687,
+    "char": "yuè / jyut",
+    "hanzi": "岳",
+    "definition": "High mountain / peak"
+  },
+  {
+    "day": 688,
+    "char": "fēng / fung",
+    "hanzi": "峰",
+    "definition": "Mountain peak / summit"
+  },
+  {
+    "day": 689,
+    "char": "lǐng / ling",
+    "hanzi": "岭",
+    "definition": "Mountain ridge / range"
+  },
+  {
+    "day": 690,
+    "char": "qiáng / keung",
+    "hanzi": "墙",
+    "definition": "Wall"
+  },
+  {
+    "day": 691,
+    "char": "bì / bik",
+    "hanzi": "壁",
+    "definition": "Cliff / wall / partition"
+  },
+  {
+    "day": 692,
+    "char": "léi / lui",
+    "hanzi": "垒",
+    "definition": "Rampart / fort / build with bricks"
+  },
+  {
+    "day": 693,
+    "char": "tái / toi",
+    "hanzi": "台",
+    "definition": "Platform / stage / desk"
+  },
+  {
+    "day": 694,
+    "char": "tíng / ting",
+    "hanzi": "亭",
+    "definition": "Pavilion / kiosk"
+  },
+  {
+    "day": 695,
+    "char": "tái / toi",
+    "hanzi": "苔",
+    "definition": "Moss"
+  },
+  {
+    "day": 696,
+    "char": "xuān / hyun",
+    "hanzi": "轩",
+    "definition": "Veranda / windowed corridor / lofty room"
+  },
+  {
+    "day": 697,
+    "char": "gé / gaak",
+    "hanzi": "阁",
+    "definition": "Pavilion / cabinet / attic"
+  },
+  {
+    "day": 698,
+    "char": "lóu / lau",
+    "hanzi": "楼",
+    "definition": "Multi-story building / tower"
+  },
+  {
+    "day": 699,
+    "char": "tái / toi",
+    "hanzi": "台",
+    "definition": "Terrace / stage"
+  },
+  {
+    "day": 700,
+    "char": "zhài / zaai",
+    "hanzi": "寨",
+    "definition": "Stockade / stronghold / village"
+  },
+  {
+    "day": 701,
+    "char": "mén / mun",
+    "hanzi": "门",
+    "definition": "Door / gate / family / category"
+  },
+  {
+    "day": 702,
+    "char": "hù / wu",
+    "hanzi": "户",
+    "definition": "Door / household / family"
+  },
+  {
+    "day": 703,
+    "char": "chuāng / coeng",
+    "hanzi": "窗",
+    "definition": "Window / shutter"
+  },
+  {
+    "day": 704,
+    "char": "suǒ / so",
+    "hanzi": "锁",
+    "definition": "Lock / padlock / to lock"
+  },
+  {
+    "day": 705,
+    "char": "yào / yeuk",
+    "hanzi": "钥",
+    "definition": "Key (part 1)"
+  },
+  {
+    "day": 706,
+    "char": "shi / si",
+    "hanzi": "匙",
+    "definition": "Key (part 2) / spoon"
+  },
+  {
+    "day": 707,
+    "char": "zhuō / zoek",
+    "hanzi": "桌",
+    "definition": "Table / desk"
+  },
+  {
+    "day": 708,
+    "char": "yǐ / ji",
+    "hanzi": "椅",
+    "definition": "Chair"
+  },
+  {
+    "day": 709,
+    "char": "chuáng / cong",
+    "hanzi": "床",
+    "definition": "Bed / couch"
+  },
+  {
+    "day": 710,
+    "char": "wò / wo",
+    "hanzi": "卧",
+    "definition": "To lie down / sleep / crouch"
+  },
+  {
+    "day": 711,
+    "char": "mián / min",
+    "hanzi": "眠",
+    "definition": "Sleep / dormant"
+  },
+  {
+    "day": 712,
+    "char": "zhěn / zam",
+    "hanzi": "枕",
+    "definition": "Pillow / to pillow"
+  },
+  {
+    "day": 713,
+    "char": "bèi / pei",
+    "hanzi": "被",
+    "definition": "Quilt / blanket / passive marker"
+  },
+  {
+    "day": 714,
+    "char": "hàn / hon",
+    "hanzi": "汗",
+    "definition": "Sweat / perspiration"
+  },
+  {
+    "day": 715,
+    "char": "yù / juk",
+    "hanzi": "浴",
+    "definition": "To bathe"
+  },
+  {
+    "day": 716,
+    "char": "jīn / gan",
+    "hanzi": "巾",
+    "definition": "Towel / napkin / kerchief"
+  },
+  {
+    "day": 717,
+    "char": "shuā / caat",
+    "hanzi": "刷",
+    "definition": "Brush / to brush / swipe"
+  },
+  {
+    "day": 718,
+    "char": "yá / nga",
+    "hanzi": "牙",
+    "definition": "Tooth / ivory"
+  },
+  {
+    "day": 719,
+    "char": "gāo / gou",
+    "hanzi": "膏",
+    "definition": "Paste / ointment / cream"
+  },
+  {
+    "day": 720,
+    "char": "jìng / ging",
+    "hanzi": "镜",
+    "definition": "Mirror / lens / glass"
+  },
+  {
+    "day": 721,
+    "char": "tì / tai",
+    "hanzi": "剃",
+    "definition": "To shave / cut hair"
+  },
+  {
+    "day": 722,
+    "char": "dāo / dou",
+    "hanzi": "刀",
+    "definition": "Knife / blade / sword"
+  },
+  {
+    "day": 723,
+    "char": "jiǎn / zin",
+    "hanzi": "剪",
+    "definition": "To cut with scissors / shears"
+  },
+  {
+    "day": 724,
+    "char": "dāo / dou",
+    "hanzi": "刀",
+    "definition": "Scissors part / knife"
+  },
+  {
+    "day": 725,
+    "char": "zhēn / zam",
+    "hanzi": "针",
+    "definition": "Needle / pin / stitch"
+  },
+  {
+    "day": 726,
+    "char": "xiàn / sin",
+    "hanzi": "线",
+    "definition": "Thread / string / line"
+  },
+  {
+    "day": 727,
+    "char": "shé / sit",
+    "hanzi": "设",
+    "definition": "To sew / stitch"
+  },
+  {
+    "day": 728,
+    "char": "bǔ / bou",
+    "hanzi": "补",
+    "definition": "To mend / repair / supplement"
+  },
+  {
+    "day": 729,
+    "char": "yī / ji",
+    "hanzi": "衣",
+    "definition": "Clothes / clothing"
+  },
+  {
+    "day": 730,
+    "char": "fú / fuk",
+    "hanzi": "服",
+    "definition": "Clothes / apparel"
+  },
+  {
+    "day": 731,
+    "char": "qún / kwan",
+    "hanzi": "裙",
+    "definition": "Skirt / dress"
+  },
+  {
+    "day": 732,
+    "char": "kù / fu",
+    "hanzi": "裤",
+    "definition": "Trousers / pants"
+  },
+  {
+    "day": 733,
+    "char": "xié / haai",
+    "hanzi": "鞋",
+    "definition": "Shoes / footwear"
+  },
+  {
+    "day": 734,
+    "char": "wà / wat",
+    "hanzi": "袜",
+    "definition": "Socks / stockings"
+  },
+  {
+    "day": 735,
+    "char": "mào / mou",
+    "hanzi": "帽",
+    "definition": "Hat / cap"
+  },
+  {
+    "day": 736,
+    "char": "jīn / gam",
+    "hanzi": "襟",
+    "definition": "Lapel / front of a garment"
+  },
+  {
+    "day": 737,
+    "char": "dài / doi",
+    "hanzi": "带",
+    "definition": "Belt / ribbon / zone / to bring"
+  },
+  {
+    "day": 738,
+    "char": "suǒ / so",
+    "hanzi": "琐",
+    "definition": "Trivial / petty"
+  },
+  {
+    "day": 739,
+    "char": "shǒu / sau",
+    "hanzi": "手",
+    "definition": "Hand / person skilled in something"
+  },
+  {
+    "day": 740,
+    "char": "zhǐ / zi",
+    "hanzi": "指",
+    "definition": "Finger / to point / reference"
+  },
+  {
+    "day": 741,
+    "char": "zhǎng / zoeng",
+    "hanzi": "掌",
+    "definition": "Palm (of hand) / control / paw"
+  },
+  {
+    "day": 742,
+    "char": "quán / kyun",
+    "hanzi": "拳",
+    "definition": "Fist / boxing"
+  },
+  {
+    "day": 743,
+    "char": "ná / naa",
+    "hanzi": "拿",
+    "definition": "To hold / take / capture"
+  },
+  {
+    "day": 744,
+    "char": "bào / pou",
+    "hanzi": "抱",
+    "definition": "To hold / hug / embrace"
+  },
+  {
+    "day": 745,
+    "char": "bēi / bei",
+    "hanzi": "背",
+    "definition": "To carry on the back / back"
+  },
+  {
+    "day": 746,
+    "char": "fú / fu",
+    "hanzi": "扶",
+    "definition": "To support with hand / help"
+  },
+  {
+    "day": 747,
+    "char": "jié / kit",
+    "hanzi": "结",
+    "definition": "Knotted / tie / connection"
+  },
+  {
+    "day": 748,
+    "char": "gōu / ngau",
+    "hanzi": "钩",
+    "definition": "Hook / to hook / crochet"
+  },
+  {
+    "day": 749,
+    "char": "wā / wa",
+    "hanzi": "挖",
+    "definition": "To dig / excavate / scoop"
+  },
+  {
+    "day": 750,
+    "char": "tiao / tiu",
+    "hanzi": "挑",
+    "definition": "To choose / pick / pry"
+  },
+  {
+    "day": 751,
+    "char": "bō / bok",
+    "hanzi": "拨",
+    "definition": "To poke / dial / allocate"
+  },
+  {
+    "day": 752,
+    "char": "sao / sou",
+    "hanzi": "扫",
+    "definition": "To sweep / clear away"
+  },
+  {
+    "day": 753,
+    "char": "mǒ / mot",
+    "hanzi": "抹",
+    "definition": "To wipe / rub / smear"
+  },
+  {
+    "day": 754,
+    "char": "cā / caat",
+    "hanzi": "擦",
+    "definition": "To rub / wipe / clean"
+  },
+  {
+    "day": 755,
+    "char": "dǎ / daa",
+    "hanzi": "打",
+    "definition": "To hit / beat / strike"
+  },
+  {
+    "day": 756,
+    "char": "pāi / paak",
+    "hanzi": "拍",
+    "definition": "To pat / clap / shoot (photo/film)"
+  },
+  {
+    "day": 757,
+    "char": "tuī / teoi",
+    "hanzi": "推",
+    "definition": "To push"
+  },
+  {
+    "day": 758,
+    "char": "lā / laai",
+    "hanzi": "拉",
+    "definition": "To pull"
+  },
+  {
+    "day": 759,
+    "char": "rēng / jing",
+    "hanzi": "扔",
+    "definition": "To throw / toss"
+  },
+  {
+    "day": 760,
+    "char": "diū / diu",
+    "hanzi": "丢",
+    "definition": "To lose / cast aside / throw"
+  },
+  {
+    "day": 761,
+    "char": "jiǎn / gim",
+    "hanzi": "捡",
+    "definition": "To pick up / collect"
+  },
+  {
+    "day": 762,
+    "char": "shōu / sau",
+    "hanzi": "收",
+    "definition": "To collect / gather / receive"
+  },
+  {
+    "day": 763,
+    "char": "cáng / cong",
+    "hanzi": "藏",
+    "definition": "To hide / conceal / store"
+  },
+  {
+    "day": 764,
+    "char": "fàng / fong",
+    "hanzi": "放",
+    "definition": "To put / place / release"
+  },
+  {
+    "day": 765,
+    "char": "zhì / ji",
+    "hanzi": "置",
+    "definition": "To place / set aside / buy"
+  },
+  {
+    "day": 766,
+    "char": "ān / on",
+    "hanzi": "安",
+    "definition": "Safe / peaceful / install"
+  },
+  {
+    "day": 767,
+    "char": "pái / paai",
+    "hanzi": "排",
+    "definition": "To arrange / row / line up"
+  },
+  {
+    "day": 768,
+    "char": "liè / lit",
+    "hanzi": "列",
+    "definition": "To list / arrange / series"
+  },
+  {
+    "day": 769,
+    "char": "zhǔn / zeon",
+    "hanzi": "准",
+    "definition": "Accurate / standard / permit"
+  },
+  {
+    "day": 770,
+    "char": "bèi / bei",
+    "hanzi": "备",
+    "definition": "Prepared / equipped / ready"
+  },
+  {
+    "day": 771,
+    "char": "xù / zeoi",
+    "hanzi": "绪",
+    "definition": "Series / emotional state / clue"
+  },
+  {
+    "day": 772,
+    "char": "jiǎo / gok",
+    "hanzi": "角",
+    "definition": "Corner / angle / horn / role"
+  },
+  {
+    "day": 773,
+    "char": "biān / bin",
+    "hanzi": "边",
+    "definition": "Edge / side"
+  },
+  {
+    "day": 774,
+    "char": "dǐ / dai",
+    "hanzi": "底",
+    "definition": "Bottom / base / background"
+  },
+  {
+    "day": 775,
+    "char": "dǐng / ding",
+    "hanzi": "顶",
+    "definition": "Top / roof / peak / counter for hats"
+  },
+  {
+    "day": 776,
+    "char": "zhōng / zung",
+    "hanzi": "中",
+    "definition": "Middle / center / in"
+  },
+  {
+    "day": 777,
+    "char": "wài / ngoi",
+    "hanzi": "外",
+    "definition": "Outer / outside / foreign"
+  },
+  {
+    "day": 778,
+    "char": "nèi / noi",
+    "hanzi": "内",
+    "definition": "Inner / inside / internal"
+  },
+  {
+    "day": 779,
+    "char": "lǐ / li",
+    "hanzi": "里",
+    "definition": "Inside / interior / village"
+  },
+  {
+    "day": 780,
+    "char": "qián / cin",
+    "hanzi": "前",
+    "definition": "Front / before / former"
+  },
+  {
+    "day": 781,
+    "char": "hòu / hau",
+    "hanzi": "后",
+    "definition": "Back / behind / after"
+  },
+  {
+    "day": 782,
+    "char": "zuǒ / zo",
+    "hanzi": "左",
+    "definition": "Left"
+  },
+  {
+    "day": 783,
+    "char": "yòu / yau",
+    "hanzi": "右",
+    "definition": "Right"
+  },
+  {
+    "day": 784,
+    "char": "dōng / dung",
+    "hanzi": "东",
+    "definition": "East"
+  },
+  {
+    "day": 785,
+    "char": "nán / naam",
+    "hanzi": "南",
+    "definition": "South"
+  },
+  {
+    "day": 786,
+    "char": "xī / sai",
+    "hanzi": "西",
+    "definition": "West"
+  },
+  {
+    "day": 787,
+    "char": "běi / bak",
+    "hanzi": "北",
+    "definition": "North"
+  },
+  {
+    "day": 788,
+    "char": "shàng / soeng",
+    "hanzi": "上",
+    "definition": "Up / above / upper"
+  },
+  {
+    "day": 789,
+    "char": "xià / haa",
+    "hanzi": "下",
+    "definition": "Down / below / lower"
+  },
+  {
+    "day": 790,
+    "char": "yuǎn / yuen",
+    "hanzi": "远",
+    "definition": "Far"
+  },
+  {
+    "day": 791,
+    "char": "jìn / gan",
+    "hanzi": "近",
+    "definition": "Near"
+  },
+  {
+    "day": 792,
+    "char": "páng / pong",
+    "hanzi": "旁",
+    "definition": "Beside"
+  },
+  {
+    "day": 793,
+    "char": "duì / deoi",
+    "hanzi": "对",
+    "definition": "Opposite / correct / facing"
+  },
+  {
+    "day": 794,
+    "char": "shùn / seon",
+    "hanzi": "顺",
+    "definition": "Smooth / obedient / along"
+  },
+  {
+    "day": 795,
+    "char": "ní / nei",
+    "hanzi": "逆",
+    "definition": "Contrary / reverse / against"
+  },
+  {
+    "day": 796,
+    "char": "héng / hang",
+    "hanzi": "横",
+    "definition": "Horizontal / transverse / across"
+  },
+  {
+    "day": 797,
+    "char": "shù / syu",
+    "hanzi": "竖",
+    "definition": "Vertical / upright"
+  },
+  {
+    "day": 798,
+    "char": "xié / ce",
+    "hanzi": "斜",
+    "definition": "Slanted / oblique / inclined"
+  },
+  {
+    "day": 799,
+    "char": "zhèng / zing",
+    "hanzi": "正",
+    "definition": "Straight / upright / correct"
+  },
+  {
+    "day": 800,
+    "char": "piān / pin",
+    "hanzi": "偏",
+    "definition": "Slanted / biased / leaning"
+  },
+  {
+    "day": 801,
+    "char": "biàn / bin",
+    "hanzi": "变",
+    "definition": "To change / transform"
+  },
+  {
+    "day": 802,
+    "char": "gǎi / goi",
+    "hanzi": "改",
+    "definition": "To alter / change / correct"
+  },
+  {
+    "day": 803,
+    "char": "gé / gaak",
+    "hanzi": "革",
+    "definition": "Leather / reform / abolish"
+  },
+  {
+    "day": 804,
+    "char": "xīn / san",
+    "hanzi": "新",
+    "definition": "New / fresh / modern"
+  },
+  {
+    "day": 805,
+    "char": "jiù / gau",
+    "hanzi": "旧",
+    "definition": "Old / former / past"
+  },
+  {
+    "day": 806,
+    "char": "lǎo / lou",
+    "hanzi": "老",
+    "definition": "Old / aged / experienced"
+  },
+  {
+    "day": 807,
+    "char": "yòu / jau",
+    "hanzi": "幼",
+    "definition": "Young / infant / children"
+  },
+  {
+    "day": 808,
+    "char": "duǎn / dyun",
+    "hanzi": "短",
+    "definition": "Short / brief / lack"
+  },
+  {
+    "day": 809,
+    "char": "kuān / fun",
+    "hanzi": "宽",
+    "definition": "Wide / broad / relaxed"
+  },
+  {
+    "day": 810,
+    "char": "zhǎi / zaak",
+    "hanzi": "窄",
+    "definition": "Narrow / cramped"
+  },
+  {
+    "day": 811,
+    "char": "hòu / hau",
+    "hanzi": "厚",
+    "definition": "Thick / deep / kind"
+  },
+  {
+    "day": 812,
+    "char": "báo / bok",
+    "hanzi": "薄",
+    "definition": "Thin / light / slight"
+  },
+  {
+    "day": 813,
+    "char": "zhòng / zung",
+    "hanzi": "重",
+    "definition": "Heavy / serious / important"
+  },
+  {
+    "day": 814,
+    "char": "qīng / hing",
+    "hanzi": "轻",
+    "definition": "Light / slight / gentle"
+  },
+  {
+    "day": 815,
+    "char": "ruǎn / nyun",
+    "hanzi": "软",
+    "definition": "Soft / flexible"
+  },
+  {
+    "day": 816,
+    "char": "yìng / ngaang",
+    "hanzi": "硬",
+    "definition": "Hard / stiff / stubborn"
+  },
+  {
+    "day": 817,
+    "char": "lěng / laang",
+    "hanzi": "冷",
+    "definition": "Cold / cool / chilly"
+  },
+  {
+    "day": 818,
+    "char": "rè / jit",
+    "hanzi": "热",
+    "definition": "Hot / warm / enthusiastic"
+  },
+  {
+    "day": 819,
+    "char": "liáng / loeng",
+    "hanzi": "凉",
+    "definition": "Cool / chilly"
+  },
+  {
+    "day": 820,
+    "char": "nuǎn / nyun",
+    "hanzi": "暖",
+    "definition": "Warm / warm-hearted"
+  },
+  {
+    "day": 821,
+    "char": "jīng / zing",
+    "hanzi": "精",
+    "definition": "Fine / sharp / essence"
+  },
+  {
+    "day": 822,
+    "char": "cū / cou",
+    "hanzi": "粗",
+    "definition": "Coarse / rough / thick"
+  },
+  {
+    "day": 823,
+    "char": "xì / sai",
+    "hanzi": "细",
+    "definition": "Fine / thin / meticulous"
+  },
+  {
+    "day": 824,
+    "char": "jiāng / gong",
+    "hanzi": "僵",
+    "definition": "Stiff / numb / deadlock"
+  },
+  {
+    "day": 825,
+    "char": "huó / wut",
+    "hanzi": "活",
+    "definition": "Alive / living / work"
+  },
+  {
+    "day": 826,
+    "char": "sǐ / sei",
+    "hanzi": "死",
+    "definition": "Dead / death / rigid"
+  },
+  {
+    "day": 827,
+    "char": "bìng / bing",
+    "hanzi": "病",
+    "definition": "Illness / disease / sick"
+  },
+  {
+    "day": 828,
+    "char": "tòng / tung",
+    "hanzi": "痛",
+    "definition": "Pain / ache / painful"
+  },
+  {
+    "day": 829,
+    "char": "yǎng / joeng",
+    "hanzi": "痒",
+    "definition": "Itchy / tickle"
+  },
+  {
+    "day": 830,
+    "char": "yáng / joeng",
+    "hanzi": "疡",
+    "definition": "Ulcer / sore"
+  },
+  {
+    "day": 831,
+    "char": "zhì / zi",
+    "hanzi": "治",
+    "definition": "To cure / treat / govern"
+  },
+  {
+    "day": 832,
+    "char": "liáo / liu",
+    "hanzi": "疗",
+    "definition": "To treat / cure"
+  },
+  {
+    "day": 833,
+    "char": "yào / joek",
+    "hanzi": "药",
+    "definition": "Medicine / drug / remedy"
+  },
+  {
+    "day": 834,
+    "char": "dān / daan",
+    "hanzi": "丹",
+    "definition": "Elixir / pill / red"
+  },
+  {
+    "day": 835,
+    "char": "wán / jyun",
+    "hanzi": "丸",
+    "definition": "Pill / pellet"
+  },
+  {
+    "day": 836,
+    "char": "gāo / gou",
+    "hanzi": "膏",
+    "definition": "Ointment / paste / fat"
+  },
+  {
+    "day": 837,
+    "char": "jiǔ / gau",
+    "hanzi": "灸",
+    "definition": "Moxibustion / cautery"
+  },
+  {
+    "day": 838,
+    "char": "ài / oi",
+    "hanzi": "艾",
+    "definition": "Mugwort / moxa"
+  },
+  {
+    "day": 839,
+    "char": "xué / jyut",
+    "hanzi": "穴",
+    "definition": "Cave / acupoint / hole"
+  },
+  {
+    "day": 840,
+    "char": "mài / mak",
+    "hanzi": "脉",
+    "definition": "Pulse / vein / arteries"
+  },
+  {
+    "day": 841,
+    "char": "xuè / hyut",
+    "hanzi": "血",
+    "definition": "Blood"
+  },
+  {
+    "day": 842,
+    "char": "qì / hei",
+    "hanzi": "气",
+    "definition": "Air / breath / energy"
+  },
+  {
+    "day": 843,
+    "char": "shén / san",
+    "hanzi": "神",
+    "definition": "Spirit / god / divine"
+  },
+  {
+    "day": 844,
+    "char": "hún / wan",
+    "hanzi": "魂",
+    "definition": "Soul / spirit"
+  },
+  {
+    "day": 845,
+    "char": "pò / paak",
+    "hanzi": "魄",
+    "definition": "Soul / vigor / spirit"
+  },
+  {
+    "day": 846,
+    "char": "xīng / sing",
+    "hanzi": "星",
+    "definition": "Star / satellite"
+  },
+  {
+    "day": 847,
+    "char": "chén / san",
+    "hanzi": "辰",
+    "definition": "Time / celestial body / dragon"
+  },
+  {
+    "day": 848,
+    "char": "sù / suk",
+    "hanzi": "宿",
+    "definition": "Lodge / constellation / old"
+  },
+  {
+    "day": 849,
+    "char": "yào / joek",
+    "hanzi": "曜",
+    "definition": "Shining / bright / day of week"
+  },
+  {
+    "day": 850,
+    "char": "chén / can",
+    "hanzi": "晨",
+    "definition": "Early morning / dawn"
+  },
+  {
+    "day": 851,
+    "char": "hūn / fan",
+    "hanzi": "昏",
+    "definition": "Dusk / twilight / faint"
+  },
+  {
+    "day": 852,
+    "char": "xiāo / siu",
+    "hanzi": "宵",
+    "definition": "Night / night time"
+  },
+  {
+    "day": 853,
+    "char": "yè / je",
+    "hanzi": "夜",
+    "definition": "Night / nighttime"
+  },
+  {
+    "day": 854,
+    "char": "zhòu / zau",
+    "hanzi": "昼",
+    "definition": "Daytime / day"
+  },
+  {
+    "day": 855,
+    "char": "mù / muk",
+    "hanzi": "牧",
+    "definition": "To herd / shepherd / pastor"
+  },
+  {
+    "day": 856,
+    "char": "mù / mou",
+    "hanzi": "暮",
+    "definition": "Dusk / evening / twilight"
+  },
+  {
+    "day": 857,
+    "char": "yōu / jau",
+    "hanzi": "幽",
+    "definition": "Secluded / deep / dark"
+  },
+  {
+    "day": 858,
+    "char": "ào / ou",
+    "hanzi": "奥",
+    "definition": "Profound / mystery / bay"
+  },
+  {
+    "day": 859,
+    "char": "mì / mat",
+    "hanzi": "密",
+    "definition": "Dense / secret / close"
+  },
+  {
+    "day": 860,
+    "char": "shū / syu",
+    "hanzi": "疏",
+    "definition": "Sparse / distant / clear"
+  },
+  {
+    "day": 861,
+    "char": "lǎn / laan",
+    "hanzi": "懒",
+    "definition": "Lazy / sluggish"
+  },
+  {
+    "day": 862,
+    "char": "duò / do",
+    "hanzi": "惰",
+    "definition": "Idle / lazy / slothful"
+  },
+  {
+    "day": 863,
+    "char": "qín / kan",
+    "hanzi": "勤",
+    "definition": "Diligent / hardworking"
+  },
+  {
+    "day": 864,
+    "char": "miǎn / min",
+    "hanzi": "勉",
+    "definition": "To strive / encourage"
+  },
+  {
+    "day": 865,
+    "char": "lì / lik",
+    "hanzi": "力",
+    "definition": "Power / force / strength"
+  },
+  {
+    "day": 866,
+    "char": "jìn / zeon",
+    "hanzi": "尽",
+    "definition": "To exhaust / finish / utmost"
+  },
+  {
+    "day": 867,
+    "char": "jié / kit",
+    "hanzi": "竭",
+    "definition": "To exhaust / drain / run out"
+  },
+  {
+    "day": 868,
+    "char": "fá / fat",
+    "hanzi": "乏",
+    "definition": "Tired / lacking / weary"
+  },
+  {
+    "day": 869,
+    "char": "lài / laai",
+    "hanzi": "赖",
+    "definition": "To depend on / rely / bad"
+  },
+  {
+    "day": 870,
+    "char": "kào / kaau",
+    "hanzi": "靠",
+    "definition": "To lean on / depend / near"
+  },
+  {
+    "day": 871,
+    "char": "zhàng / zoeng",
+    "hanzi": "仗",
+    "definition": "To rely on / battle / war"
+  },
+  {
+    "day": 872,
+    "char": "tǒng / tung",
+    "hanzi": "统",
+    "definition": "To gather / unite / system"
+  },
+  {
+    "day": 873,
+    "char": "lǐng / ling",
+    "hanzi": "领",
+    "definition": "To lead / neck / receive"
+  },
+  {
+    "day": 874,
+    "char": "dǎo / dou",
+    "hanzi": "导",
+    "definition": "To lead / guide"
+  },
+  {
+    "day": 875,
+    "char": "shuài / seot",
+    "hanzi": "率",
+    "definition": "Rate / ratio / lead"
+  },
+  {
+    "day": 876,
+    "char": "lǜ / leoi",
+    "hanzi": "率",
+    "definition": "Frequency / proportion"
+  },
+  {
+    "day": 877,
+    "char": "cóng / cung",
+    "hanzi": "从",
+    "definition": "From / follow / obey"
+  },
+  {
+    "day": 878,
+    "char": "suí / ceoi",
+    "hanzi": "随",
+    "definition": "To follow / comply with"
+  },
+  {
+    "day": 879,
+    "char": "zhú / zuk",
+    "hanzi": "逐",
+    "definition": "To chase / pursue / one by one"
+  },
+  {
+    "day": 880,
+    "char": "gǎn / gon",
+    "hanzi": "赶",
+    "definition": "To catch up / rush / drive away"
+  },
+  {
+    "day": 881,
+    "char": "zhuī / zeoi",
+    "hanzi": "追",
+    "definition": "To chase / pursue / trace"
+  },
+  {
+    "day": 882,
+    "char": "bī / bik",
+    "hanzi": "逼",
+    "definition": "To force / compel"
+  },
+  {
+    "day": 883,
+    "char": "pò / baak",
+    "hanzi": "迫",
+    "definition": "To force / urgent / approach"
+  },
+  {
+    "day": 884,
+    "char": "cè / sak",
+    "hanzi": "测",
+    "definition": "To measure / survey / fathom"
+  },
+  {
+    "day": 885,
+    "char": "liáng / loeng",
+    "hanzi": "量",
+    "definition": "To measure / capacity / quantity"
+  },
+  {
+    "day": 886,
+    "char": "dù / dou",
+    "hanzi": "度",
+    "definition": "Degree / limit / to spend (time)"
+  },
+  {
+    "day": 887,
+    "char": "héng / hang",
+    "hanzi": "衡",
+    "definition": "Weighing scale / balance / evaluate"
+  },
+  {
+    "day": 888,
+    "char": "píng / ping",
+    "hanzi": "平",
+    "definition": "Flat / smooth / peace"
+  },
+  {
+    "day": 889,
+    "char": "zhèng / zing",
+    "hanzi": "正",
+    "definition": "Straight / proper / correct"
+  },
+  {
+    "day": 890,
+    "char": "zhí / zik",
+    "hanzi": "直",
+    "definition": "Straight / vertical / frank"
+  },
+  {
+    "day": 891,
+    "char": "qū / kuk",
+    "hanzi": "曲",
+    "definition": "Crooked / curved / song"
+  },
+  {
+    "day": 892,
+    "char": "zhé / zit",
+    "hanzi": "折",
+    "definition": "To fold / break / discount"
+  },
+  {
+    "day": 893,
+    "char": "wān / waan",
+    "hanzi": "弯",
+    "definition": "Curved / bend / bow"
+  },
+  {
+    "day": 894,
+    "char": "rào / jiu",
+    "hanzi": "绕",
+    "definition": "To wind / coil / surround"
+  },
+  {
+    "day": 895,
+    "char": "shī / sap",
+    "hanzi": "湿",
+    "definition": "Wet / damp / humid"
+  },
+  {
+    "day": 896,
+    "char": "gān / gon",
+    "hanzi": "干",
+    "definition": "Dry / clean / stem"
+  },
+  {
+    "day": 897,
+    "char": "kū / fu",
+    "hanzi": "枯",
+    "definition": "Withered / dried up / decayed"
+  },
+  {
+    "day": 898,
+    "char": "róng / jung",
+    "hanzi": "荣",
+    "definition": "Glory / honor / flourishing"
+  },
+  {
+    "day": 899,
+    "char": "kū / fu",
+    "hanzi": "枯",
+    "definition": "Dry wood / withered"
+  },
+  {
+    "day": 900,
+    "char": "xīng / hing",
+    "hanzi": "兴",
+    "definition": "To thrive / prosper / interest"
+  },
+  {
+    "day": 901,
+    "char": "wáng / wong",
+    "hanzi": "王",
+    "definition": "King / monarch"
+  },
+  {
+    "day": 902,
+    "char": "huáng / wong",
+    "hanzi": "皇",
+    "definition": "Emperor / imperial"
+  },
+  {
+    "day": 903,
+    "char": "dì / dai",
+    "hanzi": "帝",
+    "definition": "Emperor / god / supreme ruler"
+  },
+  {
+    "day": 904,
+    "char": "hòu / hau",
+    "hanzi": "后",
+    "definition": "Empress / queen / sovereign"
+  },
+  {
+    "day": 905,
+    "char": "wáng / wong",
+    "hanzi": "网",
+    "definition": "Net / network / web"
+  },
+  {
+    "day": 906,
+    "char": "luó / lo",
+    "hanzi": "罗",
+    "definition": "Gauze / net / collect"
+  },
+  {
+    "day": 907,
+    "char": "wǎng / wong",
+    "hanzi": "往",
+    "definition": "Past / toward"
+  },
+  {
+    "day": 908,
+    "char": "fù / fuk",
+    "hanzi": "复",
+    "definition": "To return / reply / restore"
+  },
+  {
+    "day": 909,
+    "char": "huán / waan",
+    "hanzi": "还",
+    "definition": "To return / give back / still"
+  },
+  {
+    "day": 910,
+    "char": "guī / gwai",
+    "hanzi": "归",
+    "definition": "To return / go back / belong to"
+  },
+  {
+    "day": 911,
+    "char": "fǎn / faan",
+    "hanzi": "返",
+    "definition": "To return / revert / go back"
+  },
+  {
+    "day": 912,
+    "char": "zhuàn / jyun",
+    "hanzi": "转",
+    "definition": "To revolve / turn / transfer"
+  },
+  {
+    "day": 913,
+    "char": "xún / ceon",
+    "hanzi": "循",
+    "definition": "To follow / abide by / cycle"
+  },
+  {
+    "day": 914,
+    "char": "huán / waan",
+    "hanzi": "环",
+    "definition": "Ring / hoop / loop / surround"
+  },
+  {
+    "day": 915,
+    "char": "zhōu / zau",
+    "hanzi": "周",
+    "definition": "Cycle / circumference / week"
+  },
+  {
+    "day": 916,
+    "char": "qī / kei",
+    "hanzi": "期",
+    "definition": "Cycle / term / time"
+  },
+  {
+    "day": 917,
+    "char": "zài / joi",
+    "hanzi": "再",
+    "definition": "Again / once more / then"
+  },
+  {
+    "day": 918,
+    "char": "yòu / yau",
+    "hanzi": "又",
+    "definition": "Again / also"
+  },
+  {
+    "day": 919,
+    "char": "gèng / gang",
+    "hanzi": "更",
+    "definition": "More / further / even more"
+  },
+  {
+    "day": 920,
+    "char": "zuì / zeoi",
+    "hanzi": "最",
+    "definition": "Most / superlative prefix"
+  },
+  {
+    "day": 921,
+    "char": "jí / gik",
+    "hanzi": "极",
+    "definition": "Extreme / utmost / pole"
+  },
+  {
+    "day": 922,
+    "char": "shén / sam",
+    "hanzi": "甚",
+    "definition": "Very / extremely / what"
+  },
+  {
+    "day": 923,
+    "char": "tài / taai",
+    "hanzi": "太",
+    "definition": "Too / excessively / great"
+  },
+  {
+    "day": 924,
+    "char": "guò / gwo",
+    "hanzi": "过",
+    "definition": "Too / excessively / pass"
+  },
+  {
+    "day": 925,
+    "char": "shao / siu",
+    "hanzi": "少",
+    "definition": "Few / little / less"
+  },
+  {
+    "day": 926,
+    "char": "duō / do",
+    "hanzi": "多",
+    "definition": "Many / much / more"
+  },
+  {
+    "day": 927,
+    "char": "xǔ / heoi",
+    "hanzi": "许",
+    "definition": "Maybe / to allow / a lot"
+  },
+  {
+    "day": 928,
+    "char": "kě / ho",
+    "hanzi": "可",
+    "definition": "Can / may / able to"
+  },
+  {
+    "day": 929,
+    "char": "néng / nang",
+    "hanzi": "能",
+    "definition": "Can / able / capable"
+  },
+  {
+    "day": 930,
+    "char": "fāng / fong",
+    "hanzi": "方",
+    "definition": "Way / method / direction"
+  },
+  {
+    "day": 931,
+    "char": "fǎ / faat",
+    "hanzi": "法",
+    "definition": "Law / method / way"
+  },
+  {
+    "day": 932,
+    "char": "bàn / baan",
+    "hanzi": "办",
+    "definition": "To handle / do / manage"
+  },
+  {
+    "day": 933,
+    "char": "shī / si",
+    "hanzi": "施",
+    "definition": "To execute / carry out / apply"
+  },
+  {
+    "day": 934,
+    "char": "xíng / hang",
+    "hanzi": "行",
+    "definition": "To execute / behavior / travel"
+  },
+  {
+    "day": 935,
+    "char": "wéi / wai",
+    "hanzi": "为",
+    "definition": "To act as / do / for"
+  },
+  {
+    "day": 936,
+    "char": "shǐ / si",
+    "hanzi": "使",
+    "definition": "To cause / make / envoy"
+  },
+  {
+    "day": 937,
+    "char": "lìng / ling",
+    "hanzi": "令",
+    "definition": "To command / order / cause"
+  },
+  {
+    "day": 938,
+    "char": "zhǐ / zi",
+    "hanzi": "旨",
+    "definition": "Imperial decree / aim / purpose"
+  },
+  {
+    "day": 939,
+    "char": "sì / ci",
+    "hanzi": "赐",
+    "definition": "To bestow / grant / gift"
+  },
+  {
+    "day": 940,
+    "char": "péi / pui",
+    "hanzi": "赔",
+    "definition": "To compensate / pay for loss"
+  },
+  {
+    "day": 941,
+    "char": "cháng / soeng",
+    "hanzi": "偿",
+    "definition": "To compensate / repay / fulfill"
+  },
+  {
+    "day": 942,
+    "char": "bǔ / bou",
+    "hanzi": "补",
+    "definition": "To compensate / repair / supplement"
+  },
+  {
+    "day": 943,
+    "char": "tì / tai",
+    "hanzi": "替",
+    "definition": "To substitute / replace / for"
+  },
+  {
+    "day": 944,
+    "char": "dài / doi",
+    "hanzi": "代",
+    "definition": "Generation / era / substitute"
+  },
+  {
+    "day": 945,
+    "char": "huàn / wun",
+    "hanzi": "换",
+    "definition": "To exchange / change / trade"
+  },
+  {
+    "day": 946,
+    "char": "tì / tai",
+    "hanzi": "剔",
+    "definition": "To scrape off / pick out"
+  },
+  {
+    "day": 947,
+    "char": "xuǎn / syun",
+    "hanzi": "选",
+    "definition": "To choose / select / election"
+  },
+  {
+    "day": 948,
+    "char": "tiāo / tiu",
+    "hanzi": "挑",
+    "definition": "To choose / pick / lift"
+  },
+  {
+    "day": 949,
+    "char": "jiǎn / gaam",
+    "hanzi": "拣",
+    "definition": "To select / choose / pick"
+  },
+  {
+    "day": 950,
+    "char": "tǎo / tou",
+    "hanzi": "讨",
+    "definition": "To ask for / discuss / punish"
+  },
+  {
+    "day": 951,
+    "char": "faí / jyu",
+    "hanzi": "予",
+    "definition": "To give / grant"
+  },
+  {
+    "day": 952,
+    "char": "gěi / kap",
+    "hanzi": "给",
+    "definition": "To give / provide / for"
+  },
+  {
+    "day": 953,
+    "char": "sòng / sung",
+    "hanzi": "送",
+    "definition": "To deliver / give / send off"
+  },
+  {
+    "day": 954,
+    "char": "pài / paai",
+    "hanzi": "派",
+    "definition": "To dispatch / faction / send"
+  },
+  {
+    "day": 955,
+    "char": "qiān / hin",
+    "hanzi": "牵",
+    "definition": "To pull / lead along / involve"
+  },
+  {
+    "day": 956,
+    "char": "yǐn / yan",
+    "hanzi": "引",
+    "definition": "To lead / guide / pull"
+  },
+  {
+    "day": 957,
+    "char": "zhuān / zyun",
+    "hanzi": "专",
+    "definition": "Specialized / exclusive / focus"
+  },
+  {
+    "day": 958,
+    "char": "shר / syu",
+    "hanzi": "属",
+    "definition": "Category / belong to / dependent"
+  },
+  {
+    "day": 959,
+    "char": "zhǔ / jyu",
+    "hanzi": "属",
+    "definition": "Belong to / subordinate"
+  },
+  {
+    "day": 960,
+    "char": "xì / hai",
+    "hanzi": "系",
+    "definition": "Department / connection / system"
+  },
+  {
+    "day": 961,
+    "char": "guān / gwaan",
+    "hanzi": "关",
+    "definition": "Connection / close / mountain pass"
+  },
+  {
+    "day": 962,
+    "char": "lián / lyun",
+    "hanzi": "联",
+    "definition": "To unite / join / alliance"
+  },
+  {
+    "day": 963,
+    "char": "hé / hap",
+    "hanzi": "合",
+    "definition": "To combine / close / match"
+  },
+  {
+    "day": 964,
+    "char": "jí / kap",
+    "hanzi": "及",
+    "definition": "And / reach / up to"
+  },
+  {
+    "day": 965,
+    "char": "bìng / bing",
+    "hanzi": "并",
+    "definition": "And / side by side / merge"
+  },
+  {
+    "day": 966,
+    "char": "qiě / ce",
+    "hanzi": "且",
+    "definition": "And / moreover / temporarily"
+  },
+  {
+    "day": 967,
+    "char": "ér / ji",
+    "hanzi": "而",
+    "definition": "And / yet / but"
+  },
+  {
+    "day": 968,
+    "char": "yòu / yau",
+    "hanzi": "又",
+    "definition": "And / also / furthermore"
+  },
+  {
+    "day": 969,
+    "char": "jiā / gaa",
+    "hanzi": "加",
+    "definition": "To add / plus / increase"
+  },
+  {
+    "day": 970,
+    "char": "zēng / zang",
+    "hanzi": "增",
+    "definition": "To increase / add / heighten"
+  },
+  {
+    "day": 971,
+    "char": "ti添 / tim",
+    "hanzi": "添",
+    "definition": "To add / increase / supply"
+  },
+  {
+    "day": 972,
+    "char": "jiǎn / gaam",
+    "hanzi": "减",
+    "definition": "To subtract / decrease / reduce"
+  },
+  {
+    "day": 973,
+    "char": "shǎo / siu",
+    "hanzi": "少",
+    "definition": "To lessen / lack / few"
+  },
+  {
+    "day": 974,
+    "char": "bù / bat",
+    "hanzi": "不",
+    "definition": "Not / non-"
+  },
+  {
+    "day": 975,
+    "char": "fēi / fei",
+    "hanzi": "非",
+    "definition": "Non- / not / wrong"
+  },
+  {
+    "day": 976,
+    "char": "wú / mou",
+    "hanzi": "无",
+    "definition": "Without / nothing / none"
+  },
+  {
+    "day": 977,
+    "char": "wáng / mong",
+    "hanzi": "亡",
+    "definition": "To die / perish / lose"
+  },
+  {
+    "day": 978,
+    "char": "shī / sat",
+    "hanzi": "失",
+    "definition": "To lose / miss / fault"
+  },
+  {
+    "day": 979,
+    "char": "dào / dou",
+    "hanzi": "盗",
+    "definition": "Theft / thief / to steal"
+  },
+  {
+    "day": 980,
+    "char": "zé / caak",
+    "hanzi": "贼",
+    "definition": "Thief / traitor / enemy"
+  },
+  {
+    "day": 981,
+    "char": "qiáng / keung",
+    "hanzi": "强",
+    "definition": "Strong / powerful / forced"
+  },
+  {
+    "day": 982,
+    "char": "ruò / joek",
+    "hanzi": "弱",
+    "definition": "Weak / frail / feeble"
+  },
+  {
+    "day": 983,
+    "char": "shèng / sing",
+    "hanzi": "胜",
+    "definition": "Victory / triumph / excel"
+  },
+  {
+    "day": 984,
+    "char": "fù / bai",
+    "hanzi": "败",
+    "definition": "Defeat / failure / ruin"
+  },
+  {
+    "day": 985,
+    "char": "zhēng / zang",
+    "hanzi": "争",
+    "definition": "To fight / compete / contend"
+  },
+  {
+    "day": 986,
+    "char": "dòu / dau",
+    "hanzi": "斗",
+    "definition": "To fight / struggle / contest"
+  },
+  {
+    "day": 987,
+    "char": "zhàn / zin",
+    "hanzi": "战",
+    "definition": "War / battle / fight"
+  },
+  {
+    "day": 988,
+    "char": "bīng / bing",
+    "hanzi": "兵",
+    "definition": "Soldier / military / troops"
+  },
+  {
+    "day": 989,
+    "char": "jiāng / zoeng",
+    "hanzi": "将",
+    "definition": "General / commander / leader"
+  },
+  {
+    "day": 990,
+    "char": "shuài / seot",
+    "hanzi": "帅",
+    "definition": "Handsome / commander / chief"
+  },
+  {
+    "day": 991,
+    "char": "lǚ / leoi",
+    "hanzi": "旅",
+    "definition": "Trip / brigade / troops"
+  },
+  {
+    "day": 992,
+    "char": "yíng / jing",
+    "hanzi": "营",
+    "definition": "Camp / barracks / battalion"
+  },
+  {
+    "day": 993,
+    "char": "lián / lyun",
+    "hanzi": "连",
+    "definition": "Company (military unit) / even / connect"
+  },
+  {
+    "day": 994,
+    "char": "pái / paai",
+    "hanzi": "排",
+    "definition": "Platoon / row / arrange"
+  },
+  {
+    "day": 995,
+    "char": "bān / baan",
+    "hanzi": "班",
+    "definition": "Squad / shift / class"
+  },
+  {
+    "day": 996,
+    "char": "shào / saau",
+    "hanzi": "哨",
+    "definition": "Sentry post / whistle / patrol"
+  },
+  {
+    "day": 997,
+    "char": "jiào / gaau",
+    "hanzi": "较",
+    "definition": "Comparison / relatively / test"
+  },
+  {
+    "day": 998,
+    "char": "yàn / jim",
+    "hanzi": "验",
+    "definition": "To examine / test / verify"
+  },
+  {
+    "day": 999,
+    "char": "zhèng / zing",
+    "hanzi": "证",
+    "definition": "Proof / certificate / evidence"
+  },
+  {
+    "day": 1000,
+    "char": "wán / jyun",
+    "hanzi": "完",
+    "definition": "To finish / complete / intact"
+  },
+  {
+    "day": 1001,
+    "char": "shēng / sang",
+    "hanzi": "生",
+    "definition": "Life / to be born / raw"
+  },
+  {
+    "day": 1002,
+    "char": "huó / wut",
+    "hanzi": "活",
+    "definition": "Life / live / activity"
+  },
+  {
+    "day": 1003,
+    "char": "mìng / ming",
+    "hanzi": "命",
+    "definition": "Life / fate / command"
+  },
+  {
+    "day": 1004,
+    "char": "yùn / wan",
+    "hanzi": "运",
+    "definition": "Luck / fortune / to transport"
+  },
+  {
+    "day": 1005,
+    "char": "qì / hei",
+    "hanzi": "气",
+    "definition": "Qi / gas / air / anger"
+  },
+  {
+    "day": 1006,
+    "char": "shí / si",
+    "hanzi": "时",
+    "definition": "Time / season / era"
+  },
+  {
+    "day": 1007,
+    "char": "jiān / gaan",
+    "hanzi": "间",
+    "definition": "Space / interval / between"
+  },
+  {
+    "day": 1008,
+    "char": "kōng / hung",
+    "hanzi": "空",
+    "definition": "Sky / empty / space"
+  },
+  {
+    "day": 1009,
+    "char": "jiān / gaan",
+    "hanzi": "间",
+    "definition": "Room / apartment / space"
+  },
+  {
+    "day": 1010,
+    "char": "dì / dei",
+    "hanzi": "地",
+    "definition": "Earth / ground / floor"
+  },
+  {
+    "day": 1011,
+    "char": "fāng / fong",
+    "hanzi": "方",
+    "definition": "Square / direction / side"
+  },
+  {
+    "day": 1012,
+    "char": "xiàng / hoeng",
+    "hanzi": "向",
+    "definition": "Toward / direction / face"
+  },
+  {
+    "day": 1013,
+    "char": "miàn / min",
+    "hanzi": "面",
+    "definition": "Face / side / surface"
+  },
+  {
+    "day": 1014,
+    "char": "bù / bou",
+    "hanzi": "步",
+    "definition": "Step / pace / stage"
+  },
+  {
+    "day": 1015,
+    "char": "zǒu / zau",
+    "hanzi": "走",
+    "definition": "To walk / go / leave"
+  },
+  {
+    "day": 1016,
+    "char": "pǎo / paau",
+    "hanzi": "跑",
+    "definition": "To run / race / escape"
+  },
+  {
+    "day": 1017,
+    "char": "tiào / tiu",
+    "hanzi": "跳",
+    "definition": "To jump / leap / bounce"
+  },
+  {
+    "day": 1018,
+    "char": "fēi / fei",
+    "hanzi": "飞",
+    "definition": "To fly / hover"
+  },
+  {
+    "day": 1019,
+    "char": "qǐ / hei",
+    "hanzi": "起",
+    "definition": "To rise / get up / start"
+  },
+  {
+    "day": 1020,
+    "char": "fò / faat",
+    "hanzi": "发",
+    "definition": "To send out / launch / hair"
+  },
+  {
+    "day": 1021,
+    "char": "dào / dou",
+    "hanzi": "到",
+    "definition": "To arrive / reach / to"
+  },
+  {
+    "day": 1022,
+    "char": "qù / heoi",
+    "hanzi": "去",
+    "definition": "To go / leave / remove"
+  },
+  {
+    "day": 1023,
+    "char": "lái / loi",
+    "hanzi": "来",
+    "definition": "To come / arrive / future"
+  },
+  {
+    "day": 1024,
+    "char": "wǎng / wong",
+    "hanzi": "往",
+    "definition": "To go toward / bound for"
+  },
+  {
+    "day": 1025,
+    "char": "guò / gwo",
+    "hanzi": "过",
+    "definition": "To pass / cross / spend time"
+  },
+  {
+    "day": 1026,
+    "char": "jìn / zeon",
+    "hanzi": "进",
+    "definition": "To enter / come in / advance"
+  },
+  {
+    "day": 1027,
+    "char": "chū / ceot",
+    "hanzi": "出",
+    "definition": "To go out / exit / produce"
+  },
+  {
+    "day": 1028,
+    "char": "chí / cuk",
+    "hanzi": "出",
+    "definition": "To emerge / issue"
+  },
+  {
+    "day": 1029,
+    "char": "rú / jyu",
+    "hanzi": "如",
+    "definition": "As if / like / according to"
+  },
+  {
+    "day": 1030,
+    "char": "guǒ / gwo",
+    "hanzi": "果",
+    "definition": "If / fruit / result"
+  },
+  {
+    "day": 1031,
+    "char": "suǒ / so",
+    "hanzi": "所",
+    "definition": "Place / location / marker"
+  },
+  {
+    "day": 1032,
+    "char": "yǐ / ji",
+    "hanzi": "以",
+    "definition": "By means of / with / because"
+  },
+  {
+    "day": 1033,
+    "char": "wei / wai",
+    "hanzi": "为",
+    "definition": "For / as / to act as"
+  },
+  {
+    "day": 1034,
+    "char": "bèi / pei",
+    "hanzi": "被",
+    "definition": "By (passive voice marker)"
+  },
+  {
+    "day": 1035,
+    "char": "bǐ / bei",
+    "hanzi": "比",
+    "definition": "To compare / ratio / than"
+  },
+  {
+    "day": 1036,
+    "char": "jiào / gaau",
+    "hanzi": "较",
+    "definition": "Comparatively / relatively"
+  },
+  {
+    "day": 1037,
+    "char": "gèng / gang",
+    "hanzi": "更",
+    "definition": "More / even more"
+  },
+  {
+    "day": 1038,
+    "char": "zuì / zeoi",
+    "hanzi": "最",
+    "definition": "Most / extremely"
+  },
+  {
+    "day": 1039,
+    "char": "hěn / han",
+    "hanzi": "很",
+    "definition": "Very / quite"
+  },
+  {
+    "day": 1040,
+    "char": "fēicháng / fei soeng",
+    "hanzi": "非",
+    "definition": "Not / extraordinary / very"
+  },
+  {
+    "day": 1041,
+    "char": "cháng / soeng",
+    "hanzi": "常",
+    "definition": "Often / constant / regular"
+  },
+  {
+    "day": 1042,
+    "char": "jiàn / gin",
+    "hanzi": "见",
+    "definition": "To see / meet / appear"
+  },
+  {
+    "day": 1043,
+    "char": "tīng / ting",
+    "hanzi": "听",
+    "definition": "To listen / hear / obey"
+  },
+  {
+    "day": 1044,
+    "char": "shuō / syut",
+    "hanzi": "说",
+    "definition": "To speak / say / talk"
+  },
+  {
+    "day": 1045,
+    "char": "huà / waa",
+    "hanzi": "话",
+    "definition": "Speech / word / language"
+  },
+  {
+    "day": 1046,
+    "char": "wèn / man",
+    "hanzi": "问",
+    "definition": "To ask / inquire"
+  },
+  {
+    "day": 1047,
+    "char": "dá / daap",
+    "hanzi": "答",
+    "definition": "To answer / reply"
+  },
+  {
+    "day": 1048,
+    "char": "zhǎo / zaau",
+    "hanzi": "找",
+    "definition": "To look for / seek / give change"
+  },
+  {
+    "day": 1049,
+    "char": "dào / dou",
+    "hanzi": "到",
+    "definition": "To find / reach"
+  },
+  {
+    "day": 1050,
+    "char": "zhī / zi",
+    "hanzi": "知",
+    "definition": "To know / realize / awareness"
+  },
+  {
+    "day": 1051,
+    "char": "dào / dou",
+    "hanzi": "道",
+    "definition": "Path / way / know"
+  },
+  {
+    "day": 1052,
+    "char": "xìn / seon",
+    "hanzi": "信",
+    "definition": "To believe / trust / letter"
+  },
+  {
+    "day": 1053,
+    "char": "rèn / jam",
+    "hanzi": "认",
+    "definition": "To recognize / know / admit"
+  },
+  {
+    "day": 1054,
+    "char": "shi / sik",
+    "hanzi": "识",
+    "definition": "To know / knowledge / recognize"
+  },
+  {
+    "day": 1055,
+    "char": "jiǎng / gong",
+    "hanzi": "讲",
+    "definition": "To speak / explain / discuss"
+  },
+  {
+    "day": 1056,
+    "char": "jiě / gaai",
+    "hanzi": "解",
+    "definition": "To untie / solve / understand"
+  },
+  {
+    "day": 1057,
+    "char": "dǒng / dung",
+    "hanzi": "懂",
+    "definition": "To understand / comprehend"
+  },
+  {
+    "day": 1058,
+    "char": "míng / ming",
+    "hanzi": "明",
+    "definition": "Bright / clear / understand"
+  },
+  {
+    "day": 1059,
+    "char": "bái / baak",
+    "hanzi": "白",
+    "definition": "White / clear / plain"
+  },
+  {
+    "day": 1060,
+    "char": "xiǎng / soeng",
+    "hanzi": "想",
+    "definition": "To think / want / miss"
+  },
+  {
+    "day": 1061,
+    "char": "niàn / nim",
+    "hanzi": "念",
+    "definition": "To read aloud / study / miss"
+  },
+  {
+    "day": 1062,
+    "char": "yì / ji",
+    "hanzi": "意",
+    "definition": "Mind / meaning / intention"
+  },
+  {
+    "day": 1063,
+    "char": "sī / si",
+    "hanzi": "思",
+    "definition": "To think / consider / thought"
+  },
+  {
+    "day": 1064,
+    "char": "gǎn / gam",
+    "hanzi": "感",
+    "definition": "Feeling / emotion / sense"
+  },
+  {
+    "day": 1065,
+    "char": "qíng / cing",
+    "hanzi": "情",
+    "definition": "Emotion / feeling / affection"
+  },
+  {
+    "day": 1066,
+    "char": "ài / oi",
+    "hanzi": "爱",
+    "definition": "To love / affection / fondness"
+  },
+  {
+    "day": 1067,
+    "char": "hèn / han",
+    "hanzi": "恨",
+    "definition": "To hate / regret"
+  },
+  {
+    "day": 1068,
+    "char": "xǐ / hei",
+    "hanzi": "喜",
+    "definition": "Happy / joyful / like"
+  },
+  {
+    "day": 1069,
+    "char": "huān / fun",
+    "hanzi": "欢",
+    "definition": "Joyful / happy / merry"
+  },
+  {
+    "day": 1070,
+    "char": "nù / nou",
+    "hanzi": "怒",
+    "definition": "Anger / rage / furious"
+  },
+  {
+    "day": 1071,
+    "char": "āi / oi",
+    "hanzi": "哀",
+    "definition": "Grief / sorrow / pity"
+  },
+  {
+    "day": 1072,
+    "char": "lè / lok",
+    "hanzi": "乐",
+    "definition": "Happy / cheerful / music"
+  },
+  {
+    "day": 1073,
+    "char": "xiào / siu",
+    "hanzi": "笑",
+    "definition": "To smile / laugh"
+  },
+  {
+    "day": 1074,
+    "char": "kū / huk",
+    "hanzi": "哭",
+    "definition": "To cry / weep"
+  },
+  {
+    "day": 1075,
+    "char": "pàng / pung",
+    "hanzi": "胖",
+    "definition": "Fat / plump"
+  },
+  {
+    "day": 1076,
+    "char": "shòu / sau",
+    "hanzi": "瘦",
+    "definition": "Thin / lean / skinny"
+  },
+  {
+    "day": 1077,
+    "char": "gāo / gou",
+    "hanzi": "高",
+    "definition": "Tall / high / loud"
+  },
+  {
+    "day": 1078,
+    "char": "dī / dai",
+    "hanzi": "低",
+    "definition": "Low / lower / droop"
+  },
+  {
+    "day": 1079,
+    "char": "cháng / coeng",
+    "hanzi": "长",
+    "definition": "Long / grow"
+  },
+  {
+    "day": 1080,
+    "char": "duǎn / dyun",
+    "hanzi": "短",
+    "definition": "Short"
+  },
+  {
+    "day": 1081,
+    "char": "kuài / faai",
+    "hanzi": "快",
+    "definition": "Fast / quick / happy"
+  },
+  {
+    "day": 1082,
+    "char": "màn / maan",
+    "hanzi": "慢",
+    "definition": "Slow / sluggish"
+  },
+  {
+    "day": 1083,
+    "char": "zhǎo / zou",
+    "hanzi": "早",
+    "definition": "Early / morning"
+  },
+  {
+    "day": 1084,
+    "char": "wǎn / maan",
+    "hanzi": "晚",
+    "definition": "Late / evening / night"
+  },
+  {
+    "day": 1085,
+    "char": "xīn / san",
+    "hanzi": "新",
+    "definition": "New"
+  },
+  {
+    "day": 1086,
+    "char": "jiù / gau",
+    "hanzi": "旧",
+    "definition": "Old"
+  },
+  {
+    "day": 1087,
+    "char": "hǎo / hou",
+    "hanzi": "好",
+    "definition": "Good / well"
+  },
+  {
+    "day": 1088,
+    "char": "huài / waai",
+    "hanzi": "坏",
+    "definition": "Bad / broken / spoiled"
+  },
+  {
+    "day": 1089,
+    "char": "duì / deoi",
+    "hanzi": "对",
+    "definition": "Right / correct / pair"
+  },
+  {
+    "day": 1090,
+    "char": "cuò / co",
+    "hanzi": "错",
+    "definition": "Wrong / error / mistake"
+  },
+  {
+    "day": 1091,
+    "char": "duō / do",
+    "hanzi": "多",
+    "definition": "Many / much"
+  },
+  {
+    "day": 1092,
+    "char": "shǎo / siu",
+    "hanzi": "少",
+    "definition": "Few / little"
+  },
+  {
+    "day": 1093,
+    "char": "dà / daai",
+    "hanzi": "大",
+    "definition": "Big / large / great"
+  },
+  {
+    "day": 1094,
+    "char": "xiǎo / siu",
+    "hanzi": "小",
+    "definition": "Small / little / minor"
+  },
+  {
+    "day": 1095,
+    "char": "zhēn / zan",
+    "hanzi": "真",
+    "definition": "True / real / genuine"
+  },
+  {
+    "day": 1096,
+    "char": "jiǎ / gaa",
+    "hanzi": "假",
+    "definition": "False / fake / holiday"
+  },
+  {
+    "day": 1097,
+    "char": "měi / mei",
+    "hanzi": "美",
+    "definition": "Beautiful / pretty / America"
+  },
+  {
+    "day": 1098,
+    "char": "chǒu / cau",
+    "hanzi": "丑",
+    "definition": "Ugly / shameful"
+  },
+  {
+    "day": 1099,
+    "char": "máng / mong",
+    "hanzi": "忙",
+    "definition": "Busy / hurried"
+  },
+  {
+    "day": 1100,
+    "char": "xi闲 / haan",
+    "hanzi": "闲",
+    "definition": "Idle / free time / leisure"
+  },
+  {
+    "day": 1101,
+    "char": "唔 (Mandarin: wú / Cantonese: m)",
+    "hanzi": "唔",
+    "definition": "Not / no (Cantonese negative prefix)"
+  },
+  {
+    "day": 1102,
+    "char": "佢 (Mandarin: qú / Cantonese: keoi)",
+    "hanzi": "佢",
+    "definition": "He / she / it (Cantonese pronoun)"
+  },
+  {
+    "day": 1103,
+    "char": "喺 (Mandarin: xǐ / Cantonese: hai)",
+    "hanzi": "喺",
+    "definition": "At / in / on (Cantonese location marker)"
+  },
+  {
+    "day": 1104,
+    "char": "嘅 (Mandarin: gě / Cantonese: ge)",
+    "hanzi": "嘅",
+    "definition": "Possessive particle / 's (Cantonese)"
+  },
+  {
+    "day": 1105,
+    "char": "咗 (Mandarin: zuǒ / Cantonese: zo)",
+    "hanzi": "咗",
+    "definition": "Completed action aspect marker (Cantonese)"
+  },
+  {
+    "day": 1106,
+    "char": "嚟 (Mandarin: lái / Cantonese: lai)",
+    "hanzi": "嚟",
+    "definition": "To come / towards (Cantonese)"
+  },
+  {
+    "day": 1107,
+    "char": "睇 (Mandarin: tǐ / Cantonese: tai)",
+    "hanzi": "睇",
+    "definition": "To look / watch / read (Cantonese preferred)"
+  },
+  {
+    "day": 1108,
+    "char": "咁 (Mandarin: gàn / Cantonese: gam)",
+    "hanzi": "咁",
+    "definition": "So / thus / like this (Cantonese)"
+  },
+  {
+    "day": 1109,
+    "char": "哋 (Mandarin: de / Cantonese: dei)",
+    "hanzi": "哋",
+    "definition": "Plural suffix for pronouns e.g. we/they (Cantonese)"
+  },
+  {
+    "day": 1110,
+    "char": "嘢 (Mandarin: yě / Cantonese: je)",
+    "hanzi": "嘢",
+    "definition": "Thing / stuff / object (Cantonese)"
+  },
+  {
+    "day": 1111,
+    "char": "畀 (Mandarin: bì / Cantonese: bei)",
+    "hanzi": "畀",
+    "definition": "To give / let / passive marker by (Cantonese)"
+  },
+  {
+    "day": 1112,
+    "char": "食 (Mandarin: chī / Cantonese: sik)",
+    "hanzi": "食",
+    "definition": "To eat / consume"
+  },
+  {
+    "day": 1113,
+    "char": "行 (Mandarin: xíng / Cantonese: haang)",
+    "hanzi": "行",
+    "definition": "To walk (Cantonese common usage for walking)"
+  },
+  {
+    "day": 1114,
+    "char": "企 (Mandarin: qǐ / Cantonese: kei)",
+    "hanzi": "企",
+    "definition": "To stand (Cantonese)"
+  },
+  {
+    "day": 1115,
+    "char": "攰 (Mandarin: lèi / Cantonese: gui)",
+    "hanzi": "攰",
+    "definition": "Tired / fatigued (Cantonese)"
+  },
+  {
+    "day": 1116,
+    "char": "靚 (Mandarin: liàng / Cantonese: leng)",
+    "hanzi": "靚",
+    "definition": "Pretty / handsome / clean (Cantonese)"
+  },
+  {
+    "day": 1117,
+    "char": "嘈 (Mandarin: cáo / Cantonese: cou)",
+    "hanzi": "嘈",
+    "definition": "Noisy / to make a noise"
+  },
+  {
+    "day": 1118,
+    "char": "拎 (Mandarin: líng / Cantonese: ling)",
+    "hanzi": "拎",
+    "definition": "To carry / lift with hand (Cantonese)"
+  },
+  {
+    "day": 1119,
+    "char": "晒 (Mandarin: shài / Cantonese: saai)",
+    "hanzi": "晒",
+    "definition": "All / completely / use up (Cantonese)"
+  },
+  {
+    "day": 1120,
+    "char": "得 (Mandarin: dé / Cantonese: dak)",
+    "hanzi": "得",
+    "definition": "Can / okay / ready / fine (Cantonese modal)"
+  },
+  {
+    "day": 1121,
+    "char": "搵 (Mandarin: zhǎo / Cantonese: wan)",
+    "hanzi": "搵",
+    "definition": "To find / look for / earn (Cantonese)"
+  },
+  {
+    "day": 1122,
+    "char": "傾 (Mandarin: qīng / Cantonese: king)",
+    "hanzi": "傾",
+    "definition": "To chat / talk (e.g., 傾偈)"
+  },
+  {
+    "day": 1123,
+    "char": "搞 (Mandarin: gǎo / Cantonese: gaau)",
+    "hanzi": "搞",
+    "definition": "To do / handle / make / mess with"
+  },
+  {
+    "day": 1124,
+    "char": "啱 (Mandarin: wǎn / Cantonese: ngaam)",
+    "hanzi": "啱",
+    "definition": "Right / correct / fit / suitable (Cantonese)"
+  },
+  {
+    "day": 1125,
+    "char": "仲 (Mandarin: zhòng / Cantonese: zung)",
+    "hanzi": "仲",
+    "definition": "Still / yet / additionally (Cantonese)"
+  },
+  {
+    "day": 1126,
+    "char": "淨 (Mandarin: jìng / Cantonese: zing)",
+    "hanzi": "淨",
+    "definition": "Only / merely / left over (Cantonese)"
+  },
+  {
+    "day": 1127,
+    "char": "陣 (Mandarin: zhèn / Cantonese: zan)",
+    "hanzi": "陣",
+    "definition": "A moment / a while (Cantonese time phrase)"
+  },
+  {
+    "day": 1128,
+    "char": "囉 (Mandarin: luó / Cantonese: lo)",
+    "hanzi": "囉",
+    "definition": "Sentence-final particle expressing obviousness"
+  },
+  {
+    "day": 1129,
+    "char": "㗎 (Mandarin: gā / Cantonese: gaa)",
+    "hanzi": "㗎",
+    "definition": "Sentence-final particle (combining ge + aa)"
+  },
+  {
+    "day": 1130,
+    "char": "喞 (Mandarin: bèng / Cantonese: zik)",
+    "hanzi": "喞",
+    "definition": "To squirt / syringe / spray"
+  },
+  {
+    "day": 1131,
+    "char": "滾 (Mandarin: gǔn / Cantonese: gwan)",
+    "hanzi": "滾",
+    "definition": "To boil / roll / scam (Cantonese slang)"
+  },
+  {
+    "day": 1132,
+    "char": "唞 (Mandarin: tòu / Cantonese: tau)",
+    "hanzi": "唞",
+    "definition": "To rest / breathe / take a break (Cantonese)"
+  },
+  {
+    "day": 1133,
+    "char": "揼 (Mandarin: dàng / Cantonese: dam)",
+    "hanzi": "揼",
+    "definition": "To throw / drop / hammer / massage (Cantonese)"
+  },
+  {
+    "day": 1134,
+    "char": "搣 (Mandarin: miè / Cantonese: mit)",
+    "hanzi": "搣",
+    "definition": "To pinch / tear off with fingers (Cantonese)"
+  },
+  {
+    "day": 1135,
+    "char": "踎 (Mandarin: móu / Cantonese: mou)",
+    "hanzi": "踎",
+    "definition": "To squat / hang out / loiter (Cantonese)"
+  },
+  {
+    "day": 1136,
+    "char": "撩 (Mandarin: liáo / Cantonese: liu)",
+    "hanzi": "撩",
+    "definition": "To poke / tease / provoke (Cantonese)"
+  },
+  {
+    "day": 1137,
+    "char": "噏 (Mandarin: āp / Cantonese: ap)",
+    "hanzi": "噏",
+    "definition": "To chatter / mumble nonsense (Cantonese)"
+  },
+  {
+    "day": 1138,
+    "char": "拗 (Mandarin: ào / Cantonese: aau)",
+    "hanzi": "拗",
+    "definition": "To argue / bend / twist (Cantonese)"
+  },
+  {
+    "day": 1139,
+    "char": "耷 (Mandarin: dā / Cantonese: dap)",
+    "hanzi": "耷",
+    "definition": "Drooping / hanging down (Cantonese)"
+  },
+  {
+    "day": 1140,
+    "char": "浸 (Mandarin: jìn / Cantonese: zam)",
+    "hanzi": "浸",
+    "definition": "To soak / steep (Cantonese variant/usage)"
+  },
+  {
+    "day": 1141,
+    "char": "啱 (Mandarin: wǎn / Cantonese: ngaam)",
+    "hanzi": "啱",
+    "definition": "Alternative script or sub-form for matching/right"
+  },
+  {
+    "day": 1142,
+    "char": "掟 (Mandarin: dìng / Cantonese: deng)",
+    "hanzi": "掟",
+    "definition": "To throw / toss an object (Cantonese)"
+  },
+  {
+    "day": 1143,
+    "char": "剒 (Mandarin: cù / Cantonese: cok)",
+    "hanzi": "剒",
+    "definition": "To chop / cut sharply"
+  },
+  {
+    "day": 1144,
+    "char": "埲 (Mandarin: bēng / Cantonese: bung)",
+    "hanzi": "埲",
+    "definition": "Measure word for walls (Cantonese)"
+  },
+  {
+    "day": 1145,
+    "char": "烚 (Mandarin: xiá / Cantonese: hap)",
+    "hanzi": "烚",
+    "definition": "To boil food (e.g., 烚蛋 - boiled egg)"
+  },
+  {
+    "day": 1146,
+    "char": "唧 (Mandarin: jī / Cantonese: zik)",
+    "hanzi": "唧",
+    "definition": "To squeeze out / press (Cantonese)"
+  },
+  {
+    "day": 1147,
+    "char": "攦 (Mandarin: lài / Cantonese: lai)",
+    "hanzi": "攦",
+    "definition": "To let loose / spread"
+  },
+  {
+    "day": 1148,
+    "char": "吂 (Mandarin: máng / Cantonese: mong)",
+    "hanzi": "吂",
+    "definition": "Senile / old and forgetful"
+  },
+  {
+    "day": 1149,
+    "char": "喐 (Mandarin: dòng / Cantonese: juk)",
+    "hanzi": "喐",
+    "definition": "To move / take action (e.g., 喐手)"
+  },
+  {
+    "day": 1150,
+    "char": "啫 (Mandarin: zhe / Cantonese: ze)",
+    "hanzi": "啫",
+    "definition": "Sentence-final particle meaning 'only / merely'"
+  },
+  {
+    "day": 1151,
+    "char": "zhàn (Mandarin) / zaam (Cantonese)",
+    "hanzi": "站",
+    "definition": "Station / stop / to stand (e.g., 火车站 - train station)"
+  },
+  {
+    "day": 1152,
+    "char": "chē (Mandarin) / ce (Cantonese)",
+    "hanzi": "车",
+    "definition": "Vehicle / car / transport"
+  },
+  {
+    "day": 1153,
+    "char": "piào (Mandarin) / piu (Cantonese)",
+    "hanzi": "票",
+    "definition": "Ticket / ballot / coupon"
+  },
+  {
+    "day": 1154,
+    "char": "qián (Mandarin) / cin2 (Cantonese)",
+    "hanzi": "钱",
+    "definition": "Money / coin"
+  },
+  {
+    "day": 1155,
+    "char": "mǎi (Mandarin) / maai5 (Cantonese)",
+    "hanzi": "买",
+    "definition": "To buy / purchase"
+  },
+  {
+    "day": 1156,
+    "char": "mài (Mandarin) / maai6 (Cantonese)",
+    "hanzi": "卖",
+    "definition": "To sell"
+  },
+  {
+    "day": 1157,
+    "char": "diàn (Mandarin) / dim3 (Cantonese)",
+    "hanzi": "店",
+    "definition": "Shop / store / hotel"
+  },
+  {
+    "day": 1158,
+    "char": "shāng (Mandarin) / soeng1 (Cantonese)",
+    "hanzi": "商",
+    "definition": "Commerce / trade / business"
+  },
+  {
+    "day": 1159,
+    "char": "chǎng (Mandarin) / coeng4 (Cantonese)",
+    "hanzi": "场",
+    "definition": "Field / ground / marketplace (e.g., 商场 - mall)"
+  },
+  {
+    "day": 1160,
+    "char": "huò (Mandarin) / fo3 (Cantonese)",
+    "hanzi": "货",
+    "definition": "Goods / commodity / cargo"
+  },
+  {
+    "day": 1161,
+    "char": "fù (Mandarin) / fu6 (Cantonese)",
+    "hanzi": "付",
+    "definition": "To pay / hand over"
+  },
+  {
+    "day": 1162,
+    "char": "sǎo (Mandarin) / sou2 (Cantonese)",
+    "hanzi": "扫",
+    "definition": "To sweep / scan (e.g., 扫码 - scan QR code)"
+  },
+  {
+    "day": 1163,
+    "char": "mǎ (Mandarin) / maa5 (Cantonese)",
+    "hanzi": "码",
+    "definition": "Number / code / yard"
+  },
+  {
+    "day": 1164,
+    "char": "yòng (Mandarin) / jung6 (Cantonese)",
+    "hanzi": "用",
+    "definition": "To use / utility / application"
+  },
+  {
+    "day": 1165,
+    "char": "jī (Mandarin) / gei1 (Cantonese)",
+    "hanzi": "机",
+    "definition": "Machine / engine / device (e.g., 手机 - phone)"
+  },
+  {
+    "day": 1166,
+    "char": "diàn (Mandarin) / din6 (Cantonese)",
+    "hanzi": "电",
+    "definition": "Electricity / lightning (e.g., 电脑 - computer)"
+  },
+  {
+    "day": 1167,
+    "char": "wǎng (Mandarin) / mong5 (Cantonese)",
+    "hanzi": "网",
+    "definition": "Network / internet"
+  },
+  {
+    "day": 1168,
+    "char": "zhǐ (Mandarin) / zi2 (Cantonese)",
+    "hanzi": "纸",
+    "definition": "Paper (e.g., 纸巾 - tissue paper)"
+  },
+  {
+    "day": 1169,
+    "char": "jīn (Mandarin) / gan1 (Cantonese)",
+    "hanzi": "巾",
+    "definition": "Towel / napkin / cloth"
+  },
+  {
+    "day": 1170,
+    "char": "shuǐ (Mandarin) / seoi2 (Cantonese)",
+    "hanzi": "水",
+    "definition": "Water / liquid"
+  },
+  {
+    "day": 1171,
+    "char": "chá (Mandarin) / caa4 (Cantonese)",
+    "hanzi": "茶",
+    "definition": "Tea"
+  },
+  {
+    "day": 1172,
+    "char": "jiǔ (Mandarin) / zau2 (Cantonese)",
+    "hanzi": "酒",
+    "definition": "Alcohol / wine / liquor"
+  },
+  {
+    "day": 1173,
+    "char": "cài (Mandarin) / coi3 (Cantonese)",
+    "hanzi": "菜",
+    "definition": "Vegetable / dish / food course"
+  },
+  {
+    "day": 1174,
+    "char": "fàn (Mandarin) / faan6 (Cantonese)",
+    "hanzi": "饭",
+    "definition": "Cooked rice / meal"
+  },
+  {
+    "day": 1175,
+    "char": "guǎn (Mandarin) / gun2 (Cantonese)",
+    "hanzi": "馆",
+    "definition": "Building / restaurant / establishment (e.g., 饭馆)"
+  },
+  {
+    "day": 1176,
+    "char": "jiǔ (Mandarin) / zau2 (Cantonese)",
+    "hanzi": "酒店",
+    "definition": "Hotel (Note: can also mean wine house)"
+  },
+  {
+    "day": 1177,
+    "char": "fáng (Mandarin) / fong4 (Cantonese)",
+    "hanzi": "房",
+    "definition": "Room / house"
+  },
+  {
+    "day": 1178,
+    "char": "jiān (Mandarin) / gaan1 (Cantonese)",
+    "hanzi": "间",
+    "definition": "Measure word for rooms / space"
+  },
+  {
+    "day": 1179,
+    "char": "zhù (Mandarin) / zyu6 (Cantonese)",
+    "hanzi": "住",
+    "definition": "To live / reside / stay"
+  },
+  {
+    "day": 1180,
+    "char": "lù (Mandarin) / lou6 (Cantonese)",
+    "hanzi": "路",
+    "definition": "Road / path / way"
+  },
+  {
+    "day": 1181,
+    "char": "jiē (Mandarin) / gaai1 (Cantonese)",
+    "hanzi": "街",
+    "definition": "Street / avenue"
+  },
+  {
+    "day": 1182,
+    "char": "qū (Mandarin) / keoi1 (Cantonese)",
+    "hanzi": "区",
+    "definition": "District / area / region"
+  },
+  {
+    "day": 1183,
+    "char": "shì (Mandarin) / si5 (Cantonese)",
+    "hanzi": "市",
+    "definition": "City / market"
+  },
+  {
+    "day": 1184,
+    "char": "chéng (Mandarin) / sing4 (Cantonese)",
+    "hanzi": "城",
+    "definition": "City / town / wall"
+  },
+  {
+    "day": 1185,
+    "char": "guó (Mandarin) / gwok3 (Cantonese)",
+    "hanzi": "国",
+    "definition": "Country / nation"
+  },
+  {
+    "day": 1186,
+    "char": "wài (Mandarin) / ngoi6 (Cantonese)",
+    "hanzi": "外",
+    "definition": "Outside / foreign / outer"
+  },
+  {
+    "day": 1187,
+    "char": "nèi (Mandarin) / noi6 (Cantonese)",
+    "hanzi": "内",
+    "definition": "Inside / inner / internal"
+  },
+  {
+    "day": 1188,
+    "char": "jìn (Mandarin) / gan6 (Cantonese)",
+    "hanzi": "近",
+    "definition": "Near / close by"
+  },
+  {
+    "day": 1189,
+    "char": "yuǎn (Mandarin) / jyun5 (Cantonese)",
+    "hanzi": "远",
+    "definition": "Far / distant"
+  },
+  {
+    "day": 1190,
+    "char": "dōng (Mandarin) / dung1 (Cantonese)",
+    "hanzi": "东",
+    "definition": "East"
+  },
+  {
+    "day": 1191,
+    "char": "nán (Mandarin) / naam4 (Cantonese)",
+    "hanzi": "南",
+    "definition": "South"
+  },
+  {
+    "day": 1192,
+    "char": "xī (Mandarin) / sai1 (Cantonese)",
+    "hanzi": "西",
+    "definition": "West"
+  },
+  {
+    "day": 1193,
+    "char": "běi (Mandarin) / bak1 (Cantonese)",
+    "hanzi": "北",
+    "definition": "North"
+  },
+  {
+    "day": 1194,
+    "char": "shàng (Mandarin) / soeng6 (Cantonese)",
+    "hanzi": "上",
+    "definition": "Up / above / previous"
+  },
+  {
+    "day": 1195,
+    "char": "xià (Mandarin) / haa6 (Cantonese)",
+    "hanzi": "下",
+    "definition": "Down / below / next"
+  },
+  {
+    "day": 1196,
+    "char": "zuǒ (Mandarin) / zo2 (Cantonese)",
+    "hanzi": "左",
+    "definition": "Left"
+  },
+  {
+    "day": 1197,
+    "char": "yòu (Mandarin) / jau6 (Cantonese)",
+    "hanzi": "右",
+    "definition": "Right"
+  },
+  {
+    "day": 1198,
+    "char": "qián (Mandarin) / cin4 (Cantonese)",
+    "hanzi": "前",
+    "definition": "Front / forward / before"
+  },
+  {
+    "day": 1199,
+    "char": "hòu (Mandarin) / hau6 (Cantonese)",
+    "hanzi": "后",
+    "definition": "Back / behind / rear"
+  },
+  {
+    "day": 1200,
+    "char": "kāi (Mandarin) / hoi1 (Cantonese)",
+    "hanzi": "开",
+    "definition": "To open / start / drive (e.g., 开门 - open door)"
+  },
+  {
+    "day": 1201,
+    "char": "guān (Mandarin) / gwaan1 (Cantonese)",
+    "hanzi": "关",
+    "definition": "To close / turn off / pass"
+  },
+  {
+    "day": 1202,
+    "char": "mén (Mandarin) / mun4 (Cantonese)",
+    "hanzi": "门",
+    "definition": "Door / gate / entrance"
+  },
+  {
+    "day": 1203,
+    "char": "suǒ (Mandarin) / so2 (Cantonese)",
+    "hanzi": "锁",
+    "definition": "Lock / to lock"
+  },
+  {
+    "day": 1204,
+    "char": "tōng (Mandarin) / tung1 (Cantonese)",
+    "hanzi": "通",
+    "definition": "Through / clear / communicate (e.g., 交通 - traffic)"
+  },
+  {
+    "day": 1205,
+    "char": "yòng (Mandarin) / jung6 (Cantonese)",
+    "hanzi": "用",
+    "definition": "To use / need / utility"
+  },
+  {
+    "day": 1206,
+    "char": "fèi (Mandarin) / fai3 (Cantonese)",
+    "hanzi": "费",
+    "definition": "Fee / cost / expense (e.g., 费用)"
+  },
+  {
+    "day": 1207,
+    "char": "pián (Mandarin) / pin4 (Cantonese)",
+    "hanzi": "便",
+    "definition": "Convenient / cheap (e.g., 便宜 - cheap)"
+  },
+  {
+    "day": 1208,
+    "char": "yí (Mandarin) / ji4 (Cantonese)",
+    "hanzi": "宜",
+    "definition": "Suitable / appropriate"
+  },
+  {
+    "day": 1209,
+    "char": "guì (Mandarin) / gwai3 (Cantonese)",
+    "hanzi": "贵",
+    "definition": "Expensive / honorable / noble"
+  },
+  {
+    "day": 1210,
+    "char": "zhé (Mandarin) / zit3 (Cantonese)",
+    "hanzi": "折",
+    "definition": "Discount / fold (e.g., 打折 - give a discount)"
+  },
+  {
+    "day": 1211,
+    "char": "dǎ (Mandarin) / daa2 (Cantonese)",
+    "hanzi": "打",
+    "definition": "To hit / strike / play / make a call"
+  },
+  {
+    "day": 1212,
+    "char": "zhǎo (Mandarin) / zaau2 (Cantonese)",
+    "hanzi": "找",
+    "definition": "To look for / give change"
+  },
+  {
+    "day": 1213,
+    "char": "bāo (Mandarin) / baau1 (Cantonese)",
+    "hanzi": "包",
+    "definition": "Bag / wrap / bundle / package"
+  },
+  {
+    "day": 1214,
+    "char": "guǒ (Mandarin) / gwo2 (Cantonese)",
+    "hanzi": "果",
+    "definition": "Fruit / result"
+  },
+  {
+    "day": 1215,
+    "char": "shū (Mandarin) / syu1 (Cantonese)",
+    "hanzi": "书",
+    "definition": "Book / letter"
+  },
+  {
+    "day": 1216,
+    "char": "bào (Mandarin) / bou3 (Cantonese)",
+    "hanzi": "报",
+    "definition": "Report / newspaper / announce"
+  },
+  {
+    "day": 1217,
+    "char": "zhǐ (Mandarin) / zi2 (Cantonese)",
+    "hanzi": "纸",
+    "definition": "Paper"
+  },
+  {
+    "day": 1218,
+    "char": "diàn (Mandarin) / din6 (Cantonese)",
+    "hanzi": "电",
+    "definition": "Electricity / electronic"
+  },
+  {
+    "day": 1219,
+    "char": "huà (Mandarin) / waa2 (Cantonese)",
+    "hanzi": "话",
+    "definition": "Speech / talk / phone call"
+  },
+  {
+    "day": 1220,
+    "char": "nǎo (Mandarin) / nou5 (Cantonese)",
+    "hanzi": "脑",
+    "definition": "Brain / computer (e.g., 电脑)"
+  },
+  {
+    "day": 1221,
+    "char": "wǎng (Mandarin) / mong5 (Cantonese)",
+    "hanzi": "网",
+    "definition": "Network / internet / web"
+  },
+  {
+    "day": 1222,
+    "char": "luò (Mandarin) / lok6 (Cantonese)",
+    "hanzi": "络",
+    "definition": "Net / web / network"
+  },
+  {
+    "day": 1223,
+    "char": "xìn (Mandarin) / seon3 (Cantonese)",
+    "hanzi": "信",
+    "definition": "Letter / trust / message (e.g., 微信)"
+  },
+  {
+    "day": 1224,
+    "char": "yòng (Mandarin) / jung6 (Cantonese)",
+    "hanzi": "用",
+    "definition": "Application / use"
+  },
+  {
+    "day": 1225,
+    "char": "jiàn (Mandarin) / gin6 (Cantonese)",
+    "hanzi": "件",
+    "definition": "Piece / item / measure word for clothes/matters"
+  },
+  {
+    "day": 1226,
+    "char": "yī (Mandarin) / ji1 (Cantonese)",
+    "hanzi": "衣",
+    "definition": "Clothing / garment"
+  },
+  {
+    "day": 1227,
+    "char": "fú (Mandarin) / fuk6 (Cantonese)",
+    "hanzi": "服",
+    "definition": "Clothes / obey / service (e.g., 衣服)"
+  },
+  {
+    "day": 1228,
+    "char": "kù (Mandarin) / fu3 (Cantonese)",
+    "hanzi": "裤",
+    "definition": "Trousers / pants"
+  },
+  {
+    "day": 1229,
+    "char": "xié (Mandarin) / haai4 (Cantonese)",
+    "hanzi": "鞋",
+    "definition": "Shoes"
+  },
+  {
+    "day": 1230,
+    "char": "mào (Mandarin) / mou6 (Cantonese)",
+    "hanzi": "帽",
+    "definition": "Hat / cap"
+  },
+  {
+    "day": 1231,
+    "char": "yào (Mandarin) / joek6 (Cantonese)",
+    "hanzi": "药",
+    "definition": "Medicine / drug"
+  },
+  {
+    "day": 1232,
+    "char": "diàn (Mandarin) / dim3 (Cantonese)",
+    "hanzi": "店",
+    "definition": "Shop / store"
+  },
+  {
+    "day": 1233,
+    "char": "cāng (Mandarin) / cong1 (Cantonese)",
+    "hanzi": "仓",
+    "definition": "Warehouse / granary"
+  },
+  {
+    "day": 1234,
+    "char": "kù (Mandarin) / fu3 (Cantonese)",
+    "hanzi": "库",
+    "definition": "Warehouse / storage (e.g., 仓库)"
+  },
+  {
+    "day": 1235,
+    "char": "huò (Mandarin) / fo3 (Cantonese)",
+    "hanzi": "货",
+    "definition": "Goods / merchandise"
+  },
+  {
+    "day": 1236,
+    "char": "song (Mandarin) / sung3 (Cantonese)",
+    "hanzi": "送",
+    "definition": "To deliver / give as a gift"
+  },
+  {
+    "day": 1237,
+    "char": "wài (Mandarin) / ngoi6 (Cantonese)",
+    "hanzi": "外",
+    "definition": "Outer / outside (e.g., 外卖 - takeout)"
+  },
+  {
+    "day": 1238,
+    "char": "mài (Mandarin) / maai6 (Cantonese)",
+    "hanzi": "卖",
+    "definition": "To sell"
+  },
+  {
+    "day": 1239,
+    "char": "dài (Mandarin) / doi6 (Cantonese)",
+    "hanzi": "袋",
+    "definition": "Bag / pocket / sack"
+  },
+  {
+    "day": 1240,
+    "char": "líng (Mandarin) / ling4 (Cantonese)",
+    "hanzi": "零",
+    "definition": "Zero / fractional / fragment"
+  },
+  {
+    "day": 1241,
+    "char": "shí (Mandarin) / sap6 (Cantonese)",
+    "hanzi": "食",
+    "definition": "To eat / food"
+  },
+  {
+    "day": 1242,
+    "char": "yǐn (Mandarin) / jam2 (Cantonese)",
+    "hanzi": "饮",
+    "definition": "To drink (e.g., 饮料 - beverage)"
+  },
+  {
+    "day": 1243,
+    "char": "liào (Mandarin) / liu2 (Cantonese)",
+    "hanzi": "料",
+    "definition": "Material / ingredient / stuff"
+  },
+  {
+    "day": 1244,
+    "char": "jiǔ (Mandarin) / zau2 (Cantonese)",
+    "hanzi": "酒",
+    "definition": "Alcohol / liquor"
+  },
+  {
+    "day": 1245,
+    "char": "lóu (Mandarin) / lau4 (Cantonese)",
+    "hanzi": "楼",
+    "definition": "Floor / multi-story building"
+  },
+  {
+    "day": 1246,
+    "char": "diàn (Mandarin) / din6 (Cantonese)",
+    "hanzi": "电",
+    "definition": "Electricity / power"
+  },
+  {
+    "day": 1247,
+    "char": "tī (Mandarin) / tai1 (Cantonese)",
+    "hanzi": "梯",
+    "definition": "Ladder / stairs / escalator (e.g., 电梯 - elevator/escalator)"
+  },
+  {
+    "day": 1248,
+    "char": "chē (Mandarin) / ce1 (Cantonese)",
+    "hanzi": "车",
+    "definition": "Vehicle"
+  },
+  {
+    "day": 1249,
+    "char": "zhàn (Mandarin) / zaam6 (Cantonese)",
+    "hanzi": "站",
+    "definition": "Station"
+  },
+  {
+    "day": 1250,
+    "char": "piào (Mandarin) / piu3 (Cantonese)",
+    "hanzi": "票",
+    "definition": "Ticket"
+  },
+  {
+    "day": 1251,
+    "char": "jiǎn (Mandarin) / gim2 (Cantonese)",
+    "hanzi": "检",
+    "definition": "To check / inspect (e.g., 检票 - check tickets)"
+  },
+  {
+    "day": 1252,
+    "char": "chāi (Mandarin) / caai1 (Cantonese)",
+    "hanzi": "差",
+    "definition": "Difference / errand (e.g., 出差 - business trip)"
+  },
+  {
+    "day": 1253,
+    "char": "lǚ (Mandarin) / leoi5 (Cantonese)",
+    "hanzi": "旅",
+    "definition": "Trip / travel"
+  },
+  {
+    "day": 1254,
+    "char": "yóu (Mandarin) / jau4 (Cantonese)",
+    "hanzi": "游",
+    "definition": "To swim / travel / tour (e.g., 旅游 - travel)"
+  },
+  {
+    "day": 1255,
+    "char": "guǎn (Mandarin) / gun2 (Cantonese)",
+    "hanzi": "馆",
+    "definition": "Establishment / hall (e.g., 宾馆 - hotel)"
+  },
+  {
+    "day": 1256,
+    "char": "bīn (Mandarin) / ban1 (Cantonese)",
+    "hanzi": "宾",
+    "definition": "Guest / visitor"
+  },
+  {
+    "day": 1257,
+    "char": "fáng (Mandarin) / fong4 (Cantonese)",
+    "hanzi": "房",
+    "definition": "Room"
+  },
+  {
+    "day": 1258,
+    "char": "kè (Mandarin) / haak3 (Cantonese)",
+    "hanzi": "客",
+    "definition": "Guest / customer (e.g., 顾客/客人)"
+  },
+  {
+    "day": 1259,
+    "char": "tīng (Mandarin) / ting1 (Cantonese)",
+    "hanzi": "厅",
+    "definition": "Hall / living room / office"
+  },
+  {
+    "day": 1260,
+    "char": "xǐ (Mandarin) / sai2 (Cantonese)",
+    "hanzi": "洗",
+    "definition": "To wash"
+  },
+  {
+    "day": 1261,
+    "char": "shǒu (Mandarin) / sau2 (Cantonese)",
+    "hanzi": "手",
+    "definition": "Hand"
+  },
+  {
+    "day": 1262,
+    "char": "jiān (Mandarin) / gaan1 (Cantonese)",
+    "hanzi": "间",
+    "definition": "Room (e.g., 洗手间 - restroom)"
+  },
+  {
+    "day": 1263,
+    "char": "cè (Mandarin) / cak1 (Cantonese)",
+    "hanzi": "厕",
+    "definition": "Toilet / lavatory"
+  },
+  {
+    "day": 1264,
+    "char": "suǒ (Mandarin) / so2 (Cantonese)",
+    "hanzi": "所",
+    "definition": "Place (e.g., 厕所 - toilet)"
+  },
+  {
+    "day": 1265,
+    "char": "yín (Mandarin) / ngan4 (Cantonese)",
+    "hanzi": "银",
+    "definition": "Silver / money"
+  },
+  {
+    "day": 1266,
+    "char": "háng (Mandarin) / hong4 (Cantonese)",
+    "hanzi": "行",
+    "definition": "Row / business firm (e.g., 银行 - bank)"
+  },
+  {
+    "day": 1267,
+    "char": "kuǎn (Mandarin) / fun2 (Cantonese)",
+    "hanzi": "款",
+    "definition": "Fund / sum of money / style"
+  },
+  {
+    "day": 1268,
+    "char": "zhàng (Mandarin) / zoeng3 (Cantonese)",
+    "hanzi": "账",
+    "definition": "Bill / account (e.g., 付账 - pay the bill)"
+  },
+  {
+    "day": 1269,
+    "char": "qián (Mandarin) / cin4 (Cantonese)",
+    "hanzi": "钱",
+    "definition": "Money"
+  },
+  {
+    "day": 1270,
+    "char": "bǎo (Mandarin) / bou2 (Cantonese)",
+    "hanzi": "宝",
+    "definition": "Treasure / jewel (e.g., 支付宝 - Alipay)"
+  },
+  {
+    "day": 1271,
+    "char": "zhī (Mandarin) / zi1 (Cantonese)",
+    "hanzi": "支",
+    "definition": "To support / branch / pay out"
+  },
+  {
+    "day": 1272,
+    "char": "fù (Mandarin) / fu6 (Cantonese)",
+    "hanzi": "付",
+    "definition": "To pay"
+  },
+  {
+    "day": 1273,
+    "char": "xìn (Mandarin) / seon3 (Cantonese)",
+    "hanzi": "信",
+    "definition": "Letter / faith (e.g., 信用卡 - credit card)"
+  },
+  {
+    "day": 1274,
+    "char": "kǎ (Mandarin) / kaat1 (Cantonese)",
+    "hanzi": "卡",
+    "definition": "Card / calorie / checkpoint"
+  },
+  {
+    "day": 1275,
+    "char": "piào (Mandarin) / piu3 (Cantonese)",
+    "hanzi": "票",
+    "definition": "Ticket / receipt"
+  },
+  {
+    "day": 1276,
+    "char": "jù (Mandarin) / geoi6 (Cantonese)",
+    "hanzi": "具",
+    "definition": "Tool / instrument / implement"
+  },
+  {
+    "day": 1277,
+    "char": "fā (Mandarin) / faat3 (Cantonese)",
+    "hanzi": "发",
+    "definition": "To issue / send out (e.g., 发票 - official receipt/invoice)"
+  },
+  {
+    "day": 1278,
+    "char": "shuì (Mandarin) / seoi3 (Cantonese)",
+    "hanzi": "税",
+    "definition": "Tax / duty"
+  },
+  {
+    "day": 1279,
+    "char": "zhèng (Mandarin) / zing3 (Cantonese)",
+    "hanzi": "证",
+    "definition": "Certificate / proof / ID card (e.g., 身份证)"
+  },
+  {
+    "day": 1280,
+    "char": "míng (Mandarin) / ming4 (Cantonese)",
+    "hanzi": "明",
+    "definition": "Bright / clear"
+  },
+  {
+    "day": 1281,
+    "char": "shēn (Mandarin) / san1 (Cantonese)",
+    "hanzi": "身",
+    "definition": "Body / identity"
+  },
+  {
+    "day": 1282,
+    "char": "fèn (Mandarin) / fan6 (Cantonese)",
+    "hanzi": "份",
+    "definition": "Copy / portion / part"
+  },
+  {
+    "day": 1283,
+    "char": "àn (Mandarin) / on3 (Cantonese)",
+    "hanzi": "按",
+    "definition": "To press / push / according to (e.g., 按钮)"
+  },
+  {
+    "day": 1284,
+    "char": "niǔ (Mandarin) / nau2 (Cantonese)",
+    "hanzi": "钮",
+    "definition": "Button / knob"
+  },
+  {
+    "day": 1285,
+    "char": "àn (Mandarin) / on3 (Cantonese)",
+    "hanzi": "案",
+    "definition": "Plan / file / table"
+  },
+  {
+    "day": 1286,
+    "char": "jiàn (Mandarin) / gin6 (Cantonese)",
+    "hanzi": "件",
+    "definition": "Component / item"
+  },
+  {
+    "day": 1287,
+    "char": "wén (Mandarin) / man4 (Cantonese)",
+    "hanzi": "文",
+    "definition": "Language / culture / writing"
+  },
+  {
+    "day": 1288,
+    "char": "dǎng (Mandarin) / dong2 (Cantonese)",
+    "hanzi": "档",
+    "definition": "File / archives / stall"
+  },
+  {
+    "day": 1289,
+    "char": "yīng (Mandarin) / jing1 (Cantonese)",
+    "hanzi": "英",
+    "definition": "Hero / English (e.g., 英文)"
+  },
+  {
+    "day": 1290,
+    "char": "wén (Mandarin) / man4 (Cantonese)",
+    "hanzi": "文",
+    "definition": "Language / script"
+  },
+  {
+    "day": 1291,
+    "char": "zhōng (Mandarin) / zung1 (Cantonese)",
+    "hanzi": "中",
+    "definition": "Middle / China (e.g., 中文 - Chinese language)"
+  },
+  {
+    "day": 1292,
+    "char": "guó (Mandarin) / gwok3 (Cantonese)",
+    "hanzi": "国",
+    "definition": "Country"
+  },
+  {
+    "day": 1293,
+    "char": "huà (Mandarin) / waa6 (Cantonese)",
+    "hanzi": "话",
+    "definition": "Language / speech (e.g., 普通话 / 广东话)"
+  },
+  {
+    "day": 1294,
+    "char": "pǔ (Mandarin) / pou2 (Cantonese)",
+    "hanzi": "普",
+    "definition": "General / universal (e.g., 普通话 - Mandarin)"
+  },
+  {
+    "day": 1295,
+    "char": "tōng (Mandarin) / tung1 (Cantonese)",
+    "hanzi": "通",
+    "definition": "Common / current"
+  },
+  {
+    "day": 1296,
+    "char": "guǎng (Mandarin) / gwong2 (Cantonese)",
+    "hanzi": "广",
+    "definition": "Broad / wide (e.g., 广东 - Guangdong)"
+  },
+  {
+    "day": 1297,
+    "char": "dōng (Mandarin) / dung1 (Cantonese)",
+    "hanzi": "东",
+    "definition": "East"
+  },
+  {
+    "day": 1298,
+    "char": "xiāng (Mandarin) / hoeng1 (Cantonese)",
+    "hanzi": "香",
+    "definition": "Fragrant / sweet-smelling (e.g., 香港 - Hong Kong)"
+  },
+  {
+    "day": 1299,
+    "char": "gǎng (Mandarin) / gong2 (Cantonese)",
+    "hanzi": "港",
+    "definition": "Harbor / port"
+  },
+  {
+    "day": 1300,
+    "char": "shì (Mandarin) / si5 (Cantonese)",
+    "hanzi": "市",
+    "definition": "City / market"
+  },
+  {
+    "day": 1301,
+    "char": "rù (Mandarin) / jap6 (Cantonese)",
+    "hanzi": "入",
+    "definition": "Enter / in (e.g., 入口 - Entrance)"
+  },
+  {
+    "day": 1302,
+    "char": "chū (Mandarin) / ceot1 (Cantonese)",
+    "hanzi": "出",
+    "definition": "Exit / out (e.g., 出口 - Exit)"
+  },
+  {
+    "day": 1303,
+    "char": "wēi (Mandarin) / ngai4 (Cantonese)",
+    "hanzi": "危",
+    "definition": "Danger / perilous"
+  },
+  {
+    "day": 1304,
+    "char": "xiǎn (Mandarin) / hiểm2 (Cantonese)",
+    "hanzi": "险",
+    "definition": "Danger / hazard (e.g., 危险 - Dangerous)"
+  },
+  {
+    "day": 1305,
+    "char": "zhù (Mandarin) / zyu3 (Cantonese)",
+    "hanzi": "注",
+    "definition": "Focus / pay attention"
+  },
+  {
+    "day": 1306,
+    "char": "yì (Mandarin) / ji3 (Cantonese)",
+    "hanzi": "意",
+    "definition": "Mind / idea (e.g., 注意 - Attention / Caution)"
+  },
+  {
+    "day": 1307,
+    "char": "ān (Mandarin) / on1 (Cantonese)",
+    "hanzi": "安",
+    "definition": "Safe / secure"
+  },
+  {
+    "day": 1308,
+    "char": "quán (Mandarin) / cyun4 (Cantonese)",
+    "hanzi": "全",
+    "definition": "Complete / whole (e.g., 安全 - Safety / Safe)"
+  },
+  {
+    "day": 1309,
+    "char": "zhòng (Mandarin) / zung6 (Cantonese)",
+    "hanzi": "重",
+    "definition": "Heavy / important (e.g., 重点 - Important point)"
+  },
+  {
+    "day": 1310,
+    "char": "diàn (Mandarin) / din6 (Cantonese)",
+    "hanzi": "电",
+    "definition": "Electricity / power"
+  },
+  {
+    "day": 1311,
+    "char": "jìng (Mandarin) / ging3 (Cantonese)",
+    "hanzi": "禁",
+    "definition": "Prohibit / ban (e.g., 禁止 - Prohibited / Forbidden)"
+  },
+  {
+    "day": 1312,
+    "char": "zhǐ (Mandarin) / zi2 (Cantonese)",
+    "hanzi": "止",
+    "definition": "Stop / halt"
+  },
+  {
+    "day": 1313,
+    "char": "yán (Mandarin) / jim4 (Cantonese)",
+    "hanzi": "严",
+    "definition": "Strict / tight (e.g., 严禁 - Strictly prohibited)"
+  },
+  {
+    "day": 1314,
+    "char": "tíng (Mandarin) / ting4 (Cantonese)",
+    "hanzi": "停",
+    "definition": "Stop / pause / park (e.g., 停车 - Parking / Stop)"
+  },
+  {
+    "day": 1315,
+    "char": "zhǐ (Mandarin) / zi2 (Cantonese)",
+    "hanzi": "只",
+    "definition": "Only / merely (e.g., 仅限 - Restricted to)"
+  },
+  {
+    "day": 1316,
+    "char": "xiàn (Mandarin) / haan6 (Cantonese)",
+    "hanzi": "限",
+    "definition": "Limit / bound"
+  },
+  {
+    "day": 1317,
+    "char": "fēi (Mandarin) / fei1 (Cantonese)",
+    "hanzi": "非",
+    "definition": "Not / non- (e.g., 非洲 / 非...人员 - Authorized personnel only)"
+  },
+  {
+    "day": 1318,
+    "char": "yuán (Mandarin) / jyun4 (Cantonese)",
+    "hanzi": "员",
+    "definition": "Member / personnel / staff"
+  },
+  {
+    "day": 1319,
+    "char": "gōng (Mandarin) / gung1 (Cantonese)",
+    "hanzi": "公",
+    "definition": "Public / common (e.g., 公共 - Public)"
+  },
+  {
+    "day": 1320,
+    "char": "gòng (Mandarin) / gung6 (Cantonese)",
+    "hanzi": "共",
+    "definition": "Shared / together"
+  },
+  {
+    "day": 1321,
+    "char": "sī (Mandarin) / si1 (Cantonese)",
+    "hanzi": "私",
+    "definition": "Private / personal"
+  },
+  {
+    "day": 1322,
+    "char": "rén (Mandarin) / jan4 (Cantonese)",
+    "hanzi": "人",
+    "definition": "Person / human"
+  },
+  {
+    "day": 1323,
+    "char": "wù (Mandarin) / mat6 (Cantonese)",
+    "hanzi": "务",
+    "definition": "Affair / business / matter (e.g., 服务 - Service)"
+  },
+  {
+    "day": 1324,
+    "char": "tái (Mandarin) / toi4 (Cantonese)",
+    "hanzi": "台",
+    "definition": "Platform / desk / counter (e.g., 服务台 - Service counter)"
+  },
+  {
+    "day": 1325,
+    "char": "zhōng (Mandarin) / zung1 (Cantonese)",
+    "hanzi": "中",
+    "definition": "Center / middle (e.g., 中心 - Center)"
+  },
+  {
+    "day": 1326,
+    "char": "xīn (Mandarin) / sam1 (Cantonese)",
+    "hanzi": "心",
+    "definition": "Heart / core"
+  },
+  {
+    "day": 1327,
+    "char": "bàn (Mandarin) / baan6 (Cantonese)",
+    "hanzi": "办",
+    "definition": "To handle / do / manage"
+  },
+  {
+    "day": 1328,
+    "char": "shì (Mandarin) / si6 (Cantonese)",
+    "hanzi": "事",
+    "definition": "Matter / affair (e.g., 办公室 - Office)"
+  },
+  {
+    "day": 1329,
+    "char": "guǎn (Mandarin) / gun2 (Cantonese)",
+    "hanzi": "管",
+    "definition": "Manage / control / tube"
+  },
+  {
+    "day": 1330,
+    "char": "lǐ (Mandarin) / lei5 (Cantonese)",
+    "hanzi": "理",
+    "definition": "Reason / manage (e.g., 管理处 - Management office)"
+  },
+  {
+    "day": 1331,
+    "char": "zhèng (Mandarin) / zing3 (Cantonese)",
+    "hanzi": "正",
+    "definition": "Straight / proper / main"
+  },
+  {
+    "day": 1332,
+    "char": "cháng (Mandarin) / soeng4 (Cantonese)",
+    "hanzi": "常",
+    "definition": "Normal / regular (e.g., 正常 - Normal / Operational)"
+  },
+  {
+    "day": 1333,
+    "char": "zhàng (Mandarin) / zoeng3 (Cantonese)",
+    "hanzi": "故障",
+    "definition": "Breakdown / out of order (Character: 障 - Obstacle)"
+  },
+  {
+    "day": 1334,
+    "char": "xiū (Mandarin) / sau1 (Cantonese)",
+    "hanzi": "修",
+    "definition": "To repair / mend (e.g., 维修 - Under maintenance)"
+  },
+  {
+    "day": 1335,
+    "char": "wéi (Mandarin) / wai4 (Cantonese)",
+    "hanzi": "维",
+    "definition": "Maintain / preserve"
+  },
+  {
+    "day": 1336,
+    "char": "jí (Mandarin) / gap1 (Cantonese)",
+    "hanzi": "急",
+    "definition": "Urgent / emergency / fast"
+  },
+  {
+    "day": 1337,
+    "char": "jiù (Mandarin) / gau3 (Cantonese)",
+    "hanzi": "救",
+    "definition": "To save / rescue (e.g., 急救 - First aid / Emergency)"
+  },
+  {
+    "day": 1338,
+    "char": "xiāo (Mandarin) / siu1 (Cantonese)",
+    "hanzi": "消",
+    "definition": "Eliminate / vanish"
+  },
+  {
+    "day": 1339,
+    "char": "fáng (Mandarin) / fong4 (Cantonese)",
+    "hanzi": "防",
+    "definition": "Protect / guard against (e.g., 消防 - Fire prevention / Fire dept)"
+  },
+  {
+    "day": 1340,
+    "char": "tong (Mandarin) / tung4 (Cantonese)",
+    "hanzi": "通",
+    "definition": "Open / clear (e.g., 通风 - Ventilation)"
+  },
+  {
+    "day": 1341,
+    "char": "fēng (Mandarin) / fung1 (Cantonese)",
+    "hanzi": "风",
+    "definition": "Wind / air"
+  },
+  {
+    "day": 1342,
+    "char": "zì (Mandarin) / zi6 (Cantonese)",
+    "hanzi": "自",
+    "definition": "Self (e.g., 自动 - Automatic / Self-service)"
+  },
+  {
+    "day": 1343,
+    "char": "dòng (Mandarin) / dung6 (Cantonese)",
+    "hanzi": "动",
+    "definition": "Move / movement"
+  },
+  {
+    "day": 1344,
+    "char": "shōu (Mandarin) / sau1 (Cantonese)",
+    "hanzi": "收",
+    "definition": "To collect / receive (e.g., 收费 - Fee charging / Toll)"
+  },
+  {
+    "day": 1345,
+    "char": "fèi (Mandarin) / fai3 (Cantonese)",
+    "hanzi": "费",
+    "definition": "Fee / charge"
+  },
+  {
+    "day": 1346,
+    "char": "mǎn (Mandarin) / mun5 (Cantonese)",
+    "hanzi": "满",
+    "definition": "Full / filled (e.g., 客满 - Fully booked / Sold out)"
+  },
+  {
+    "day": 1347,
+    "char": "kong (Mandarin) / hung1 (Cantonese)",
+    "hanzi": "空",
+    "definition": "Empty / vacant (e.g., 虚空 / 空闲)"
+  },
+  {
+    "day": 1348,
+    "char": "zhǐ (Mandarin) / zi2 (Cantonese)",
+    "hanzi": "指",
+    "definition": "Finger / point to (e.g., 指示牌 - Signpost / Directional sign)"
+  },
+  {
+    "day": 1349,
+    "char": "shì (Mandarin) / si6 (Cantonese)",
+    "hanzi": "示",
+    "definition": "Show / manifest"
+  },
+  {
+    "day": 1350,
+    "char": "pái (Mandarin) / paai4 (Cantonese)",
+    "hanzi": "牌",
+    "definition": "Plate / sign / brand"
+  },
+  {
+    "day": 1351,
+    "char": "jī (Mandarin) / gei1 (Cantonese)",
+    "hanzi": "机",
+    "definition": "Machine / aircraft (e.g., 飞机 - Airplane)"
+  },
+  {
+    "day": 1352,
+    "char": "chǎng (Mandarin) / coeng4 (Cantonese)",
+    "hanzi": "场",
+    "definition": "Field / ground / open space (e.g., 机场 - Airport)"
+  },
+  {
+    "day": 1353,
+    "char": "háng (Mandarin) / hong4 (Cantonese)",
+    "hanzi": "航",
+    "definition": "Navigation / aviation (e.g., 航班 - Flight / 航空公司 - Airline)"
+  },
+  {
+    "day": 1354,
+    "char": "bān (Mandarin) / baan1 (Cantonese)",
+    "hanzi": "班",
+    "definition": "Shift / scheduled flight or train"
+  },
+  {
+    "day": 1355,
+    "char": "dǐng (Mandarin) / ding2 (Cantonese)",
+    "hanzi": "抵",
+    "definition": "Arrive / reach (e.g., 抵达 - Arrival)"
+  },
+  {
+    "day": 1356,
+    "char": "dá (Mandarin) / daat6 (Cantonese)",
+    "hanzi": "达",
+    "definition": "Reach / attain"
+  },
+  {
+    "day": 1357,
+    "char": "lí (Mandarin) / lei4 (Cantonese)",
+    "hanzi": "离",
+    "definition": "Leave / depart / away from (e.g., 离开 / 离港 - Departure)"
+  },
+  {
+    "day": 1358,
+    "char": "pài (Mandarin) / paai3 (Cantonese)",
+    "hanzi": "派",
+    "definition": "Send / dispatch"
+  },
+  {
+    "day": 1359,
+    "char": "guò (Mandarin) / gwo3 (Cantonese)",
+    "hanzi": "过",
+    "definition": "Pass / cross (e.g., 海关 - Customs / 过安检 - Pass security)"
+  },
+  {
+    "day": 1360,
+    "char": "guān (Mandarin) / gwaan1 (Cantonese)",
+    "hanzi": "关",
+    "definition": "Pass / checkpoint / customs"
+  },
+  {
+    "day": 1361,
+    "char": "hǎi (Mandarin) / hoi2 (Cantonese)",
+    "hanzi": "海",
+    "definition": "Sea / ocean (e.g., 海关 - Customs)"
+  },
+  {
+    "day": 1362,
+    "char": "deng (Mandarin) / dang1 (Cantonese)",
+    "hanzi": "登",
+    "definition": "To board / mount / climb (e.g., 登机 - Boarding)"
+  },
+  {
+    "day": 1363,
+    "char": "jī (Mandarin) / gei1 (Cantonese)",
+    "hanzi": "机",
+    "definition": "Machine (e.g., 登机牌 - Boarding pass)"
+  },
+  {
+    "day": 1364,
+    "char": "kǒu (Mandarin) / hau2 (Cantonese)",
+    "hanzi": "口",
+    "definition": "Opening / gate / mouth (e.g., 登机口 - Boarding gate)"
+  },
+  {
+    "day": 1365,
+    "char": "tuō (Mandarin) / tyut3 (Cantonese)",
+    "hanzi": "托",
+    "definition": "To trust / entrust / support (e.g., 托运 - Check luggage)"
+  },
+  {
+    "day": 1366,
+    "char": "yùn (Mandarin) / wan6 (Cantonese)",
+    "hanzi": "运",
+    "definition": "Transport / carry"
+  },
+  {
+    "day": 1367,
+    "char": "xíng (Mandarin) / hang4 (Cantonese)",
+    "hanzi": "行",
+    "definition": "Line / professional (e.g., 行李 - Luggage / Baggage)"
+  },
+  {
+    "day": 1368,
+    "char": "li (Mandarin) / lei5 (Cantonese)",
+    "hanzi": "李",
+    "definition": "Plum / luggage component"
+  },
+  {
+    "day": 1369,
+    "char": "qǔ (Mandarin) / ceoi2 (Cantonese)",
+    "hanzi": "取",
+    "definition": "To take / fetch / pick up (e.g., 取行李 - Baggage claim)"
+  },
+  {
+    "day": 1370,
+    "char": "huǒ (Mandarin) / fo2 (Cantonese)",
+    "hanzi": "火",
+    "definition": "Fire (e.g., 火车 - Train)"
+  },
+  {
+    "day": 1371,
+    "char": "chē (Mandarin) / ce1 (Cantonese)",
+    "hanzi": "车",
+    "definition": "Vehicle (e.g., 火车站 - Train station)"
+  },
+  {
+    "day": 1372,
+    "char": "gāo (Mandarin) / gou1 (Cantonese)",
+    "hanzi": "高",
+    "definition": "High / tall (e.g., 高铁 - High-speed rail)"
+  },
+  {
+    "day": 1373,
+    "char": "tiě (Mandarin) / tit3 (Cantonese)",
+    "hanzi": "铁",
+    "definition": "Iron / rail / metal"
+  },
+  {
+    "day": 1374,
+    "char": "dì (Mandarin) / dei6 (Cantonese)",
+    "hanzi": "地",
+    "definition": "Earth / ground (e.g., 地铁 - Subway / Metro)"
+  },
+  {
+    "day": 1375,
+    "char": "tiě (Mandarin) / tit3 (Cantonese)",
+    "hanzi": "铁",
+    "definition": "Rail (Subway / Metro component)"
+  },
+  {
+    "day": 1376,
+    "char": "qì (Mandarin) / hei3 (Cantonese)",
+    "hanzi": "汽",
+    "definition": "Steam / gas (e.g., 汽车 - Automobile / Bus / Coach)"
+  },
+  {
+    "day": 1377,
+    "char": "zhàn (Mandarin) / zaam6 (Cantonese)",
+    "hanzi": "站",
+    "definition": "Station / stop (e.g., 公交站 - Bus stop)"
+  },
+  {
+    "day": 1378,
+    "char": "gōng (Mandarin) / gung1 (Cantonese)",
+    "hanzi": "公",
+    "definition": "Public (e.g., 公交车 - Public bus)"
+  },
+  {
+    "day": 1379,
+    "char": "jiāo (Mandarin) / gaau1 (Cantonese)",
+    "hanzi": "交",
+    "definition": "Deliver / intersect / traffic"
+  },
+  {
+    "day": 1380,
+    "char": "dī (Mandarin) / dik1 (Cantonese)",
+    "hanzi": "的",
+    "definition": "Suffix used in 嘀嗒 or loanword base for taxi (e.g., 打的 - Take a taxi)"
+  },
+  {
+    "day": 1381,
+    "char": "shì (Mandarin) / sik1 (Cantonese)",
+    "hanzi": "适",
+    "definition": "Comfortable (e.g., 舒适 / 出租车 - Taxi)"
+  },
+  {
+    "day": 1382,
+    "char": "zū (Mandarin) / zou1 (Cantonese)",
+    "hanzi": "租",
+    "definition": "To rent / hire (e.g., 出租汽车 / 出租车 - Taxi / Rental car)"
+  },
+  {
+    "day": 1383,
+    "char": "dǎo (Mandarin) / dou2 (Cantonese)",
+    "hanzi": "导",
+    "definition": "Guide / lead (e.g., 导向 / 导航 - Navigation / GPS)"
+  },
+  {
+    "day": 1384,
+    "char": "háng (Mandarin) / hong4 (Cantonese)",
+    "hanzi": "航",
+    "definition": "Navigation / flight"
+  },
+  {
+    "day": 1385,
+    "char": "lù (Mandarin) / lou6 (Cantonese)",
+    "hanzi": "路线",
+    "definition": "Route / itinerary (Character: 线 - Line / Thread)"
+  },
+  {
+    "day": 1386,
+    "char": "xiàn (Mandarin) / sin3 (Cantonese)",
+    "hanzi": "线",
+    "definition": "Line / thread / route (e.g., 地铁一号线 - Metro Line 1)"
+  },
+  {
+    "day": 1387,
+    "char": "huàn (Mandarin) / wun6 (Cantonese)",
+    "hanzi": "换",
+    "definition": "To change / exchange (e.g., 换乘 - Transfer / Change trains/lines)"
+  },
+  {
+    "day": 1388,
+    "char": "chéng (Mandarin) / sing4 (Cantonese)",
+    "hanzi": "乘",
+    "definition": "To ride / mount / multiply (e.g., 乘客 - Passenger)"
+  },
+  {
+    "day": 1389,
+    "char": "kè (Mandarin) / haak3 (Cantonese)",
+    "hanzi": "客",
+    "definition": "Guest / traveler (e.g., 旅客 / 乘客 - Passenger / Traveler)"
+  },
+  {
+    "day": 1390,
+    "char": "wò (Mandarin) / ngok6 (Cantonese)",
+    "hanzi": "卧",
+    "definition": "Lie down (e.g., 软卧 / 硬卧 - Soft/Hard sleeper train berth)"
+  },
+  {
+    "day": 1391,
+    "char": "pù (Mandarin) / pou3 (Cantonese)",
+    "hanzi": "铺",
+    "definition": "Store / bunk / berth (e.g., 下铺 - Lower berth)"
+  },
+  {
+    "day": 1392,
+    "char": "zuò (Mandarin) / zo6 (Cantonese)",
+    "hanzi": "座",
+    "definition": "Seat / stand / base (e.g., 座位 - Seat)"
+  },
+  {
+    "day": 1393,
+    "char": "wèi (Mandarin) / wai2 (Cantonese)",
+    "hanzi": "位",
+    "definition": "Position / place / polite counter for people"
+  },
+  {
+    "day": 1394,
+    "char": "zhǐ (Mandarin) / zi2 (Cantonese)",
+    "hanzi": "直",
+    "definition": "Straight / direct (e.g., 直达 - Direct train/flight)"
+  },
+  {
+    "day": 1395,
+    "char": "wǎn (Mandarin) / maan5 (Cantonese)",
+    "hanzi": "晚",
+    "definition": "Late (e.g., 晚点 - Delayed / Running late)"
+  },
+  {
+    "day": 1396,
+    "char": "diǎn (Mandarin) / dim2 (Cantonese)",
+    "hanzi": "点",
+    "definition": "Dot / point / o'clock"
+  },
+  {
+    "day": 1397,
+    "char": "zhǔn (Mandarin) / zeon2 (Cantonese)",
+    "hanzi": "准",
+    "definition": "Accurate / standard (e.g., 准时 - On time / Punctual)"
+  },
+  {
+    "day": 1398,
+    "char": "shí (Mandarin) / si4 (Cantonese)",
+    "hanzi": "时",
+    "definition": "Time / hour"
+  },
+  {
+    "day": 1399,
+    "char": "chū (Mandarin) / ceot1 (Cantonese)",
+    "hanzi": "出",
+    "definition": "Out (e.g., 出租 - For rent / Taxi sign)"
+  },
+  {
+    "day": 1400,
+    "char": "zū (Mandarin) / zou1 (Cantonese)",
+    "hanzi": "租",
+    "definition": "Rent / hire"
+  },
+  {
+    "day": 1501,
+    "char": "pà (Mandarin) / pa1 (Cantonese)",
+    "hanzi": "怕",
+    "definition": "Afraid"
+  },
+  {
+    "day": 1502,
+    "char": "nǐ (Mandarin) / nei5 (Cantonese)",
+    "hanzi": "你",
+    "definition": "You"
+  },
+  {
+    "day": 1503,
+    "char": "wǒ (Mandarin) / ngo5 (Cantonese)",
+    "hanzi": "我",
+    "definition": "I / me"
+  },
+  {
+    "day": 1504,
+    "char": "xià (Mandarin) / haa6 (Cantonese)",
+    "hanzi": "下",
+    "definition": "Low ranking / down"
+  },
+  {
+    "day": 1505,
+    "char": "hǎo (Mandarin) / hou2 (Cantonese)",
+    "hanzi": "好",
+    "definition": "Good"
+  },
+  {
+    "day": 1506,
+    "char": "xīn (Mandarin) / sam1 (Cantonese)",
+    "hanzi": "心",
+    "definition": "Heart"
+  },
+  {
+    "day": 1507,
+    "char": "shàng (Mandarin) / soeng4 (Cantonese)",
+    "hanzi": "上",
+    "definition": "Up"
+  },
+  {
+    "day": 1508,
+    "char": "tiān (Mandarin) / tin1 (Cantonese)",
+    "hanzi": "天",
+    "definition": "Sky / day"
+  },
+  {
+    "day": 1509,
+    "char": "yǒu (Mandarin) / jau5 (Cantonese)",
+    "hanzi": "有",
+    "definition": "Have / there is"
+  },
+  {
+    "day": 1510,
+    "char": "duō (Mandarin) / do1 (Cantonese)",
+    "hanzi": "多",
+    "definition": "Many / much"
+  },
+  {
+    "day": 1511,
+    "char": "shǎo (Mandarin) / siu2 (Cantonese)",
+    "hanzi": "少",
+    "definition": "Less / few"
+  },
+  {
+    "day": 1512,
+    "char": "xiǎo (Mandarin) / siu2 (Cantonese)",
+    "hanzi": "小",
+    "definition": "Small"
+  },
+  {
+    "day": 1513,
+    "char": "le (Mandarin) / liu5 or laa3 (Cantonese)",
+    "hanzi": "了",
+    "definition": "Dynamic particle (e.g., 好了 OR 食了)"
+  },
+  {
+    "day": 1514,
+    "char": "la (Mandarin) / laa3 (Cantonese)",
+    "hanzi": "喇",
+    "definition": "Colloquial tone particle"
+  },
+  {
+    "day": 1515,
+    "char": "jiā (Mandarin) / gaa1 (Cantonese)",
+    "hanzi": "家",
+    "definition": "Home / family"
+  },
+  {
+    "day": 1516,
+    "char": "zài (Mandarin) / zoi6 (Cantonese)",
+    "hanzi": "在",
+    "definition": "At / in / currently (e.g., zoi gin)"
+  },
+  {
+    "day": 1517,
+    "char": "jiàn (Mandarin) / gin3 (Cantonese)",
+    "hanzi": "见 / 見",
+    "definition": "See"
+  },
+  {
+    "day": 1518,
+    "char": "kàn (Mandarin) / tae3 or hon3 (Cantonese)",
+    "hanzi": "看 / 睇",
+    "definition": "Look (Standard vs Colloquial)"
+  },
+  {
+    "day": 1519,
+    "char": "shì (Mandarin) / hei6 (Cantonese)",
+    "hanzi": "是",
+    "definition": "Yes / to be"
+  },
+  {
+    "day": 1520,
+    "char": "zhè (Mandarin) / ze6 (Cantonese)",
+    "hanzi": "这 / 這",
+    "definition": "This"
+  },
+  {
+    "day": 1521,
+    "char": "tā (Mandarin) / keoi5 (Cantonese)",
+    "hanzi": "佢",
+    "definition": "He / she"
+  },
+  {
+    "day": 1522,
+    "char": "nà ge (Mandarin) / go3 go3 (Cantonese)",
+    "hanzi": "嗰個",
+    "definition": "That (2 words)"
+  },
+  {
+    "day": 1523,
+    "char": "hǎi (Mandarin) / hoi2 (Cantonese)",
+    "hanzi": "海",
+    "definition": "Sea (e.g., 上海)"
+  },
+  {
+    "day": 1524,
+    "char": "chī (Mandarin) / sik1 (Cantonese)",
+    "hanzi": "吃 / 食",
+    "definition": "Eat"
+  },
+  {
+    "day": 1525,
+    "char": "bù (Mandarin) / bat1 (Cantonese)",
+    "hanzi": "不",
+    "definition": "No / not"
+  },
+  {
+    "day": 1526,
+    "char": "mù (Mandarin) / muk6 (Cantonese)",
+    "hanzi": "木",
+    "definition": "Wood"
+  },
+  {
+    "day": 1527,
+    "char": "tóu (Mandarin) / tau4 (Cantonese)",
+    "hanzi": "头 / 頭",
+    "definition": "Head"
+  },
+  {
+    "day": 1528,
+    "char": "shǒu (Mandarin) / sau2 (Cantonese)",
+    "hanzi": "手",
+    "definition": "Hand"
+  },
+  {
+    "day": 1529,
+    "char": "jiǎo (Mandarin) / gaak3 (Cantonese)",
+    "hanzi": "脚 / 腳",
+    "definition": "Foot"
+  },
+  {
+    "day": 1530,
+    "char": "shēn (Mandarin) / san1 (Cantonese)",
+    "hanzi": "身",
+    "definition": "Body"
+  },
+  {
+    "day": 1531,
+    "char": "jī (Mandarin) / gai1 (Cantonese)",
+    "hanzi": "鸡",
+    "definition": "Chicken"
+  },
+  {
+    "day": 1532,
+    "char": "niú (Mandarin) / ngau4 (Cantonese)",
+    "hanzi": "牛",
+    "definition": "Cow / beef"
+  },
+  {
+    "day": 1533,
+    "char": "yú (Mandarin) / jyu4 (Cantonese)",
+    "hanzi": "鱼 / 魚",
+    "definition": "Fish"
+  },
+  {
+    "day": 1534,
+    "char": "yáng (Mandarin) / joeng4 (Cantonese)",
+    "hanzi": "羊",
+    "definition": "Lamb / sheep"
+  },
+  {
+    "day": 1535,
+    "char": "zhū (Mandarin) / zyu1 (Cantonese)",
+    "hanzi": "猪",
+    "definition": "Pork / pig"
+  },
+  {
+    "day": 1536,
+    "char": "wén (Mandarin) / man4 (Cantonese)",
+    "hanzi": "文",
+    "definition": "Text / words"
+  },
+  {
+    "day": 1537,
+    "char": "kǒu (Mandarin) / hau2 (Cantonese)",
+    "hanzi": "口",
+    "definition": "Mouth"
+  },
+  {
+    "day": 1538,
+    "char": "rì (Mandarin) / jat6 (Cantonese)",
+    "hanzi": "日",
+    "definition": "Day"
+  },
+  {
+    "day": 1539,
+    "char": "rì qī (Mandarin) / jat6 kei4 (Cantonese)",
+    "hanzi": "日期",
+    "definition": "Date (2 words)"
+  },
+  {
+    "day": 1540,
+    "char": "chē (Mandarin) / ce1 (Cantonese)",
+    "hanzi": "车 / 車",
+    "definition": "Car / vehicle"
+  },
+  {
+    "day": 1541,
+    "char": "mǐ (Mandarin) / mai5 (Cantonese)",
+    "hanzi": "米",
+    "definition": "Meter / rice"
+  },
+  {
+    "day": 1542,
+    "char": "fàn (Mandarin) / faan6 (Cantonese)",
+    "hanzi": "饭 / 飯",
+    "definition": "Cooked rice"
+  },
+  {
+    "day": 1543,
+    "char": "huǒ (Mandarin) / fo2 (Cantonese)",
+    "hanzi": "火",
+    "definition": "Fire"
+  },
+  {
+    "day": 1544,
+    "char": "shuǐ (Mandarin) / seoi2 (Cantonese)",
+    "hanzi": "水",
+    "definition": "Water"
+  },
+  {
+    "day": 1545,
+    "char": "bīng (Mandarin) / bing1 (Cantonese)",
+    "hanzi": "冰",
+    "definition": "Ice"
+  },
+  {
+    "day": 1546,
+    "char": "běn shì (Mandarin) / bun2 si6 (Cantonese)",
+    "hanzi": "本事",
+    "definition": "Ability / capability (2 words)"
+  },
+  {
+    "day": 1547,
+    "char": "bān (Mandarin) / bun1 (Cantonese)",
+    "hanzi": "搬",
+    "definition": "Move something"
+  },
+  {
+    "day": 1548,
+    "char": "wū (Mandarin) / uk1 (Cantonese)",
+    "hanzi": "屋",
+    "definition": "House"
+  },
+  {
+    "day": 1549,
+    "char": "jiē (Mandarin) / gaai1 (Cantonese)",
+    "hanzi": "街",
+    "definition": "Street"
+  },
+  {
+    "day": 1550,
+    "char": "de (Mandarin) / ge3 (Cantonese)",
+    "hanzi": "的",
+    "definition": "Possessive particle (e.g., Gnor ge)"
+  },
+  {
+    "day": 1551,
+    "char": "bāo (Mandarin) / baau1 (Cantonese)",
+    "hanzi": "包",
+    "definition": "Bread (e.g., 面包)"
+  },
+  {
+    "day": 1552,
+    "char": "miàn (Mandarin) / min6 (Cantonese)",
+    "hanzi": "面",
+    "definition": "Noodles / face"
+  },
+  {
+    "day": 1553,
+    "char": "suì (Mandarin) / seoi3 (Cantonese)",
+    "hanzi": "岁",
+    "definition": "Age (years old)"
+  },
+  {
+    "day": 1554,
+    "char": "běi (Mandarin) / buk1 (Cantonese)",
+    "hanzi": "北",
+    "definition": "North"
+  },
+  {
+    "day": 1555,
+    "char": "dōng (Mandarin) / dung1 (Cantonese)",
+    "hanzi": "东",
+    "definition": "East"
+  },
+  {
+    "day": 1556,
+    "char": "nán (Mandarin) / naam4 (Cantonese)",
+    "hanzi": "南",
+    "definition": "South"
+  },
+  {
+    "day": 1557,
+    "char": "xī (Mandarin) / sai1 (Cantonese)",
+    "hanzi": "西",
+    "definition": "West"
+  },
+  {
+    "day": 1558,
+    "char": "luò (Mandarin) / lok6 (Cantonese)",
+    "hanzi": "落",
+    "definition": "Down"
+  },
+  {
+    "day": 1559,
+    "char": "zuò (Mandarin) / zou6 (Cantonese)",
+    "hanzi": "做",
+    "definition": "Do / to do (e.g., jouw yea)"
+  },
+  {
+    "day": 1560,
+    "char": "tài (Mandarin) / taai3 (Cantonese)",
+    "hanzi": "太",
+    "definition": "Too / too much (e.g., tai dor)"
+  },
+  {
+    "day": 1561,
+    "char": "dǒng (Mandarin) / dung2 (Cantonese)",
+    "hanzi": "懂",
+    "definition": "Understand"
+  },
+  {
+    "day": 1562,
+    "char": "zhǐ (Mandarin) / zi2 or zik6 (Cantonese)",
+    "hanzi": "只",
+    "definition": "Just / only (e.g., 只是)"
+  },
+  {
+    "day": 1563,
+    "char": "mén (Mandarin) / mun4 (Cantonese)",
+    "hanzi": "门 / 門",
+    "definition": "Door"
+  },
+  {
+    "day": 1564,
+    "char": "men (Mandarin) / mun4 or dei6 (Cantonese)",
+    "hanzi": "们 / 們",
+    "definition": "We / plural suffix (e.g., 我们)"
+  },
+  {
+    "day": 1565,
+    "char": "méi (Mandarin) / mou5 (Cantonese)",
+    "hanzi": "沒",
+    "definition": "Don't / without (e.g., 沒有)"
+  },
+  {
+    "day": 1566,
+    "char": "yě / dōu (Mandarin) / jaa5 / dou1 (Cantonese)",
+    "hanzi": "也 / 都",
+    "definition": "Also / both (e.g., 我也是)"
+  },
+  {
+    "day": 1567,
+    "char": "zhī (Mandarin) / zi1 (Cantonese)",
+    "hanzi": "之",
+    "definition": "Structural particle (e.g., 芝士 / 之)"
+  },
+  {
+    "day": 1568,
+    "char": "měi (Mandarin) / mui5 (Cantonese)",
+    "hanzi": "每",
+    "definition": "Every (e.g., 每一个)"
+  },
+  {
+    "day": 1569,
+    "char": "gè (Mandarin) / go3 (Cantonese)",
+    "hanzi": "个 / 個",
+    "definition": "Individual / measure word"
+  },
+  {
+    "day": 1570,
+    "char": "diǎn (Mandarin) / dim2 (Cantonese)",
+    "hanzi": "点 / 點",
+    "definition": "Dot / o'clock / turn on (e.g., 点灯)"
+  },
+  {
+    "day": 1571,
+    "char": "dēng (Mandarin) / dang1 (Cantonese)",
+    "hanzi": "灯",
+    "definition": "Light source (e.g., 点灯)"
+  },
+  {
+    "day": 1572,
+    "char": "zǒu (Mandarin) / zau2 (Cantonese)",
+    "hanzi": "走",
+    "definition": "Leave / go"
+  },
+  {
+    "day": 1573,
+    "char": "yuǎn (Mandarin) / jyun5 (Cantonese)",
+    "hanzi": "远",
+    "definition": "Far (e.g., 走远)"
+  },
+  {
+    "day": 1574,
+    "char": "yīn (Mandarin) / jan1 (Cantonese)",
+    "hanzi": "因",
+    "definition": "Because (e.g., 因为)"
+  },
+  {
+    "day": 1575,
+    "char": "wèi (Mandarin) / wai6 (Cantonese)",
+    "hanzi": "为 / 為",
+    "definition": "For / because of (e.g., 为你)"
+  },
+  {
+    "day": 1576,
+    "char": "yǐ (Mandarin) / ji5 (Cantonese)",
+    "hanzi": "以",
+    "definition": "To use / by means of (e.g., 以為)"
+  },
+  {
+    "day": 1577,
+    "char": "sì (Mandarin) / ci5 (Cantonese)",
+    "hanzi": "似",
+    "definition": "Similar / like"
+  },
+  {
+    "day": 1578,
+    "char": "zuò (Mandarin) / zou6 (Cantonese)",
+    "hanzi": "做",
+    "definition": "Do / work (e.g., jou gong)"
+  },
+  {
+    "day": 1579,
+    "char": "jiàn (Mandarin) / gin6 (Cantonese)",
+    "hanzi": "件",
+    "definition": "Measure word for matters/items (e.g., 一件事)"
+  },
+  {
+    "day": 1580,
+    "char": "jiàn (Mandarin) / gin3 (Cantonese)",
+    "hanzi": "見",
+    "definition": "See (e.g., 我見到你)"
+  },
+  {
+    "day": 1581,
+    "char": "dào (Mandarin) / dou3 (Cantonese)",
+    "hanzi": "到",
+    "definition": "Arrive / to (e.g., 我見到你)"
+  },
+  {
+    "day": 1582,
+    "char": "shì (Mandarin) / si6 (Cantonese)",
+    "hanzi": "事",
+    "definition": "Thing / action (e.g., 一件事)"
+  },
+  {
+    "day": 1583,
+    "char": "yào (Mandarin) / jiu3 (Cantonese)",
+    "hanzi": "要",
+    "definition": "Need / want"
+  },
+  {
+    "day": 1584,
+    "char": "lái (Mandarin) / loi4 (Cantonese)",
+    "hanzi": "來",
+    "definition": "Come"
+  },
+  {
+    "day": 1585,
+    "char": "huí (Mandarin) / wui4 (Cantonese)",
+    "hanzi": "回",
+    "definition": "Return (e.g., 回家)"
+  },
+  {
+    "day": 1586,
+    "char": "fǎn (Mandarin) / faan2 (Cantonese)",
+    "hanzi": "返",
+    "definition": "Return (e.g., 返來)"
+  },
+  {
+    "day": 1587,
+    "char": "rú (Mandarin) / jyu4 (Cantonese)",
+    "hanzi": "如",
+    "definition": "If / like (e.g., 如果)"
+  },
+  {
+    "day": 1588,
+    "char": "guǒ (Mandarin) / gwo2 (Cantonese)",
+    "hanzi": "果",
+    "definition": "Fruit / result (e.g., 如果)"
+  },
+  {
+    "day": 1589,
+    "char": "míng (Mandarin) / ming4 (Cantonese)",
+    "hanzi": "明",
+    "definition": "Bright / clear / next (e.g., 明天 / 明白)"
+  },
+  {
+    "day": 1590,
+    "char": "bái (Mandarin) / baak6 (Cantonese)",
+    "hanzi": "白",
+    "definition": "White / clear (e.g., 明白)"
+  },
+  {
+    "day": 1591,
+    "char": "sè (Mandarin) / sik1 (Cantonese)",
+    "hanzi": "色",
+    "definition": "Color (e.g., 白色)"
+  },
+  {
+    "day": 1592,
+    "char": "nán (Mandarin) / naam4 (Cantonese)",
+    "hanzi": "男",
+    "definition": "Male (e.g., 男人)"
+  },
+  {
+    "day": 1593,
+    "char": "nǚ (Mandarin) / neoi5 (Cantonese)",
+    "hanzi": "女",
+    "definition": "Female (e.g., 女人)"
+  },
+  {
+    "day": 1594,
+    "char": "ér zi / zǎi (Mandarin) / ji4 zi2 / zai2 (Cantonese)",
+    "hanzi": "儿子 / 仔",
+    "definition": "Son"
+  },
+  {
+    "day": 1595,
+    "char": "nǚ ér (Mandarin) / neoi5 ji4 (Cantonese)",
+    "hanzi": "女儿",
+    "definition": "Daughter"
+  },
+  {
+    "day": 1596,
+    "char": "me (Mandarin) / mo1 (Cantonese)",
+    "hanzi": "么 / 麼",
+    "definition": "What / interrogative suffix (e.g., 什么)"
+  },
+  {
+    "day": 1597,
+    "char": "shén (Mandarin) / sam4 (Cantonese)",
+    "hanzi": "什",
+    "definition": "What component (e.g., 什么)"
+  },
+  {
+    "day": 1598,
+    "char": "ròu (Mandarin) / juk6 (Cantonese)",
+    "hanzi": "肉",
+    "definition": "Meat (e.g., 牛肉)"
+  },
+  {
+    "day": 1599,
+    "char": "hǎi (Mandarin) / hoi2 (Cantonese)",
+    "hanzi": "海",
+    "definition": "Sea (e.g., 海鮮)"
+  },
+  {
+    "day": 1600,
+    "char": "xiān (Mandarin) / sin1 (Cantonese)",
+    "hanzi": "鮮",
+    "definition": "Fresh (e.g., 海鮮)"
+  },
+  {
+    "day": 1601,
+    "char": "kě (Mandarin) / ho2 (Cantonese)",
+    "hanzi": "可",
+    "definition": "Can (e.g., 不可以)"
+  },
+  {
+    "day": 1602,
+    "char": "yǐ (Mandarin) / ji5 (Cantonese)",
+    "hanzi": "以",
+    "definition": "By / with (e.g., 不可以)"
+  },
+  {
+    "day": 1603,
+    "char": "ài (Mandarin) / oi3 (Cantonese)",
+    "hanzi": "爱 / 愛",
+    "definition": "Love (e.g., 我愛你)"
+  },
+  {
+    "day": 1604,
+    "char": "huā (Mandarin) / faa1 (Cantonese)",
+    "hanzi": "花",
+    "definition": "Flower"
+  },
+  {
+    "day": 1605,
+    "char": "gǎn jué (Mandarin) / gam2 gok3 (Cantonese)",
+    "hanzi": "感觉",
+    "definition": "Feeling"
+  },
+  {
+    "day": 1606,
+    "char": "yī qǐ (Mandarin) / jat1 cai4 (Cantonese)",
+    "hanzi": "一起 / 一齊",
+    "definition": "Together"
+  },
+  {
+    "day": 1607,
+    "char": "chuáng (Mandarin) / cong4 (Cantonese)",
+    "hanzi": "床",
+    "definition": "Bed"
+  },
+  {
+    "day": 1608,
+    "char": "lì (Mandarin) / lik6 (Cantonese)",
+    "hanzi": "力",
+    "definition": "Strength / force"
+  },
+  {
+    "day": 1609,
+    "char": "xiào (Mandarin) / siu3 (Cantonese)",
+    "hanzi": "笑",
+    "definition": "Smile / laugh"
+  },
+  {
+    "day": 1610,
+    "char": "shéi (Mandarin) / seoi4 (Cantonese)",
+    "hanzi": "谁 / 誰",
+    "definition": "Who (e.g., 这是誰)"
+  },
+  {
+    "day": 1611,
+    "char": "zhè shì shén me (Mandarin) / ze6 si6 sam4 mo1 (Cantonese)",
+    "hanzi": "这是什么",
+    "definition": "What is this (Phrase)"
+  },
+  {
+    "day": 1612,
+    "char": "xué (Mandarin) / hok6 (Cantonese)",
+    "hanzi": "学 / 學",
+    "definition": "Learn / study"
+  },
+  {
+    "day": 1613,
+    "char": "zài (Mandarin) / hai2 (Cantonese)",
+    "hanzi": "在 / 喺",
+    "definition": "Currently / here (e.g., 我在学中文)"
+  },
+  {
+    "day": 1614,
+    "char": "qù (Mandarin) / heoi3 (Cantonese)",
+    "hanzi": "去",
+    "definition": "Go"
+  },
+  {
+    "day": 1615,
+    "char": "ràng (Mandarin) / joeng6 (Cantonese)",
+    "hanzi": "让",
+    "definition": "Let"
+  },
+  {
+    "day": 1616,
+    "char": "gěi (Mandarin) / kap1 (Cantonese)",
+    "hanzi": "给 / 給",
+    "definition": "Give"
+  },
+  {
+    "day": 1617,
+    "char": "xiān (Mandarin) / sin1 (Cantonese)",
+    "hanzi": "先",
+    "definition": "First / before (e.g., 我让你去先)"
+  },
+  {
+    "day": 1618,
+    "char": "yǐ jīng (Mandarin) / ji5 ging1 (Cantonese)",
+    "hanzi": "已经 / 已經",
+    "definition": "Already"
+  },
+  {
+    "day": 1619,
+    "char": "zuò le (Mandarin) / zou6 zo2 (Cantonese)",
+    "hanzi": "做了 / 做咗",
+    "definition": "Did it"
+  },
+  {
+    "day": 1620,
+    "char": "nián (Mandarin) / nin4 (Cantonese)",
+    "hanzi": "年",
+    "definition": "Year"
+  },
+  {
+    "day": 1621,
+    "char": "mù hǎi (Mandarin) / m4 hai6 (Cantonese)",
+    "hanzi": "唔係",
+    "definition": "Not"
+  },
+  {
+    "day": 1622,
+    "char": "méi (Mandarin) / mut6 (Cantonese)",
+    "hanzi": "没",
+    "definition": "None / without"
+  },
+  {
+    "day": 1623,
+    "char": "fēng (Mandarin) / fung1 (Cantonese)",
+    "hanzi": "风 / 風",
+    "definition": "Wind"
+  },
+  {
+    "day": 1624,
+    "char": "yè (Mandarin) / je6 (Cantonese)",
+    "hanzi": "夜",
+    "definition": "Late / night"
+  },
+  {
+    "day": 1625,
+    "char": "wǎn (Mandarin) / maan5 (Cantonese)",
+    "hanzi": "晚",
+    "definition": "Night"
+  },
+  {
+    "day": 1626,
+    "char": "gāo (Mandarin) / gou1 (Cantonese)",
+    "hanzi": "高",
+    "definition": "High"
+  },
+  {
+    "day": 1627,
+    "char": "chī (Mandarin) / sik1 (Cantonese)",
+    "hanzi": "吃 / 食",
+    "definition": "Eat"
+  },
+  {
+    "day": 1628,
+    "char": "yǐn (Mandarin) / jam2 (Cantonese)",
+    "hanzi": "飲",
+    "definition": "Drink"
+  },
+  {
+    "day": 1629,
+    "char": "gèng (Mandarin) / gang3 (Cantonese)",
+    "hanzi": "更",
+    "definition": "More / even more (e.g., 比我更多)"
+  },
+  {
+    "day": 1630,
+    "char": "bǐ (Mandarin) / bei2 (Cantonese)",
+    "hanzi": "比",
+    "definition": "Compare (e.g., 比我更多)"
+  },
+  {
+    "day": 1631,
+    "char": "pàn (Mandarin) / paan3 (Cantonese)",
+    "hanzi": "盼",
+    "definition": "Hope"
+  },
+  {
+    "day": 1632,
+    "char": "gōng lǐ (Mandarin) / gung1 lei5 (Cantonese)",
+    "hanzi": "公里",
+    "definition": "Kilometer"
+  },
+  {
+    "day": 1633,
+    "char": "chū (Mandarin) / ceot1 (Cantonese)",
+    "hanzi": "出",
+    "definition": "Out (e.g., 出口)"
+  },
+  {
+    "day": 1634,
+    "char": "kǒu (Mandarin) / hau2 (Cantonese)",
+    "hanzi": "口",
+    "definition": "Mouth"
+  },
+  {
+    "day": 1635,
+    "char": "píng (Mandarin) / ping4 (Cantonese)",
+    "hanzi": "平",
+    "definition": "Flat / cheap"
+  },
+  {
+    "day": 1636,
+    "char": "yòu (Mandarin) / jau6 (Cantonese)",
+    "hanzi": "又",
+    "definition": "Again (e.g., 又有)"
+  },
+  {
+    "day": 1637,
+    "char": "wǎn (Mandarin) / wan2 (Cantonese)",
+    "hanzi": "搵",
+    "definition": "Find"
+  },
+  {
+    "day": 1638,
+    "char": "yě / dōng xī (Mandarin) / je5 / dung1 sai1 (Cantonese)",
+    "hanzi": "嘢 / 東西",
+    "definition": "Things / stuff (e.g., 好嘢)"
+  },
+  {
+    "day": 1639,
+    "char": "gòu (Mandarin) / gau3 (Cantonese)",
+    "hanzi": "夠",
+    "definition": "Enough"
+  },
+  {
+    "day": 1640,
+    "char": "fàng (Mandarin) / fong3 (Cantonese)",
+    "hanzi": "放",
+    "definition": "Put / let go (e.g., 放開手)"
+  },
+  {
+    "day": 1641,
+    "char": "yóu (Mandarin) / jau4 (Cantonese)",
+    "hanzi": "由",
+    "definition": "From / by (e.g., 由佢決定)"
+  },
+  {
+    "day": 1642,
+    "char": "jué dìng (Mandarin) / kyut3 ding6 (Cantonese)",
+    "hanzi": "決定",
+    "definition": "Decide"
+  },
+  {
+    "day": 1643,
+    "char": "fēi cháng (Mandarin) / fei1 soeng4 (Cantonese)",
+    "hanzi": "非常",
+    "definition": "Very"
+  },
+  {
+    "day": 1644,
+    "char": "fǎn (Mandarin) / faan2 (Cantonese)",
+    "hanzi": "反",
+    "definition": "Flip / reverse"
+  },
+  {
+    "day": 1645,
+    "char": "yǒu (Mandarin) / jau5 (Cantonese)",
+    "hanzi": "友",
+    "definition": "Friend"
+  },
+  {
+    "day": 1646,
+    "char": "péng yǒu (Mandarin) / pang4 jau5 (Cantonese)",
+    "hanzi": "朋友",
+    "definition": "Friend"
+  },
+  {
+    "day": 1647,
+    "char": "zú gòu (Mandarin) / zuk1 gau3 (Cantonese)",
+    "hanzi": "足夠",
+    "definition": "Enough"
+  },
+  {
+    "day": 1648,
+    "char": "shēn (Mandarin) / sam1 (Cantonese)",
+    "hanzi": "深",
+    "definition": "Deep"
+  },
+  {
+    "day": 1649,
+    "char": "zǎo (Mandarin) / zou2 (Cantonese)",
+    "hanzi": "早",
+    "definition": "Early (e.g., 早上)"
+  },
+  {
+    "day": 1650,
+    "char": "jù (Mandarin) / geoi3 (Cantonese)",
+    "hanzi": "句",
+    "definition": "Sentence"
+  },
+  {
+    "day": 1651,
+    "char": "zì (Mandarin) / zi6 (Cantonese)",
+    "hanzi": "字",
+    "definition": "Word (e.g., 中文字)"
+  },
+  {
+    "day": 1652,
+    "char": "ní ge (Mandarin) / ni1 go3 (Cantonese)",
+    "hanzi": "呢個",
+    "definition": "This"
+  },
+  {
+    "day": 1653,
+    "char": "cǐ (Mandarin) / ci2 (Cantonese)",
+    "hanzi": "此",
+    "definition": "This"
+  },
+  {
+    "day": 1654,
+    "char": "zì jǐ (Mandarin) / zi6 gei2 (Cantonese)",
+    "hanzi": "自己",
+    "definition": "Myself"
+  },
+  {
+    "day": 1655,
+    "char": "suì (Mandarin) / seoi3 (Cantonese)",
+    "hanzi": "碎",
+    "definition": "Shatter (e.g., 心碎)"
+  },
+  {
+    "day": 1656,
+    "char": "jiān (Mandarin) / gaan1 (Cantonese)",
+    "hanzi": "間",
+    "definition": "Measure word for rooms/spaces (e.g., 空間)"
+  },
+  {
+    "day": 1657,
+    "char": "kōng (Mandarin) / hung1 (Cantonese)",
+    "hanzi": "空",
+    "definition": "Empty (e.g., 空間)"
+  },
+  {
+    "day": 1658,
+    "char": "shí (Mandarin) / si4 (Cantonese)",
+    "hanzi": "時",
+    "definition": "Time (e.g., 時間)"
+  },
+  {
+    "day": 1659,
+    "char": "pèi (Mandarin) / pui3 (Cantonese)",
+    "hanzi": "配",
+    "definition": "Match"
+  },
+  {
+    "day": 1660,
+    "char": "kuài (Mandarin) / faai3 (Cantonese)",
+    "hanzi": "快",
+    "definition": "Fast"
+  },
+  {
+    "day": 1661,
+    "char": "màn (Mandarin) / maan6 (Cantonese)",
+    "hanzi": "慢",
+    "definition": "Slow"
+  },
+  {
+    "day": 1662,
+    "char": "gēn (Mandarin) / gan1 (Cantonese)",
+    "hanzi": "跟",
+    "definition": "Follow (e.g., 跟你)"
+  },
+  {
+    "day": 1663,
+    "char": "kāi shǐ (Mandarin) / hoi1 ci2 (Cantonese)",
+    "hanzi": "開始",
+    "definition": "Start / begin"
+  },
+  {
+    "day": 1664,
+    "char": "cì (Mandarin) / ci3 (Cantonese)",
+    "hanzi": "次",
+    "definition": "Occurrences (e.g., 一次)"
+  },
+  {
+    "day": 1665,
+    "char": "chóng (Mandarin) / cung4 (Cantonese)",
+    "hanzi": "重",
+    "definition": "Heavy / again (e.g., 重新開始)"
+  },
+  {
+    "day": 1666,
+    "char": "pǐn (Mandarin) / ban2 (Cantonese)",
+    "hanzi": "品",
+    "definition": "Product / article (e.g., 食品)"
+  },
+  {
+    "day": 1667,
+    "char": "jì (Mandarin) / gwai3 (Cantonese)",
+    "hanzi": "季",
+    "definition": "Season (e.g., 一年有四季)"
+  },
+  {
+    "day": 1668,
+    "char": "lǐ xiǎng (Mandarin) / lei5 soeng2 (Cantonese)",
+    "hanzi": "理想",
+    "definition": "Dream / goal"
+  },
+  {
+    "day": 1669,
+    "char": "méi / mǒu (Mandarin) / mou5 (Cantonese)",
+    "hanzi": "沒 / 冇",
+    "definition": "Nothing / don't have"
+  },
+  {
+    "day": 1670,
+    "char": "cún (Mandarin) / cyun4 (Cantonese)",
+    "hanzi": "存",
+    "definition": "Save / preserve (e.g., 存钱)"
+  },
+  {
+    "day": 1671,
+    "char": "qián (Mandarin) / cin4 (Cantonese)",
+    "hanzi": "錢 / 钱",
+    "definition": "Money (e.g., 存钱)"
+  },
+  {
+    "day": 1672,
+    "char": "fēn (Mandarin) / fan1 (Cantonese)",
+    "hanzi": "分",
+    "definition": "Point / minute"
+  },
+  {
+    "day": 1673,
+    "char": "zài (Mandarin) / zoi3 (Cantonese)",
+    "hanzi": "再",
+    "definition": "Again (e.g., 再見)"
+  },
+  {
+    "day": 1674,
+    "char": "mèng (Mandarin) / mung6 (Cantonese)",
+    "hanzi": "梦",
+    "definition": "Dream (e.g., 梦想)"
+  },
+  {
+    "day": 1675,
+    "char": "xiàng (Mandarin) / hoeng3 (Cantonese)",
+    "hanzi": "向",
+    "definition": "Toward"
+  },
+  {
+    "day": 1676,
+    "char": "jīn (Mandarin) / gam1 (Cantonese)",
+    "hanzi": "今",
+    "definition": "Current (e.g., 今日)"
+  },
+  {
+    "day": 1677,
+    "char": "ge (Mandarin) / ge3 (Cantonese)",
+    "hanzi": "嘅",
+    "definition": "Possessive particle (e.g., 我嘅書)"
+  },
+  {
+    "day": 1678,
+    "char": "shū (Mandarin) / syu1 (Cantonese)",
+    "hanzi": "書",
+    "definition": "Book (e.g., 我嘅書)"
+  },
+  {
+    "day": 1679,
+    "char": "gū (Mandarin) / guu1 (Cantonese)",
+    "hanzi": "估",
+    "definition": "Guess (e.g., 估唔到)"
+  },
+  {
+    "day": 1680,
+    "char": "dào (Mandarin) / dou3 (Cantonese)",
+    "hanzi": "到",
+    "definition": "Arrived (e.g., 估唔到)"
+  },
+  {
+    "day": 1681,
+    "char": "tóng (Mandarin) / tung4 (Cantonese)",
+    "hanzi": "同",
+    "definition": "With (e.g., 我同你)"
+  },
+  {
+    "day": 1682,
+    "char": "nài (Mandarin) / noi6 (Cantonese)",
+    "hanzi": "耐",
+    "definition": "Long time"
+  },
+  {
+    "day": 1683,
+    "char": "guā (Mandarin) / gwaa1 (Cantonese)",
+    "hanzi": "瓜",
+    "definition": "Melon"
+  },
+  {
+    "day": 1684,
+    "char": "lǎo (Mandarin) / lou5 (Cantonese)",
+    "hanzi": "老",
+    "definition": "Old"
+  },
+  {
+    "day": 1685,
+    "char": "dé (Mandarin) / dak1 (Cantonese)",
+    "hanzi": "得",
+    "definition": "Ok / can"
+  },
+  {
+    "day": 1686,
+    "char": "děng (Mandarin) / dang2 (Cantonese)",
+    "hanzi": "等",
+    "definition": "Wait"
+  },
+  {
+    "day": 1687,
+    "char": "rù (Mandarin) / jap6 (Cantonese)",
+    "hanzi": "入",
+    "definition": "Enter (e.g., 入口)"
+  },
+  {
+    "day": 1688,
+    "char": "shù (Mandarin) / syu6 (Cantonese)",
+    "hanzi": "树 / 樹",
+    "definition": "Tree"
+  },
+  {
+    "day": 1689,
+    "char": "lín (Mandarin) / lam4 (Cantonese)",
+    "hanzi": "林",
+    "definition": "Woods / forest (e.g., 樹林)"
+  },
+  {
+    "day": 1690,
+    "char": "lín (Mandarin) / lam4 (Cantonese)",
+    "hanzi": "淋",
+    "definition": "Watering something (e.g., 淋水)"
+  },
+  {
+    "day": 1691,
+    "char": "wèi (Mandarin) / mei6 (Cantonese)",
+    "hanzi": "末",
+    "definition": "Not yet"
+  },
+  {
+    "day": 1692,
+    "char": "dì (Mandarin) / dei6 (Cantonese)",
+    "hanzi": "地",
+    "definition": "Ground"
+  },
+  {
+    "day": 1693,
+    "char": "dei (Mandarin) / dei6 (Cantonese)",
+    "hanzi": "哋",
+    "definition": "Plural suffix (e.g., 我哋)"
+  },
+  {
+    "day": 1694,
+    "char": "fàng (Mandarin) / fong3 (Cantonese)",
+    "hanzi": "放",
+    "definition": "Let go / put down (e.g., 放手)"
+  },
+  {
+    "day": 1695,
+    "char": "yòng (Mandarin) / jung6 (Cantonese)",
+    "hanzi": "用",
+    "definition": "Use"
+  },
+  {
+    "day": 1696,
+    "char": "ān lè (Mandarin) / on1 lok6 (Cantonese)",
+    "hanzi": "安樂",
+    "definition": "Peace / happiness"
+  },
+  {
+    "day": 1697,
+    "char": "nǎi lào / zhī shì (Mandarin) / nai5 lok6 / zi1 si6 (Cantonese)",
+    "hanzi": "奶酪 / 芝士",
+    "definition": "Cheese"
+  },
+  {
+    "day": 1698,
+    "char": "xǐ huān (Mandarin) / jung2 ji3 (Cantonese)",
+    "hanzi": "喜欢 / 鍾意",
+    "definition": "Like"
+  },
+  {
+    "day": 1699,
+    "char": "dī (Mandarin) / di1 (Cantonese)",
+    "hanzi": "啲",
+    "definition": "A little (e.g., 有啲可愛)"
+  },
+  {
+    "day": 1700,
+    "char": "yàng (Mandarin) / joeng6 (Cantonese)",
+    "hanzi": "樣",
+    "definition": "Looks / alike (e.g., 一樣)"
+  },
+  {
+    "day": 1701,
+    "char": "mǎ (Mandarin) / maa5 (Cantonese)",
+    "hanzi": "馬",
+    "definition": "Horse"
+  },
+  {
+    "day": 1702,
+    "char": "bì (Mandarin) / bei2 (Cantonese)",
+    "hanzi": "畀",
+    "definition": "Give (e.g., 畀我啦)"
+  },
+  {
+    "day": 1703,
+    "char": "lā (Mandarin) / laa1 (Cantonese)",
+    "hanzi": "啦",
+    "definition": "Exclamatory particle (e.g., 快啲啦)"
+  },
+  {
+    "day": 1704,
+    "char": "yǔ (Mandarin) / jyu5 (Cantonese)",
+    "hanzi": "语 / 語",
+    "definition": "Language"
   }
 ]
